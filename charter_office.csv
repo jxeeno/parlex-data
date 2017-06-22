@@ -1,4 +1,549 @@
 entry_id,parl_id,source_id,details,start_date,end_date,origin,destination,amount,superscript,adjustment,notes,linked_entry,source_pdf,source_pagenum
+P33_ABETZ_Eric_32_3,ABETZ_Eric,P33_ABETZ_Eric,"King Island 7 Jun 13",2013-06-07,0000-00-00,"King Island",,104.36,,,,,P33_ABETZ_Eric.pdf,32
+P33_ABETZ_Eric_32_4,ABETZ_Eric,P33_ABETZ_Eric,"Melbourne to King Island 7 Jun 13",2013-06-07,0000-00-00,Melbourne,"King Island",5818.18,,,,,P33_ABETZ_Eric.pdf,32
+P33_ABETZ_Eric_32_5,ABETZ_Eric,P33_ABETZ_Eric,"King Island to Hobart 7 Jun 13",2013-06-07,0000-00-00,"King Island",Hobart,0.00,,,,P33_ABETZ_Eric_32_4,P33_ABETZ_Eric.pdf,32
+P33_BURKE_Tony_29_3,BURKE_Tony,P33_BURKE_Tony,"Cairns to Lockhart River 27 Feb 13",2013-02-27,0000-00-00,Cairns,"Lockhart River",-1405.46,,Y,,,P33_BURKE_Tony.pdf,29
+P33_BURKE_Tony_29_4,BURKE_Tony,P33_BURKE_Tony,"Lockhart River to Weipa 27 Feb 13",2013-02-27,0000-00-00,"Lockhart River",Weipa,0.00,,Y,,P33_BURKE_Tony_29_3,P33_BURKE_Tony.pdf,29
+P33_BURKE_Tony_29_5,BURKE_Tony,P33_BURKE_Tony,"Weipa to Laura 28 Feb 13",2013-02-28,0000-00-00,Weipa,Laura,0.00,,Y,,P33_BURKE_Tony_29_3,P33_BURKE_Tony.pdf,29
+P33_BURKE_Tony_29_6,BURKE_Tony,P33_BURKE_Tony,"Laura 28 Feb 13",2013-02-28,0000-00-00,Laura,,0.00,,Y,,P33_BURKE_Tony_29_3,P33_BURKE_Tony.pdf,29
+P33_BURKE_Tony_29_7,BURKE_Tony,P33_BURKE_Tony,"Laura to Cairns 28 Feb 13",2013-02-28,0000-00-00,Laura,Cairns,0.00,,Y,,P33_BURKE_Tony_29_3,P33_BURKE_Tony.pdf,29
+P34_ABETZ_Eric_30_3,ABETZ_Eric,P34_ABETZ_Eric,"Cambridge to Devonport 17 Dec 13",2013-12-17,0000-00-00,Cambridge,Devonport,2000.00,,,,,P34_ABETZ_Eric.pdf,30
+P34_ABETZ_Eric_30_4,ABETZ_Eric,P34_ABETZ_Eric,"Devonport to Cambridge 17 Dec 13",2013-12-17,0000-00-00,Devonport,Cambridge,0.00,,,,P34_ABETZ_Eric_30_3,P34_ABETZ_Eric.pdf,30
+P34_ABETZ_Eric_30_5,ABETZ_Eric,P34_ABETZ_Eric,"Devonport 17 Dec 13",2013-12-17,0000-00-00,Devonport,,64.69,,,,,P34_ABETZ_Eric.pdf,30
+P35_ABETZ_Eric_10_3,ABETZ_Eric,P35_ABETZ_Eric,"Melbourne Essendon Airport to Nhill 15 Oct 14",2014-10-15,0000-00-00,"Melbourne Essendon Airport",Nhill,2681.82,,,,,P35_ABETZ_Eric.pdf,10
+P35_ABETZ_Eric_10_4,ABETZ_Eric,P35_ABETZ_Eric,"Nhill to Melbourne Essendon Airport 15 Oct 14",2014-10-15,0000-00-00,Nhill,"Melbourne Essendon Airport",0.00,,,,P35_ABETZ_Eric_10_3,P35_ABETZ_Eric.pdf,10
+P35_ABETZ_Eric_10_5,ABETZ_Eric,P35_ABETZ_Eric,"Cambridge to Canberra 14 Nov 14",2014-11-14,0000-00-00,Cambridge,Canberra,7018.18,,,,,P35_ABETZ_Eric.pdf,10
+P35_ABETZ_Eric_10_6,ABETZ_Eric,P35_ABETZ_Eric,"Canberra to Cambridge 14 Nov 14",2014-11-14,0000-00-00,Canberra,Cambridge,0.00,,,,P35_ABETZ_Eric_10_5,P35_ABETZ_Eric.pdf,10
+P35_ABETZ_Eric_29_3,ABETZ_Eric,P35_ABETZ_Eric,"Devonport 6 Jun 14",2014-06-06,0000-00-00,Devonport,,116.50,,,,,P35_ABETZ_Eric.pdf,29
+P35_ABETZ_Eric_29_4,ABETZ_Eric,P35_ABETZ_Eric,"Cambridge to Devonport 6 Jun 14",2014-06-06,0000-00-00,Cambridge,Devonport,2272.73,,,,,P35_ABETZ_Eric.pdf,29
+P35_ABETZ_Eric_29_5,ABETZ_Eric,P35_ABETZ_Eric,"Devonport to Cambridge 6 Jun 14",2014-06-06,0000-00-00,Devonport,Cambridge,0.00,,,,P35_ABETZ_Eric_29_4,P35_ABETZ_Eric.pdf,29
+P35_BIRMINGHAM_Simon_10_3,BIRMINGHAM_Simon,P35_BIRMINGHAM_Simon,"Wagga Wagga to Canberra 15 Oct 14",2014-10-15,0000-00-00,"Wagga Wagga",Canberra,307.75,,,,,P35_BIRMINGHAM_Simon.pdf,10
+P35_BIRMINGHAM_Simon_27_3,BIRMINGHAM_Simon,P35_BIRMINGHAM_Simon,"Darwin to Kakadu 19 May 14",2014-05-19,0000-00-00,Darwin,Kakadu,2600.00,,,,,P35_BIRMINGHAM_Simon.pdf,27
+P35_BIRMINGHAM_Simon_27_4,BIRMINGHAM_Simon,P35_BIRMINGHAM_Simon,"Kakadu 20 May 14",2014-05-20,0000-00-00,Kakadu,,3545.45,,,,,P35_BIRMINGHAM_Simon.pdf,27
+P35_BISHOP_Bronwyn_10_3,BISHOP_Bronwyn,P35_BISHOP_Bronwyn,"Melbourne to Geelong 5 Nov 14",2014-11-05,0000-00-00,Melbourne,Geelong,5227.27,,,,,P35_BISHOP_Bronwyn.pdf,10
+P35_BISHOP_Bronwyn_10_4,BISHOP_Bronwyn,P35_BISHOP_Bronwyn,"Geelong to Melbourne 5 Nov 14",2014-11-05,0000-00-00,Geelong,Melbourne,0.00,,,,P35_BISHOP_Bronwyn_10_3,P35_BISHOP_Bronwyn.pdf,10
+P35_CORMANN_Mathias0_10_3,CORMANN_Mathias,P35_CORMANN_Mathias0,"Gove to Elcho Island 17 Sep 14",2014-09-17,0000-00-00,Gove,"Elcho Island",1327.27,,,,,P35_CORMANN_Mathias0.pdf,0
+P35_CORMANN_Mathias0_10_4,CORMANN_Mathias,P35_CORMANN_Mathias0,"Elcho Island to Gove 17 Sep 14",2014-09-17,0000-00-00,"Elcho Island",Gove,0.00,,,,P35_CORMANN_Mathias0_10_3,P35_CORMANN_Mathias0.pdf,0
+P35_HOCKEY_Joe_10_3,HOCKEY_Joe,P35_HOCKEY_Joe,"Hobart to Burnie 1 Aug 14",2014-08-01,0000-00-00,Hobart,Burnie,11300.00,,,,,P35_HOCKEY_Joe.pdf,10
+P35_HOCKEY_Joe_10_4,HOCKEY_Joe,P35_HOCKEY_Joe,"Burnie to Essendon Airport 1 Aug 14",2014-08-01,0000-00-00,Burnie,"Essendon Airport",0.00,,,,P35_HOCKEY_Joe_10_3,P35_HOCKEY_Joe.pdf,10
+P35_HUNT_Greg_26_3,HUNT_Greg,P35_HUNT_Greg,"Moranbah 10 Jun 14",2014-06-10,0000-00-00,Moranbah,,16200.00,,,,,P35_HUNT_Greg.pdf,26
+P35_JOYCE_Barnaby1_12_3,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Canberra to Grafton 1 Jul 14",2014-07-01,0000-00-00,Canberra,Grafton,6900.00,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_4,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Tamworth to Toowoomba 7 Jul 14",2014-07-07,0000-00-00,Tamworth,Toowoomba,12110.00,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_5,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Toowoomba to Canberra 7 Jul 14",2014-07-07,0000-00-00,Toowoomba,Canberra,0.00,,,,P35_JOYCE_Barnaby1_12_4,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_6,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Tamworth to Lakes Entrance 9 Jul 14",2014-07-09,0000-00-00,Tamworth,"Lakes Entrance",4270.91,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_7,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Brisbane to Tamworth 7 Aug 14",2014-08-07,0000-00-00,Brisbane,Tamworth,5580.00,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_8,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Canberra to Newcastle 4 Sep 14",2014-09-04,0000-00-00,Canberra,Newcastle,4250.00,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_9,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Sydney to Tamworth 11 Sep 14",2014-09-11,0000-00-00,Sydney,Tamworth,16120.00,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_10,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Tamworth to Walgett 11 Sep 14",2014-09-11,0000-00-00,Tamworth,Walgett,0.00,,,,P35_JOYCE_Barnaby1_12_9,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_11,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Walgett to Mitchell 11 Sep 14",2014-09-11,0000-00-00,Walgett,Mitchell,0.00,,,,P35_JOYCE_Barnaby1_12_9,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_12,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Mitchell to Charleville 11 Sep 14",2014-09-11,0000-00-00,Mitchell,Charleville,0.00,,,,P35_JOYCE_Barnaby1_12_9,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_13,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Charleville to Tamworth 11 Sep 14",2014-09-11,0000-00-00,Charleville,Tamworth,0.00,,,,P35_JOYCE_Barnaby1_12_9,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_14,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Tamworth to Sydney 11 Sep 14",2014-09-11,0000-00-00,Tamworth,Sydney,0.00,,,,P35_JOYCE_Barnaby1_12_9,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_15,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Brisbane to Tamworth 20 Sep to 21 Sep 14",2014-09-20,2014-09-21,Brisbane,Tamworth,8500.00,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_16,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Canberra to Tamworth 2 Oct 14",2014-10-02,0000-00-00,Canberra,Tamworth,6440.00,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_17,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Cairns to Horn Island 7 Oct 14",2014-10-07,0000-00-00,Cairns,"Horn Island",11636.36,,,,,P35_JOYCE_Barnaby1.pdf,1
+P35_JOYCE_Barnaby1_12_18,JOYCE_Barnaby,P35_JOYCE_Barnaby1,"Bamaga to Cairns 9 Oct 14",2014-10-09,0000-00-00,Bamaga,Cairns,0.00,,,,P35_JOYCE_Barnaby1_12_17,P35_JOYCE_Barnaby1.pdf,1
+P35_LEY_Sussan_9_3,LEY_Sussan,P35_LEY_Sussan,"Broken Hill to Melbourne 9 Jul 14",2014-07-09,0000-00-00,"Broken Hill",Melbourne,6540.00,,,,,P35_LEY_Sussan.pdf,9
+P35_LEY_Sussan_9_4,LEY_Sussan,P35_LEY_Sussan,"Albury to Canberra 21 Jul 14",2014-07-21,0000-00-00,Albury,Canberra,3804.55,,,,,P35_LEY_Sussan.pdf,9
+P35_LEY_Sussan_9_5,LEY_Sussan,P35_LEY_Sussan,"Canberra to Melbourne Essendon Airport 22 Jul 14",2014-07-22,0000-00-00,Canberra,"Melbourne Essendon Airport",6304.55,,,,,P35_LEY_Sussan.pdf,9
+P35_LEY_Sussan_9_6,LEY_Sussan,P35_LEY_Sussan,"Cairns 30 Jul 14",2014-07-30,0000-00-00,Cairns,,3900.00,,,,,P35_LEY_Sussan.pdf,9
+P35_LEY_Sussan_9_7,LEY_Sussan,P35_LEY_Sussan,"Albury to Canberra 21 Aug 14",2014-08-21,0000-00-00,Albury,Canberra,750.00,,,,,P35_LEY_Sussan.pdf,9
+P35_LEY_Sussan_29_3,LEY_Sussan,P35_LEY_Sussan,"Albury to Lake Cargelligo 8 May 14",2014-05-08,0000-00-00,Albury,"Lake Cargelligo",6178.75,,,,,P35_LEY_Sussan.pdf,29
+P35_LEY_Sussan_29_4,LEY_Sussan,P35_LEY_Sussan,"Lake Cargelligo to Warnervale 8 May 14",2014-05-08,0000-00-00,"Lake Cargelligo",Warnervale,0.00,,,,P35_LEY_Sussan_29_3,P35_LEY_Sussan.pdf,29
+P35_LEY_Sussan_29_5,LEY_Sussan,P35_LEY_Sussan,"Williamtown to Port Macquarie 8 May 14",2014-05-08,0000-00-00,Williamtown,"Port Macquarie",0.00,,,,P35_LEY_Sussan_29_3,P35_LEY_Sussan.pdf,29
+P35_LEY_Sussan_29_6,LEY_Sussan,P35_LEY_Sussan,"Port Macquarie to Albury 9 May 14",2014-05-09,0000-00-00,"Port Macquarie",Albury,0.00,,,,P35_LEY_Sussan_29_3,P35_LEY_Sussan.pdf,29
+P35_MACFARLANE_Ian_11_3,MACFARLANE_Ian,P35_MACFARLANE_Ian,"Canberra to Toowoomba 8 Sep 14",2014-09-08,0000-00-00,Canberra,Toowoomba,11081.82,,,,,P35_MACFARLANE_Ian.pdf,11
+P35_MACFARLANE_Ian_11_4,MACFARLANE_Ian,P35_MACFARLANE_Ian,"Toowoomba to Canberra 8 Sep 14",2014-09-08,0000-00-00,Toowoomba,Canberra,0.00,,,,P35_MACFARLANE_Ian_11_3,P35_MACFARLANE_Ian.pdf,11
+P35_MACFARLANE_Ian_33_3,MACFARLANE_Ian,P35_MACFARLANE_Ian,"Canberra to Coonabarabran 16 Apr 14",2014-04-16,0000-00-00,Canberra,Coonabarabran,13170.00,,,,,P35_MACFARLANE_Ian.pdf,33
+P35_MACFARLANE_Ian_33_4,MACFARLANE_Ian,P35_MACFARLANE_Ian,"Coonabarabran to Sydney 16 Apr 14",2014-04-16,0000-00-00,Coonabarabran,Sydney,0.00,,,,P35_MACFARLANE_Ian_33_3,P35_MACFARLANE_Ian.pdf,33
+P35_MACFARLANE_Ian_33_5,MACFARLANE_Ian,P35_MACFARLANE_Ian,"Toowoomba to Canberra 28 Apr 14",2014-04-28,0000-00-00,Toowoomba,Canberra,11277.00,,,,,P35_MACFARLANE_Ian.pdf,33
+P35_MACFARLANE_Ian_33_6,MACFARLANE_Ian,P35_MACFARLANE_Ian,"Toowoomba to Melbourne Essendon Airport 9 May 14",2014-05-09,0000-00-00,Toowoomba,"Melbourne Essendon Airport",14881.82,,,,,P35_MACFARLANE_Ian.pdf,33
+P35_MACFARLANE_Ian_33_7,MACFARLANE_Ian,P35_MACFARLANE_Ian,"Melbourne Essendon Airport to Toowoomba 9 May 14",2014-05-09,0000-00-00,"Melbourne Essendon Airport",Toowoomba,0.00,,,,P35_MACFARLANE_Ian_33_6,P35_MACFARLANE_Ian.pdf,33
+P35_NASH_Fiona_9_3,NASH_Fiona,P35_NASH_Fiona,"Rockhampton 28 Jul to 30 Jul 14",2014-07-28,2014-07-30,Rockhampton,,187.76,,,,,P35_NASH_Fiona.pdf,9
+P35_NASH_Fiona_9_4,NASH_Fiona,P35_NASH_Fiona,"Armidale 31 Jul to 1 Aug 14",2014-07-31,2014-08-01,Armidale,,73.03,,,,,P35_NASH_Fiona.pdf,9
+P35_NASH_Fiona_26_3,NASH_Fiona,P35_NASH_Fiona,"Uluru 17 Feb to 18 Feb 14",2014-02-17,2014-02-18,Uluru,,72.89,,,,,P35_NASH_Fiona.pdf,26
+P35_NASH_Fiona_26_4,NASH_Fiona,P35_NASH_Fiona,"Cairns 20 Feb to 21 Feb 14",2014-02-20,2014-02-21,Cairns,,193.16,,,,,P35_NASH_Fiona.pdf,26
+P34_BRANDIS_George_12_3,BRANDIS_George,P34_BRANDIS_George,"Townsville to Ingham 16 Apr 14",2014-04-16,0000-00-00,Townsville,Ingham,2500.00,,,,,P34_BRANDIS_George.pdf,12
+P34_BRANDIS_George_12_4,BRANDIS_George,P34_BRANDIS_George,"Ingham to Townsville 16 Apr 14",2014-04-16,0000-00-00,Ingham,Townsville,0.00,,,,P34_BRANDIS_George_12_3,P34_BRANDIS_George.pdf,12
+P34_BRANDIS_George_30_3,BRANDIS_George,P34_BRANDIS_George,"Rockhampton 23 Mar to 24 Mar 13",2013-03-23,2013-03-24,Rockhampton,,172.76,,,,,P34_BRANDIS_George.pdf,30
+P35_RONALDSON_Michael_11_3,RONALDSON_Michael,P35_RONALDSON_Michael,"Essendon Airport to Wangaratta 28 Jul 14",2014-07-28,0000-00-00,"Essendon Airport",Wangaratta,4560.00,,,,,P35_RONALDSON_Michael.pdf,11
+P35_RONALDSON_Michael_11_4,RONALDSON_Michael,P35_RONALDSON_Michael,"Wangaratta to Albury 28 Jul 14",2014-07-28,0000-00-00,Wangaratta,Albury,0.00,,,,P35_RONALDSON_Michael_11_3,P35_RONALDSON_Michael.pdf,11
+P35_RONALDSON_Michael_11_5,RONALDSON_Michael,P35_RONALDSON_Michael,"Albury to Essendon Airport 28 Jul 14",2014-07-28,0000-00-00,Albury,"Essendon Airport",0.00,,,,P35_RONALDSON_Michael_11_3,P35_RONALDSON_Michael.pdf,11
+P35_RONALDSON_Michael_11_6,RONALDSON_Michael,P35_RONALDSON_Michael,"Ballarat to Euroa 16 Nov 14",2014-11-16,0000-00-00,Ballarat,Euroa,1924.55,,,,,P35_RONALDSON_Michael.pdf,11
+P35_RONALDSON_Michael_11_7,RONALDSON_Michael,P35_RONALDSON_Michael,"Euroa to Ballarat 16 Nov 14",2014-11-16,0000-00-00,Euroa,Ballarat,0.00,,,,P35_RONALDSON_Michael_11_6,P35_RONALDSON_Michael.pdf,11
+P35_SCULLION_Nigel_10_3,SCULLION_Nigel,P35_SCULLION_Nigel,"Alice Springs to Uluru 10 Sep 14",2014-09-10,0000-00-00,"Alice Springs",Uluru,3222.73,,,,,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_4,SCULLION_Nigel,P35_SCULLION_Nigel,"Uluru to Alice Springs 10 Sep 14",2014-09-10,0000-00-00,Uluru,"Alice Springs",0.00,,,,P35_SCULLION_Nigel_10_3,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_5,SCULLION_Nigel,P35_SCULLION_Nigel,"Darwin to Gove 19 Sep 14",2014-09-19,0000-00-00,Darwin,Gove,5100.00,,,,,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_6,SCULLION_Nigel,P35_SCULLION_Nigel,"Gove to Darwin 19 Sep 14",2014-09-19,0000-00-00,Gove,Darwin,0.00,,,,P35_SCULLION_Nigel_10_5,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_7,SCULLION_Nigel,P35_SCULLION_Nigel,"Darwin to Katherine 27 Sep 14",2014-09-27,0000-00-00,Darwin,Katherine,14727.27,,,,,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_8,SCULLION_Nigel,P35_SCULLION_Nigel,"Katherine to Burketown 27 Sep 14",2014-09-27,0000-00-00,Katherine,Burketown,0.00,,,,P35_SCULLION_Nigel_10_7,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_9,SCULLION_Nigel,P35_SCULLION_Nigel,"Burketown to Cairns 28 Sep 14",2014-09-28,0000-00-00,Burketown,Cairns,0.00,,,,P35_SCULLION_Nigel_10_7,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_10,SCULLION_Nigel,P35_SCULLION_Nigel,"Alice Springs to Yuendumu 8 Oct 14",2014-10-08,0000-00-00,"Alice Springs",Yuendumu,2713.64,,,,,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_11,SCULLION_Nigel,P35_SCULLION_Nigel,"Yuendumu to Alice Springs 8 Oct 14",2014-10-08,0000-00-00,Yuendumu,"Alice Springs",0.00,,,,P35_SCULLION_Nigel_10_10,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_12,SCULLION_Nigel,P35_SCULLION_Nigel,"Townsville to Palm Island 15 Oct 14",2014-10-15,0000-00-00,Townsville,"Palm Island",1379.63,,,,,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_13,SCULLION_Nigel,P35_SCULLION_Nigel,"Palm Island to Townsville 15 Oct 14",2014-10-15,0000-00-00,"Palm Island",Townsville,0.00,,,,P35_SCULLION_Nigel_10_12,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_14,SCULLION_Nigel,P35_SCULLION_Nigel,"Maryborough to Wondai 17 Oct 14",2014-10-17,0000-00-00,Maryborough,Wondai,1090.91,,,,,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_15,SCULLION_Nigel,P35_SCULLION_Nigel,"Wondai to Maryborough 17 Oct 14",2014-10-17,0000-00-00,Wondai,Maryborough,0.00,,,,P35_SCULLION_Nigel_10_14,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_10_16,SCULLION_Nigel,P35_SCULLION_Nigel,"Maryborough to Hervey Bay 17 Oct 14",2014-10-17,0000-00-00,Maryborough,"Hervey Bay",0.00,,,,P35_SCULLION_Nigel_10_14,P35_SCULLION_Nigel.pdf,10
+P35_SCULLION_Nigel_28_3,SCULLION_Nigel,P35_SCULLION_Nigel,"Alice Springs to Warburton 30 Apr 14",2014-04-30,0000-00-00,"Alice Springs",Warburton,6558.18,,,,,P35_SCULLION_Nigel.pdf,28
+P35_SCULLION_Nigel_28_4,SCULLION_Nigel,P35_SCULLION_Nigel,"Warburton to Alice Springs 30 Apr 14",2014-04-30,0000-00-00,Warburton,"Alice Springs",0.00,,,,P35_SCULLION_Nigel_28_3,P35_SCULLION_Nigel.pdf,28
+P35_SCULLION_Nigel_28_5,SCULLION_Nigel,P35_SCULLION_Nigel,"Coffs Harbour 1 Jun to 3 Jun 14",2014-06-01,2014-06-03,"Coffs Harbour",,207.67,,,,,P35_SCULLION_Nigel.pdf,28
+P35_SCULLION_Nigel_28_6,SCULLION_Nigel,P35_SCULLION_Nigel,"Dubbo to Bourke 10 Jun 14",2014-06-10,0000-00-00,Dubbo,Bourke,9450.00,,,,,P35_SCULLION_Nigel.pdf,28
+P35_SCULLION_Nigel_28_7,SCULLION_Nigel,P35_SCULLION_Nigel,"Bourke to Cobar 10 Jun 14",2014-06-10,0000-00-00,Bourke,Cobar,0.00,,,,P35_SCULLION_Nigel_28_6,P35_SCULLION_Nigel.pdf,28
+P35_SCULLION_Nigel_28_8,SCULLION_Nigel,P35_SCULLION_Nigel,"Cobar to Dubbo 11 Jun 14",2014-06-11,0000-00-00,Cobar,Dubbo,0.00,,,,P35_SCULLION_Nigel_28_6,P35_SCULLION_Nigel.pdf,28
+P35_TRUSS_Warren_11_3,TRUSS_Warren,P35_TRUSS_Warren,"Hervey Bay to Roma 27 Sep 14",2014-09-27,0000-00-00,"Hervey Bay",Roma,24420.00,,,,,P35_TRUSS_Warren.pdf,11
+P35_TRUSS_Warren_11_4,TRUSS_Warren,P35_TRUSS_Warren,"Roma to Birdsville 27 Sep 14",2014-09-27,0000-00-00,Roma,Birdsville,0.00,,,,P35_TRUSS_Warren_11_3,P35_TRUSS_Warren.pdf,11
+P35_TRUSS_Warren_11_5,TRUSS_Warren,P35_TRUSS_Warren,"Birdsville to Thargomindah 28 Sep 14",2014-09-28,0000-00-00,Birdsville,Thargomindah,0.00,,,,P35_TRUSS_Warren_11_3,P35_TRUSS_Warren.pdf,11
+P35_TRUSS_Warren_11_6,TRUSS_Warren,P35_TRUSS_Warren,"Thargomindah to Gold Coast 28 Sep 14",2014-09-28,0000-00-00,Thargomindah,"Gold Coast",0.00,,,,P35_TRUSS_Warren_11_3,P35_TRUSS_Warren.pdf,11
+P35_TRUSS_Warren_29_3,TRUSS_Warren,P35_TRUSS_Warren,"Canberra to Wagga Wagga 28 Apr 14",2014-04-28,0000-00-00,Canberra,"Wagga Wagga",3618.18,,,,,P35_TRUSS_Warren.pdf,29
+P35_TRUSS_Warren_29_4,TRUSS_Warren,P35_TRUSS_Warren,"Wagga Wagga to Canberra 28 Apr 14",2014-04-28,0000-00-00,"Wagga Wagga",Canberra,0.00,,,,P35_TRUSS_Warren_29_3,P35_TRUSS_Warren.pdf,29
+P35_TRUSS_Warren_29_5,TRUSS_Warren,P35_TRUSS_Warren,"Canberra to Shepparton 1 May 14",2014-05-01,0000-00-00,Canberra,Shepparton,5190.91,,,,,P35_TRUSS_Warren.pdf,29
+P35_TRUSS_Warren_29_6,TRUSS_Warren,P35_TRUSS_Warren,"Shepparton to Canberra 1 May 14",2014-05-01,0000-00-00,Shepparton,Canberra,0.00,,,,P35_TRUSS_Warren_29_5,P35_TRUSS_Warren.pdf,29
+P35_TRUSS_Warren_29_7,TRUSS_Warren,P35_TRUSS_Warren,"Canberra to Brisbane 13 May 14",2014-05-13,0000-00-00,Canberra,Brisbane,21570.00,,,,,P35_TRUSS_Warren.pdf,29
+P35_TRUSS_Warren_29_8,TRUSS_Warren,P35_TRUSS_Warren,"Brisbane to Canberra 14 May 14",2014-05-14,0000-00-00,Brisbane,Canberra,0.00,,,,P35_TRUSS_Warren_29_7,P35_TRUSS_Warren.pdf,29
+P35_TRUSS_Warren_29_9,TRUSS_Warren,P35_TRUSS_Warren,"Canberra to Casino 20 Jun 14",2014-06-20,0000-00-00,Canberra,Casino,12318.18,,,,,P35_TRUSS_Warren.pdf,29
+P35_TRUSS_Warren_29_10,TRUSS_Warren,P35_TRUSS_Warren,"Casino to Maryborough 20 Jun 14",2014-06-20,0000-00-00,Casino,Maryborough,0.00,,,,P35_TRUSS_Warren_29_9,P35_TRUSS_Warren.pdf,29
+P36_ABBOTT_Tony_29_3,ABBOTT_Tony,P36_ABBOTT_Tony,"Sydney 16 Oct 13",2013-10-16,0000-00-00,Sydney,,320.00,,,,,P36_ABBOTT_Tony.pdf,29
+P36_BISHOP_Bronwyn_9_3,BISHOP_Bronwyn,P36_BISHOP_Bronwyn,"Canberra to Port Macquarie 6 Mar 15",2015-03-06,0000-00-00,Canberra,"Port Macquarie",4100.00,,,,,P36_BISHOP_Bronwyn.pdf,9
+P36_BISHOP_Bronwyn_9_4,BISHOP_Bronwyn,P36_BISHOP_Bronwyn,"Port Macquarie to Sydney 6 Mar 15",2015-03-06,0000-00-00,"Port Macquarie",Sydney,0.00,,,,P36_BISHOP_Bronwyn_9_3,P36_BISHOP_Bronwyn.pdf,9
+P36_BISHOP_Bronwyn_20_3,BISHOP_Bronwyn,P36_BISHOP_Bronwyn,"Sydney to Young 10 Nov 14",2014-11-10,0000-00-00,Sydney,Young,2868.18,,,,,P36_BISHOP_Bronwyn.pdf,20
+P36_BISHOP_Bronwyn_20_4,BISHOP_Bronwyn,P36_BISHOP_Bronwyn,"Young to Canberra 10 Nov 14",2014-11-10,0000-00-00,Young,Canberra,0.00,,,,P36_BISHOP_Bronwyn_20_3,P36_BISHOP_Bronwyn.pdf,20
+P36_BISHOP_Bronwyn_20_5,BISHOP_Bronwyn,P36_BISHOP_Bronwyn,"Sydney to Nowra 22 Nov 14",2014-11-22,0000-00-00,Sydney,Nowra,6345.45,,,,,P36_BISHOP_Bronwyn.pdf,20
+P36_BISHOP_Bronwyn_20_6,BISHOP_Bronwyn,P36_BISHOP_Bronwyn,"Nowra to Sydney 22 Nov 14",2014-11-22,0000-00-00,Nowra,Sydney,0.00,,,,P36_BISHOP_Bronwyn_20_5,P36_BISHOP_Bronwyn.pdf,20
+P36_CORMANN_Mathias_30_3,CORMANN_Mathias,P36_CORMANN_Mathias,"Sydney to Canberra 18 Nov 14",2014-11-18,0000-00-00,Sydney,Canberra,3759.09,,,,,P36_CORMANN_Mathias.pdf,30
+P36_HOCKEY_Joe_9_3,HOCKEY_Joe,P36_HOCKEY_Joe,"Sydney to Canberra 2 Feb 15",2015-02-02,0000-00-00,Sydney,Canberra,6670.00,,,,,P36_HOCKEY_Joe.pdf,9
+P36_HOCKEY_Joe_9_4,HOCKEY_Joe,P36_HOCKEY_Joe,"Warnervale to Canberra 1 Mar 15",2015-03-01,0000-00-00,Warnervale,Canberra,4181.82,,,,,P36_HOCKEY_Joe.pdf,9
+P36_HOCKEY_Joe_23_3,HOCKEY_Joe,P36_HOCKEY_Joe,"Warnervale to Canberra 2 Mar 14",2014-03-02,0000-00-00,Warnervale,Canberra,3190.00,,,,,P36_HOCKEY_Joe.pdf,23
+P36_JOYCE_Barnaby1_8_3,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Maroochydore to Tamworth 13 Jan 15",2015-01-13,0000-00-00,Maroochydore,Tamworth,8360.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_4,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Tamworth to Maroochydore 15 Jan 15",2015-01-15,0000-00-00,Tamworth,Maroochydore,8360.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_5,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Maroochydore to Toowoomba 22 Jan 15",2015-01-22,0000-00-00,Maroochydore,Toowoomba,7860.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_6,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Toowoomba to Maroochydore 22 Jan 15",2015-01-22,0000-00-00,Toowoomba,Maroochydore,0.00,,,,P36_JOYCE_Barnaby1_8_5,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_7,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Tamworth to Canberra 22 Feb 15",2015-02-22,0000-00-00,Tamworth,Canberra,6440.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_8,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Tamworth to Rockhampton 28 Feb 15",2015-02-28,0000-00-00,Tamworth,Rockhampton,10850.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_9,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Rockhampton to Thangool 28 Feb 15",2015-02-28,0000-00-00,Rockhampton,Thangool,0.00,,,,P36_JOYCE_Barnaby1_8_8,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_10,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Thangool to Tamworth 28 Feb 15",2015-02-28,0000-00-00,Thangool,Tamworth,0.00,,,,P36_JOYCE_Barnaby1_8_8,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_8_11,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Tamworth to Canberra 2 Mar 15",2015-03-02,0000-00-00,Tamworth,Canberra,3220.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_3,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Gladstone to Canberra 20 May 14",2014-05-20,0000-00-00,Gladstone,Canberra,4860.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_4,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Canberra to Coolangatta 21 May 14",2014-05-21,0000-00-00,Canberra,Coolangatta,0.00,,,,P36_JOYCE_Barnaby1_26_3,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_5,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Coolangatta to Tamworth 21 May 14",2014-05-21,0000-00-00,Coolangatta,Tamworth,0.00,,,,P36_JOYCE_Barnaby1_26_3,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_6,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Brisbane to Tamworth 7 Aug 14",2014-08-07,0000-00-00,Brisbane,Tamworth,5580.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_7,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Canberra to Newcastle 4 Sep 14",2014-09-04,0000-00-00,Canberra,Newcastle,4250.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_8,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Canberra to Tamworth 2 Oct 14",2014-10-02,0000-00-00,Canberra,Tamworth,6440.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_9,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Tamworth to Wangaratta 11 Oct 14",2014-10-11,0000-00-00,Tamworth,Wangaratta,9730.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_10,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Wangaratta to Sydney 11 Oct 14",2014-10-11,0000-00-00,Wangaratta,Sydney,0.00,,,,P36_JOYCE_Barnaby1_26_9,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_11,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Toowoomba to Kingaroy 24 Oct 14",2014-10-24,0000-00-00,Toowoomba,Kingaroy,4480.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_12,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Kingaroy to Toowoomba 24 Oct 14",2014-10-24,0000-00-00,Kingaroy,Toowoomba,0.00,,,,P36_JOYCE_Barnaby1_26_11,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_13,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Brisbane to Tamworth 14 Nov 14",2014-11-14,0000-00-00,Brisbane,Tamworth,6330.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_14,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Darwin to Mataranka 21 Nov 14",2014-11-21,0000-00-00,Darwin,Mataranka,2722.73,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_15,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Mataranka to Tindal 21 Nov 14",2014-11-21,0000-00-00,Mataranka,Tindal,0.00,,,,P36_JOYCE_Barnaby1_26_14,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_16,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Tindal to Darwin 21 Nov 14",2014-11-21,0000-00-00,Tindal,Darwin,0.00,,,,P36_JOYCE_Barnaby1_26_14,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_17,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Canberra to Nowra 27 Nov 14",2014-11-27,0000-00-00,Canberra,Nowra,8680.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_18,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Nowra to Tamworth 27 Nov 14",2014-11-27,0000-00-00,Nowra,Tamworth,0.00,,,,P36_JOYCE_Barnaby1_26_17,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_19,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Brisbane to Winton 5 Dec 14",2014-12-05,0000-00-00,Brisbane,Winton,16800.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_20,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Winton to Sydney 5 Dec 14",2014-12-05,0000-00-00,Winton,Sydney,0.00,,,,P36_JOYCE_Barnaby1_26_19,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_21,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Tamworth to Mackay 10 Dec 14",2014-12-10,0000-00-00,Tamworth,Mackay,17240.00,,,,,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_22,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Mackay to Bowen 10 Dec 14",2014-12-10,0000-00-00,Mackay,Bowen,0.00,,,,P36_JOYCE_Barnaby1_26_21,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_23,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Bowen to Ayr 10 Dec 14",2014-12-10,0000-00-00,Bowen,Ayr,0.00,,,,P36_JOYCE_Barnaby1_26_21,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_24,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Ayr to Mackay 10 Dec 14",2014-12-10,0000-00-00,Ayr,Mackay,0.00,,,,P36_JOYCE_Barnaby1_26_21,P36_JOYCE_Barnaby1.pdf,1
+P36_JOYCE_Barnaby1_26_25,JOYCE_Barnaby,P36_JOYCE_Barnaby1,"Mackay to Tamworth 10 Dec 14",2014-12-10,0000-00-00,Mackay,Tamworth,0.00,,,,P36_JOYCE_Barnaby1_26_21,P36_JOYCE_Barnaby1.pdf,1
+P36_KEENAN_Michael_10_3,KEENAN_Michael,P36_KEENAN_Michael,"Gove to Elcho Island 27 Feb 15",2015-02-27,0000-00-00,Gove,"Elcho Island",1859.09,,,,,P36_KEENAN_Michael.pdf,10
+P36_KEENAN_Michael_10_4,KEENAN_Michael,P36_KEENAN_Michael,"Elcho Island to Gove 27 Feb 15",2015-02-27,0000-00-00,"Elcho Island",Gove,0.00,,,,P36_KEENAN_Michael_10_3,P36_KEENAN_Michael.pdf,10
+P36_LEY_Sussan_12_3,LEY_Sussan,P36_LEY_Sussan,"Menindee to Canberra 20 Jan 15",2015-01-20,0000-00-00,Menindee,Canberra,7504.55,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_4,LEY_Sussan,P36_LEY_Sussan,"Canberra to Albury 2 Feb 15",2015-02-02,0000-00-00,Canberra,Albury,2125.00,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_5,LEY_Sussan,P36_LEY_Sussan,"Deniliquin to Canberra 3 Feb 15",2015-02-03,0000-00-00,Deniliquin,Canberra,2204.55,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_6,LEY_Sussan,P36_LEY_Sussan,"Brisbane to Maroochydore 6 Feb 15",2015-02-06,0000-00-00,Brisbane,Maroochydore,4881.82,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_7,LEY_Sussan,P36_LEY_Sussan,"Maroochydore to Bundaberg 6 Feb 15",2015-02-06,0000-00-00,Maroochydore,Bundaberg,0.00,,,,P36_LEY_Sussan_12_6,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_8,LEY_Sussan,P36_LEY_Sussan,"Bundaberg to Brisbane 6 Feb 15",2015-02-06,0000-00-00,Bundaberg,Brisbane,0.00,,,,P36_LEY_Sussan_12_6,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_9,LEY_Sussan,P36_LEY_Sussan,"Canberra to Launceston 13 Feb 15",2015-02-13,0000-00-00,Canberra,Launceston,9363.64,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_10,LEY_Sussan,P36_LEY_Sussan,"Launceston to Albury 13 Feb 15",2015-02-13,0000-00-00,Launceston,Albury,0.00,,,,P36_LEY_Sussan_12_9,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_11,LEY_Sussan,P36_LEY_Sussan,"Berrigan to Canberra 16 Feb 15",2015-02-16,0000-00-00,Berrigan,Canberra,2106.25,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_12,LEY_Sussan,P36_LEY_Sussan,"Canberra to Warnervale 17 Feb 15",2015-02-17,0000-00-00,Canberra,Warnervale,5731.82,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_13,LEY_Sussan,P36_LEY_Sussan,"Warnervale to Bankstown Airport 18 Feb 15",2015-02-18,0000-00-00,Warnervale,"Bankstown Airport",0.00,,,,P36_LEY_Sussan_12_12,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_14,LEY_Sussan,P36_LEY_Sussan,"Albury to Canberra 22 Feb 15",2015-02-22,0000-00-00,Albury,Canberra,3481.82,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_15,LEY_Sussan,P36_LEY_Sussan,"Sydney to Griffith 1 Mar 15",2015-03-01,0000-00-00,Sydney,Griffith,3545.45,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_16,LEY_Sussan,P36_LEY_Sussan,"Griffith to Canberra 1 Mar 15",2015-03-01,0000-00-00,Griffith,Canberra,0.00,,,,P36_LEY_Sussan_12_15,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_17,LEY_Sussan,P36_LEY_Sussan,"Coolangatta to Parkes 13 Mar 15",2015-03-13,0000-00-00,Coolangatta,Parkes,12365.00,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_18,LEY_Sussan,P36_LEY_Sussan,"Parkes to Broken Hill 13 Mar 15",2015-03-13,0000-00-00,Parkes,"Broken Hill",0.00,,,,P36_LEY_Sussan_12_17,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_19,LEY_Sussan,P36_LEY_Sussan,"Broken Hill to Melbourne Essendon Airport 15 Mar 15",2015-03-15,0000-00-00,"Broken Hill","Melbourne Essendon Airport",4772.73,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_20,LEY_Sussan,P36_LEY_Sussan,"Canberra to Albury 13 Apr 15",2015-04-13,0000-00-00,Canberra,Albury,3554.55,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_21,LEY_Sussan,P36_LEY_Sussan,"Albury to Canberra 13 Apr 15",2015-04-13,0000-00-00,Albury,Canberra,0.00,,,,P36_LEY_Sussan_12_20,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_12_22,LEY_Sussan,P36_LEY_Sussan,"Canberra to Adelaide 1 May 15",2015-05-01,0000-00-00,Canberra,Adelaide,6977.27,,,,,P36_LEY_Sussan.pdf,12
+P36_LEY_Sussan_30_3,LEY_Sussan,P36_LEY_Sussan,"Albury to Broken Hill 20 Nov 14",2014-11-20,0000-00-00,Albury,"Broken Hill",5395.80,,,,,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_4,LEY_Sussan,P36_LEY_Sussan,"Broken Hill to Renmark 20 Nov 14",2014-11-20,0000-00-00,"Broken Hill",Renmark,0.00,,,,P36_LEY_Sussan_30_3,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_5,LEY_Sussan,P36_LEY_Sussan,"Renmark to Murray Bridge 20 Nov 14",2014-11-20,0000-00-00,Renmark,"Murray Bridge",0.00,,,,P36_LEY_Sussan_30_3,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_6,LEY_Sussan,P36_LEY_Sussan,"Murray Bridge to Albury 20 Nov 14",2014-11-20,0000-00-00,"Murray Bridge",Albury,0.00,,,,P36_LEY_Sussan_30_3,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_7,LEY_Sussan,P36_LEY_Sussan,"Deniliquin to Canberra 11 Dec 14",2014-12-11,0000-00-00,Deniliquin,Canberra,3298.00,,,,,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_8,LEY_Sussan,P36_LEY_Sussan,"Canberra to Albury 12 Dec 14",2014-12-12,0000-00-00,Canberra,Albury,0.00,,,,P36_LEY_Sussan_30_7,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_9,LEY_Sussan,P36_LEY_Sussan,"Albury to Canberra 19 Dec 14",2014-12-19,0000-00-00,Albury,Canberra,1331.25,,,,,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_10,LEY_Sussan,P36_LEY_Sussan,"Albury to Canberra 22 Dec 14",2014-12-22,0000-00-00,Albury,Canberra,2152.73,,,,,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_11,LEY_Sussan,P36_LEY_Sussan,"Canberra to Albury 22 Dec 14",2014-12-22,0000-00-00,Canberra,Albury,0.00,,,,P36_LEY_Sussan_30_10,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_12,LEY_Sussan,P36_LEY_Sussan,"Albury to Canberra 23 Dec 14",2014-12-23,0000-00-00,Albury,Canberra,2062.50,,,,,P36_LEY_Sussan.pdf,30
+P36_LEY_Sussan_30_13,LEY_Sussan,P36_LEY_Sussan,"Canberra to Albury 23 Dec 14",2014-12-23,0000-00-00,Canberra,Albury,0.00,,,,P36_LEY_Sussan_30_12,P36_LEY_Sussan.pdf,30
+P36_NASH_Fiona_10_3,NASH_Fiona,P36_NASH_Fiona,"Sydney to Singleton 26 Feb to 27 Feb 15",2015-02-26,2015-02-27,Sydney,Singleton,410.06,,,,,P36_NASH_Fiona.pdf,10
+P36_NASH_Fiona_10_4,NASH_Fiona,P36_NASH_Fiona,"Scone to Cowra 27 Feb 15",2015-02-27,0000-00-00,Scone,Cowra,2587.50,,,,,P36_NASH_Fiona.pdf,10
+P36_NASH_Fiona_10_5,NASH_Fiona,P36_NASH_Fiona,"Canberra to Cowra 25 Apr 15",2015-04-25,0000-00-00,Canberra,Cowra,1768.18,,,,,P36_NASH_Fiona.pdf,10
+P36_NASH_Fiona_22_3,NASH_Fiona,P36_NASH_Fiona,"Melbourne Essendon Airport to Canberra 11 May 14",2014-05-11,0000-00-00,"Melbourne Essendon Airport",Canberra,6218.18,,,,,P36_NASH_Fiona.pdf,22
+P36_NASH_Fiona_22_4,NASH_Fiona,P36_NASH_Fiona,"Perth 5 Sep to 9 Sep 14",2014-09-05,2014-09-09,Perth,,377.47,,,,,P36_NASH_Fiona.pdf,22
+P36_NASH_Fiona_22_5,NASH_Fiona,P36_NASH_Fiona,"Broken Hill 8 Oct to 9 Oct 14",2014-10-08,2014-10-09,"Broken Hill",,64.56,,,,,P36_NASH_Fiona.pdf,22
+P36_NASH_Fiona_22_6,NASH_Fiona,P36_NASH_Fiona,"Forbes to Horsham 11 Nov 14",2014-11-11,0000-00-00,Forbes,Horsham,4340.00,,,,,P36_NASH_Fiona.pdf,22
+P36_NASH_Fiona_22_7,NASH_Fiona,P36_NASH_Fiona,"Stawell to Albury 12 Nov 14",2014-11-12,0000-00-00,Stawell,Albury,3390.00,,,,,P36_NASH_Fiona.pdf,22
+P36_RONALDSON_Michael_11_3,RONALDSON_Michael,P36_RONALDSON_Michael,"Canberra to Melbourne Essendon Airport 25 Mar 15",2015-03-25,0000-00-00,Canberra,"Melbourne Essendon Airport",10030.00,,,,,P36_RONALDSON_Michael.pdf,11
+P36_RONALDSON_Michael_11_4,RONALDSON_Michael,P36_RONALDSON_Michael,"Melbourne Essendon Airport to Canberra 25 Mar 15",2015-03-25,0000-00-00,"Melbourne Essendon Airport",Canberra,0.00,,,,P36_RONALDSON_Michael_11_3,P36_RONALDSON_Michael.pdf,11
+P36_RONALDSON_Michael_11_5,RONALDSON_Michael,P36_RONALDSON_Michael,"Canberra to Coffs Harbour 26 May 15",2015-05-26,0000-00-00,Canberra,"Coffs Harbour",7690.91,,,,,P36_RONALDSON_Michael.pdf,11
+P36_RONALDSON_Michael_11_6,RONALDSON_Michael,P36_RONALDSON_Michael,"Coffs Harbour to Canberra 26 May 15",2015-05-26,0000-00-00,"Coffs Harbour",Canberra,0.00,,,,P36_RONALDSON_Michael_11_5,P36_RONALDSON_Michael.pdf,11
+P36_RONALDSON_Michael_28_3,RONALDSON_Michael,P36_RONALDSON_Michael,"Perth to Albany 31 Oct 14",2014-10-31,0000-00-00,Perth,Albany,4900.00,,,,,P36_RONALDSON_Michael.pdf,28
+P36_RYAN_Scott_8_3,RYAN_Scott,P36_RYAN_Scott,"Essendon Airport to Casterton 14 Apr 15",2015-04-14,0000-00-00,"Essendon Airport",Casterton,4440.00,,,,,P36_RYAN_Scott.pdf,8
+P36_RYAN_Scott_8_4,RYAN_Scott,P36_RYAN_Scott,"Casterton to Essendon Airport 14 Apr 15",2015-04-14,0000-00-00,Casterton,"Essendon Airport",0.00,,,,P36_RYAN_Scott_8_3,P36_RYAN_Scott.pdf,8
+P36_SHORTEN_Bill_32_3,SHORTEN_Bill,P36_SHORTEN_Bill,"Perth to Albany 1 Nov 14",2014-11-01,0000-00-00,Perth,Albany,2930.00,,,,,P36_SHORTEN_Bill.pdf,32
+P36_SHORTEN_Bill_32_4,SHORTEN_Bill,P36_SHORTEN_Bill,"Albany to Perth 1 Nov 14",2014-11-01,0000-00-00,Albany,Perth,0.00,,,,P36_SHORTEN_Bill_32_3,P36_SHORTEN_Bill.pdf,32
+P37_BISHOP_Bronwyn_19_3,BISHOP_Bronwyn,P37_BISHOP_Bronwyn,"Melbourne to Geelong 5 Nov 14",2014-11-05,0000-00-00,Melbourne,Geelong,-5227.27,,Y,,,P37_BISHOP_Bronwyn.pdf,19
+P37_BISHOP_Bronwyn_19_4,BISHOP_Bronwyn,P37_BISHOP_Bronwyn,"Geelong to Melbourne 5 Nov 14",2014-11-05,0000-00-00,Geelong,Melbourne,0.00,,Y,,P37_BISHOP_Bronwyn_19_3,P37_BISHOP_Bronwyn.pdf,19
+P34_BURKE_Tony_21_3,BURKE_Tony,P34_BURKE_Tony,"Weipa to Laura 28 Feb 13",2013-02-28,0000-00-00,Weipa,Laura,-2810.93,,Y,,,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_4,BURKE_Tony,P34_BURKE_Tony,"Laura 28 Feb 13",2013-02-28,0000-00-00,Laura,,0.00,,Y,,P34_BURKE_Tony_21_3,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_5,BURKE_Tony,P34_BURKE_Tony,"Laura to Cairns 28 Feb 13",2013-02-28,0000-00-00,Laura,Cairns,0.00,,Y,,P34_BURKE_Tony_21_3,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_6,BURKE_Tony,P34_BURKE_Tony,"Laura 28 Feb 13",2013-02-28,0000-00-00,Laura,,5621.85,,,,,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_7,BURKE_Tony,P34_BURKE_Tony,"Cairns to Lockhart River 27 Feb 13",2013-02-27,0000-00-00,Cairns,"Lockhart River",28562.18,,,,,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_8,BURKE_Tony,P34_BURKE_Tony,"Lockhart River to Weipa 27 Feb 13",2013-02-27,0000-00-00,"Lockhart River",Weipa,0.00,,,,P34_BURKE_Tony_21_7,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_9,BURKE_Tony,P34_BURKE_Tony,"Weipa to Laura 28 Feb 13",2013-02-28,0000-00-00,Weipa,Laura,0.00,,,,P34_BURKE_Tony_21_7,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_10,BURKE_Tony,P34_BURKE_Tony,"Laura 28 Feb 13",2013-02-28,0000-00-00,Laura,,0.00,,,,P34_BURKE_Tony_21_7,P34_BURKE_Tony.pdf,21
+P34_BURKE_Tony_21_11,BURKE_Tony,P34_BURKE_Tony,"Laura to Cairns 28 Feb 13",2013-02-28,0000-00-00,Laura,Cairns,0.00,,,,P34_BURKE_Tony_21_7,P34_BURKE_Tony.pdf,21
+P37_HARTSUYKER_Luke_10_3,HARTSUYKER_Luke,P37_HARTSUYKER_Luke,"Horn Island to Bamaga 25 Aug 15",2015-08-25,0000-00-00,"Horn Island",Bamaga,433.64,,,,,P37_HARTSUYKER_Luke.pdf,10
+P37_HARTSUYKER_Luke_10_4,HARTSUYKER_Luke,P37_HARTSUYKER_Luke,"Bamaga to Yorke Island 26 Aug 15",2015-08-26,0000-00-00,Bamaga,"Yorke Island",1396.69,,,,,P37_HARTSUYKER_Luke.pdf,10
+P37_JOYCE_Barnaby_11_3,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Tamworth to Warrnambool 4 Jul 15",2015-07-04,0000-00-00,Tamworth,Warrnambool,13680.00,,,,,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_4,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Warrnambool to Melbourne Essendon Airport 4 Jul 15",2015-07-04,0000-00-00,Warrnambool,"Melbourne Essendon Airport",0.00,,,,P37_JOYCE_Barnaby_11_3,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_5,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Armidale to Canberra 1 Sep 15",2015-09-01,0000-00-00,Armidale,Canberra,9540.00,,,,,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_6,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Canberra to Armidale 1 Sep 15",2015-09-01,0000-00-00,Canberra,Armidale,0.00,,,,P37_JOYCE_Barnaby_11_5,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_7,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Tamworth to Wagga Wagga 18 Sep 15",2015-09-18,0000-00-00,Tamworth,"Wagga Wagga",4260.00,,,,,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_8,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Wagga Wagga to Tamworth 18 Sep 15",2015-09-18,0000-00-00,"Wagga Wagga",Tamworth,0.00,,,,P37_JOYCE_Barnaby_11_7,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_9,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Canberra to Coleambally 22 Oct 15",2015-10-22,0000-00-00,Canberra,Coleambally,8630.00,,,,,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_10,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Coleambally to Tamworth 22 Oct 15",2015-10-22,0000-00-00,Coleambally,Tamworth,0.00,,,,P37_JOYCE_Barnaby_11_9,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_11,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Sydney to Mackay 30 Oct 15",2015-10-30,0000-00-00,Sydney,Mackay,15522.00,,,,,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_12,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Mackay to Emerald 30 Oct 15",2015-10-30,0000-00-00,Mackay,Emerald,0.00,,,,P37_JOYCE_Barnaby_11_11,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_11_13,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Emerald to Tamworth 30 Oct 15",2015-10-30,0000-00-00,Emerald,Tamworth,0.00,,,,P37_JOYCE_Barnaby_11_11,P37_JOYCE_Barnaby.pdf,11
+P37_JOYCE_Barnaby_32_3,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Devonport to Sydney 1 Apr 15",2015-04-01,0000-00-00,Devonport,Sydney,15650.00,,,,,P37_JOYCE_Barnaby.pdf,32
+P37_JOYCE_Barnaby_32_4,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Armidale to Rockhampton 6 May 15",2015-05-06,0000-00-00,Armidale,Rockhampton,11620.00,,,,,P37_JOYCE_Barnaby.pdf,32
+P37_JOYCE_Barnaby_32_5,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Rockhampton to Tamworth 7 May 15",2015-05-07,0000-00-00,Rockhampton,Tamworth,0.00,,,,P37_JOYCE_Barnaby_32_4,P37_JOYCE_Barnaby.pdf,32
+P37_JOYCE_Barnaby_32_6,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Tamworth to Maryborough 8 May 15",2015-05-08,0000-00-00,Tamworth,Maryborough,7740.00,,,,,P37_JOYCE_Barnaby.pdf,32
+P37_JOYCE_Barnaby_32_7,JOYCE_Barnaby,P37_JOYCE_Barnaby,"Maryborough to Tamworth 9 May 15",2015-05-09,0000-00-00,Maryborough,Tamworth,7650.00,,,,,P37_JOYCE_Barnaby.pdf,32
+P37_LEY_Sussan_13_3,LEY_Sussan,P37_LEY_Sussan,"Melbourne Essendon Airport to Shepparton 9 Jul 15",2015-07-09,0000-00-00,"Melbourne Essendon Airport",Shepparton,2722.73,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_4,LEY_Sussan,P37_LEY_Sussan,"Shepparton to Benalla 9 Jul 15",2015-07-09,0000-00-00,Shepparton,Benalla,0.00,,,,P37_LEY_Sussan_13_3,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_5,LEY_Sussan,P37_LEY_Sussan,"Benalla to Mansfield 9 Jul 15",2015-07-09,0000-00-00,Benalla,Mansfield,0.00,,,,P37_LEY_Sussan_13_3,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_6,LEY_Sussan,P37_LEY_Sussan,"Mansfield to Melbourne Essendon Airport 9 Jul 15",2015-07-09,0000-00-00,Mansfield,"Melbourne Essendon Airport",0.00,,,,P37_LEY_Sussan_13_3,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_7,LEY_Sussan,P37_LEY_Sussan,"Jandakot to Kalgoorlie 16 Jul 15",2015-07-16,0000-00-00,Jandakot,Kalgoorlie,8866.84,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_8,LEY_Sussan,P37_LEY_Sussan,"Kalgoorlie to Esperance 16 Jul 15",2015-07-16,0000-00-00,Kalgoorlie,Esperance,0.00,,,,P37_LEY_Sussan_13_7,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_9,LEY_Sussan,P37_LEY_Sussan,"Esperance to Jandakot 16 Jul 15",2015-07-16,0000-00-00,Esperance,Jandakot,0.00,,,,P37_LEY_Sussan_13_7,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_10,LEY_Sussan,P37_LEY_Sussan,"Horn Island to Bamaga 25 Aug 15",2015-08-25,0000-00-00,"Horn Island",Bamaga,433.64,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_11,LEY_Sussan,P37_LEY_Sussan,"Bamaga to Saibai Island 26 Aug 15",2015-08-26,0000-00-00,Bamaga,"Saibai Island",2900.63,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_12,LEY_Sussan,P37_LEY_Sussan,"Saibai Island to Bamaga 26 Aug 15",2015-08-26,0000-00-00,"Saibai Island",Bamaga,0.00,,,,P37_LEY_Sussan_13_11,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_13,LEY_Sussan,P37_LEY_Sussan,"Broome to Bidyadanga 30 Oct 15",2015-10-30,0000-00-00,Broome,Bidyadanga,2959.09,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_14,LEY_Sussan,P37_LEY_Sussan,"Bidyadanga to Derby 30 Oct 15",2015-10-30,0000-00-00,Bidyadanga,Derby,0.00,,,,P37_LEY_Sussan_13_13,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_15,LEY_Sussan,P37_LEY_Sussan,"Derby to Broome 30 Oct 15",2015-10-30,0000-00-00,Derby,Broome,0.00,,,,P37_LEY_Sussan_13_13,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_16,LEY_Sussan,P37_LEY_Sussan,"Albury to Melbourne Essendon Airport 2 Nov 15",2015-11-02,0000-00-00,Albury,"Melbourne Essendon Airport",2150.00,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_17,LEY_Sussan,P37_LEY_Sussan,"Albury to Melbourne Essendon Airport 8 Nov 15",2015-11-08,0000-00-00,Albury,"Melbourne Essendon Airport",2150.00,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_18,LEY_Sussan,P37_LEY_Sussan,"Canberra to Orange 13 Nov 15",2015-11-13,0000-00-00,Canberra,Orange,6190.91,,,,,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_13_19,LEY_Sussan,P37_LEY_Sussan,"Orange to Condobolin 13 Nov 15",2015-11-13,0000-00-00,Orange,Condobolin,0.00,,,,P37_LEY_Sussan_13_18,P37_LEY_Sussan.pdf,13
+P37_LEY_Sussan_33_3,LEY_Sussan,P37_LEY_Sussan,"Adelaide to Kadina 1 May 15",2015-05-01,0000-00-00,Adelaide,Kadina,6929.55,,,,,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_4,LEY_Sussan,P37_LEY_Sussan,"Kadina to Peterborough 1 May 15",2015-05-01,0000-00-00,Kadina,Peterborough,0.00,,,,P37_LEY_Sussan_33_3,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_5,LEY_Sussan,P37_LEY_Sussan,"Peterborough to Essendon 1 May 15",2015-05-01,0000-00-00,Peterborough,Essendon,0.00,,,,P37_LEY_Sussan_33_3,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_6,LEY_Sussan,P37_LEY_Sussan,"Echuca to Canberra 4 May 15",2015-05-04,0000-00-00,Echuca,Canberra,4127.27,,,,,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_7,LEY_Sussan,P37_LEY_Sussan,"Canberra to Moruya 18 May 15",2015-05-18,0000-00-00,Canberra,Moruya,3996.27,,,,,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_8,LEY_Sussan,P37_LEY_Sussan,"Moruya to Merimbula 18 May 15",2015-05-18,0000-00-00,Moruya,Merimbula,0.00,,,,P37_LEY_Sussan_33_7,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_9,LEY_Sussan,P37_LEY_Sussan,"Merimbula to Canberra 18 May 15",2015-05-18,0000-00-00,Merimbula,Canberra,0.00,,,,P37_LEY_Sussan_33_7,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_10,LEY_Sussan,P37_LEY_Sussan,"Albury to Canberra 24 May 15",2015-05-24,0000-00-00,Albury,Canberra,3536.36,,,,,P37_LEY_Sussan.pdf,33
+P37_LEY_Sussan_33_11,LEY_Sussan,P37_LEY_Sussan,"Albury to Canberra 21 Jun 15",2015-06-21,0000-00-00,Albury,Canberra,4272.73,,,,,P37_LEY_Sussan.pdf,33
+P37_NASH_Fiona_9_3,NASH_Fiona,P37_NASH_Fiona,"Townsville to Winton 8 Jul 15",2015-07-08,0000-00-00,Townsville,Winton,6620.00,,,,,P37_NASH_Fiona.pdf,9
+P37_NASH_Fiona_9_4,NASH_Fiona,P37_NASH_Fiona,"Winton to Townsville 8 Jul 15",2015-07-08,0000-00-00,Winton,Townsville,0.00,,,,P37_NASH_Fiona_9_3,P37_NASH_Fiona.pdf,9
+P37_NASH_Fiona_9_5,NASH_Fiona,P37_NASH_Fiona,"Sydney to Cowra 1 Aug 15",2015-08-01,0000-00-00,Sydney,Cowra,2831.82,,,,,P37_NASH_Fiona.pdf,9
+P37_NASH_Fiona_9_6,NASH_Fiona,P37_NASH_Fiona,"Gove to Darwin 1 Aug 15",2015-08-01,0000-00-00,Gove,Darwin,3727.27,,,,,P37_NASH_Fiona.pdf,9
+P37_NASH_Fiona_9_7,NASH_Fiona,P37_NASH_Fiona,"Hire car costs Rockhampton 5 Aug to 7 Aug 15",2015-08-05,2015-08-07,"Hire car costs Rockhampton",,238.26,,,,,P37_NASH_Fiona.pdf,9
+P37_NASH_Fiona_9_8,NASH_Fiona,P37_NASH_Fiona,"Hire car costs Emerald to Mackay 8 Dec to 9 Dec 15",2015-12-08,2015-12-09,"Hire car costs Emerald",Mackay,271.74,,,,,P37_NASH_Fiona.pdf,9
+P37_NASH_Fiona_9_9,NASH_Fiona,P37_NASH_Fiona,"Sydney to Cowra 12 Dec 15",2015-12-12,0000-00-00,Sydney,Cowra,3227.27,,,,,P37_NASH_Fiona.pdf,9
+P37_NASH_Fiona_23_3,NASH_Fiona,P37_NASH_Fiona,"Moree to Canberra 1 Apr 15",2015-04-01,0000-00-00,Moree,Canberra,7431.82,,,,,P37_NASH_Fiona.pdf,23
+P37_NASH_Fiona_23_4,NASH_Fiona,P37_NASH_Fiona,"Hire car costs Armidale 1 May to 2 May 15",2015-05-01,2015-05-02,"Hire car costs Armidale",,63.56,,,,,P37_NASH_Fiona.pdf,23
+P37_NASH_Fiona_23_5,NASH_Fiona,P37_NASH_Fiona,"Hire car costs Parkes to Dubbo 18 May 15",2015-05-18,0000-00-00,"Hire car costs Parkes",Dubbo,191.63,,,,,P37_NASH_Fiona.pdf,23
+P37_NASH_Fiona_23_6,NASH_Fiona,P37_NASH_Fiona,"Hire car costs Lismore to Brisbane 19 May 15",2015-05-19,0000-00-00,"Hire car costs Lismore",Brisbane,300.78,,,,,P37_NASH_Fiona.pdf,23
+P37_NASH_Fiona_23_7,NASH_Fiona,P37_NASH_Fiona,"Adelaide to Whyalla 4 Jun 15",2015-06-04,0000-00-00,Adelaide,Whyalla,4700.00,,,,,P37_NASH_Fiona.pdf,23
+P37_NASH_Fiona_23_8,NASH_Fiona,P37_NASH_Fiona,"Whyalla to Adelaide 4 Jun 15",2015-06-04,0000-00-00,Whyalla,Adelaide,0.00,,,,P37_NASH_Fiona_23_7,P37_NASH_Fiona.pdf,23
+P37_NASH_Fiona_23_9,NASH_Fiona,P37_NASH_Fiona,"Adelaide to Whyalla 4 Jun 15",2015-06-04,0000-00-00,Adelaide,Whyalla,4700.00,,,,,P37_NASH_Fiona.pdf,23
+P37_NASH_Fiona_23_10,NASH_Fiona,P37_NASH_Fiona,"Whyalla to Adelaide 4 Jun 15",2015-06-04,0000-00-00,Whyalla,Adelaide,0.00,,,,,P37_NASH_Fiona.pdf,23
+P37_RONALDSON_Michael_10_3,RONALDSON_Michael,P37_RONALDSON_Michael,"Perth to Albany 3 Jul 15",2015-07-03,0000-00-00,Perth,Albany,3000.00,,,,,P37_RONALDSON_Michael.pdf,10
+P37_RONALDSON_Michael_10_4,RONALDSON_Michael,P37_RONALDSON_Michael,"Albany to Perth 3 Jul 15",2015-07-03,0000-00-00,Albany,Perth,0.00,,,,P37_RONALDSON_Michael_10_3,P37_RONALDSON_Michael.pdf,10
+P37_RYAN_Scott_22_3,RYAN_Scott,P37_RYAN_Scott,"Essendon Airport to Casterton 14 Apr 15",2015-04-14,0000-00-00,"Essendon Airport",Casterton,-4440.00,,Y,,,P37_RYAN_Scott.pdf,22
+P37_RYAN_Scott_22_4,RYAN_Scott,P37_RYAN_Scott,"Casterton to Essendon Airport 14 Apr 15",2015-04-14,0000-00-00,Casterton,"Essendon Airport",0.00,,Y,,P37_RYAN_Scott_22_3,P37_RYAN_Scott.pdf,22
+P38_CANAVAN_Matthew_10_3,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Townsville to Hughenden 10 Mar 16",2016-03-10,0000-00-00,Townsville,Hughenden,3753.36,,,,,P38_CANAVAN_Matthew.pdf,10
+P38_CANAVAN_Matthew_10_4,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Hughenden to Townsville 10 Mar 16",2016-03-10,0000-00-00,Hughenden,Townsville,0.00,,,,P38_CANAVAN_Matthew_10_3,P38_CANAVAN_Matthew.pdf,10
+P38_CANAVAN_Matthew_10_5,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Cairns 30 Mar 16 to 1 Apr 16",2016-03-30,2016-04-01,Cairns,,170.21,,,,,P38_CANAVAN_Matthew.pdf,10
+P38_CANAVAN_Matthew_10_6,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Cairns to Lakeland 1 Apr 16",2016-04-01,0000-00-00,Cairns,Lakeland,2727.27,,,,,P38_CANAVAN_Matthew.pdf,10
+P38_CANAVAN_Matthew_10_7,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Lakeland to Cairns 1 Apr 16",2016-04-01,0000-00-00,Lakeland,Cairns,0.00,,,,P38_CANAVAN_Matthew_10_6,P38_CANAVAN_Matthew.pdf,10
+P38_CHESTER_Darren_8_3,CHESTER_Darren,P38_CHESTER_Darren,"Lakes Entrance to Canberra 7 Mar 16",2016-03-07,0000-00-00,"Lakes Entrance",Canberra,4208.64,,,,,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_4,CHESTER_Darren,P38_CHESTER_Darren,"Canberra to Lakes Entrance 9 Mar 16",2016-03-09,0000-00-00,Canberra,"Lakes Entrance",0.00,,,,P38_CHESTER_Darren_8_3,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_5,CHESTER_Darren,P38_CHESTER_Darren,"Lakes Entrance to Canberra 14 Mar 16",2016-03-14,0000-00-00,"Lakes Entrance",Canberra,4208.64,,,,,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_6,CHESTER_Darren,P38_CHESTER_Darren,"Canberra to Lakes Entrance 18 Mar 16",2016-03-18,0000-00-00,Canberra,"Lakes Entrance",0.00,,,,P38_CHESTER_Darren_8_5,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_7,CHESTER_Darren,P38_CHESTER_Darren,"Lakes Entrance to Canberra 21 Mar 16",2016-03-21,0000-00-00,"Lakes Entrance",Canberra,5004.32,,,,,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_8,CHESTER_Darren,P38_CHESTER_Darren,"Bankstown Airport to Lakes Entrance 23 Mar 16",2016-03-23,0000-00-00,"Bankstown Airport","Lakes Entrance",0.00,,,,P38_CHESTER_Darren_8_7,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_9,CHESTER_Darren,P38_CHESTER_Darren,"Bankstown Airport to Bairnsdale 6 Apr 16",2016-04-06,0000-00-00,"Bankstown Airport",Bairnsdale,2815.45,,,,,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_10,CHESTER_Darren,P38_CHESTER_Darren,"Lakes Entrance to Canberra 17 Apr 16",2016-04-17,0000-00-00,"Lakes Entrance",Canberra,2104.32,,,,,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_11,CHESTER_Darren,P38_CHESTER_Darren,"Canberra to Lakes Entrance 20 Apr 16",2016-04-20,0000-00-00,Canberra,"Lakes Entrance",0.00,,,,P38_CHESTER_Darren_8_10,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_12,CHESTER_Darren,P38_CHESTER_Darren,"Lakes Entrance to Canberra 26 Apr 16",2016-04-26,0000-00-00,"Lakes Entrance",Canberra,2104.32,,,,,P38_CHESTER_Darren.pdf,8
+P38_COLBECK_Richard_13_3,COLBECK_Richard,P38_COLBECK_Richard,"Burnie to King Island 7 Mar 16",2016-03-07,0000-00-00,Burnie,"King Island",1263.64,,,,,P38_COLBECK_Richard.pdf,13
+P38_COLBECK_Richard_13_4,COLBECK_Richard,P38_COLBECK_Richard,"King Island to Burnie 7 Mar 16",2016-03-07,0000-00-00,"King Island",Burnie,0.00,,,,P38_COLBECK_Richard_13_3,P38_COLBECK_Richard.pdf,13
+P38_FIFIELD_Mitch_24_3,FIFIELD_Mitch,P38_FIFIELD_Mitch,"Perth to Busselton 31 Aug 15",2015-08-31,0000-00-00,Perth,Busselton,4725.00,,,,,P38_FIFIELD_Mitch.pdf,24
+P38_FIFIELD_Mitch_24_4,FIFIELD_Mitch,P38_FIFIELD_Mitch,"Busselton to Albany 31 Aug 15",2015-08-31,0000-00-00,Busselton,Albany,0.00,,,,P38_FIFIELD_Mitch_24_3,P38_FIFIELD_Mitch.pdf,24
+P38_FIFIELD_Mitch_24_5,FIFIELD_Mitch,P38_FIFIELD_Mitch,"Albany to Esperance 1 Sep 15",2015-09-01,0000-00-00,Albany,Esperance,0.00,,,,P38_FIFIELD_Mitch_24_3,P38_FIFIELD_Mitch.pdf,24
+P38_FIFIELD_Mitch_24_6,FIFIELD_Mitch,P38_FIFIELD_Mitch,"Esperance to Narrogin 1 Sep 15",2015-09-01,0000-00-00,Esperance,Narrogin,0.00,,,,P38_FIFIELD_Mitch_24_3,P38_FIFIELD_Mitch.pdf,24
+P38_FIFIELD_Mitch_24_7,FIFIELD_Mitch,P38_FIFIELD_Mitch,"Narrogin to Perth 1 Sep 15",2015-09-01,0000-00-00,Narrogin,Perth,0.00,,,,P38_FIFIELD_Mitch_24_3,P38_FIFIELD_Mitch.pdf,24
+P38_FRYDENBERG_Josh_10_3,FRYDENBERG_Josh,P38_FRYDENBERG_Josh,"Brisbane to Miles 30 Mar 16",2016-03-30,0000-00-00,Brisbane,Miles,5240.91,,,,,P38_FRYDENBERG_Josh.pdf,10
+P38_FRYDENBERG_Josh_10_4,FRYDENBERG_Josh,P38_FRYDENBERG_Josh,"Miles to Brisbane 30 Mar 16",2016-03-30,0000-00-00,Miles,Brisbane,0.00,,,,P38_FRYDENBERG_Josh_10_3,P38_FRYDENBERG_Josh.pdf,10
+P38_FRYDENBERG_Josh_10_5,FRYDENBERG_Josh,P38_FRYDENBERG_Josh,"Brisbane to Miles 30 Mar 16",2016-03-30,0000-00-00,Brisbane,Miles,-1048.18,,Y,,,P38_FRYDENBERG_Josh.pdf,10
+P38_FRYDENBERG_Josh_10_6,FRYDENBERG_Josh,P38_FRYDENBERG_Josh,"Miles to Brisbane 30 Mar 16",2016-03-30,0000-00-00,Miles,Brisbane,0.00,,Y,,P38_FRYDENBERG_Josh_10_5,P38_FRYDENBERG_Josh.pdf,10
+P38_JOYCE_Barnaby_9_3,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Canberra to Tamworth 17 Mar 16",2016-03-17,0000-00-00,Canberra,Tamworth,6440.00,,,,,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_4,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Sydney to Armidale 19 Mar 16",2016-03-19,0000-00-00,Sydney,Armidale,6890.91,,,,,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_5,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Armidale to Drake 24 Mar 16",2016-03-24,0000-00-00,Armidale,Drake,4200.00,,,,,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_6,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Drake to Armidale 24 Mar 16",2016-03-24,0000-00-00,Drake,Armidale,0.00,,,,P38_JOYCE_Barnaby_9_5,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_7,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Tamworth to Sydney 30 Mar 16",2016-03-30,0000-00-00,Tamworth,Sydney,12480.00,,,,,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_8,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Sydney to Canberra 30 Mar 16",2016-03-30,0000-00-00,Sydney,Canberra,0.00,,,,P38_JOYCE_Barnaby_9_7,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_9,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Canberra to Armidale 31 Mar 16",2016-03-31,0000-00-00,Canberra,Armidale,0.00,,,,P38_JOYCE_Barnaby_9_7,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_10,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Tamworth to Canberra 17 Apr 16",2016-04-17,0000-00-00,Tamworth,Canberra,7780.00,,,,,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_9_11,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Canberra to Tamworth 6 May 16",2016-05-06,0000-00-00,Canberra,Tamworth,6240.00,,,,,P38_JOYCE_Barnaby.pdf,9
+P38_JOYCE_Barnaby_30_3,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Lismore to Tamworth 1 Oct 15",2015-10-01,0000-00-00,Lismore,Tamworth,4900.00,,,,,P38_JOYCE_Barnaby.pdf,30
+P38_JOYCE_Barnaby_30_4,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Melbourne Essendon Airport to Tamworth 26 Oct 15",2015-10-26,0000-00-00,"Melbourne Essendon Airport",Tamworth,9820.00,,,,,P38_JOYCE_Barnaby.pdf,30
+P38_JOYCE_Barnaby_30_5,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Adelaide to Renmark 5 Nov 15",2015-11-05,0000-00-00,Adelaide,Renmark,6286.00,,,,,P38_JOYCE_Barnaby.pdf,30
+P38_JOYCE_Barnaby_30_6,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Renmark to Warracknabeal 5 Nov 15",2015-11-05,0000-00-00,Renmark,Warracknabeal,0.00,,,,P38_JOYCE_Barnaby_30_5,P38_JOYCE_Barnaby.pdf,30
+P38_JOYCE_Barnaby_30_7,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Warracknabeal to Mildura 5 Nov 15",2015-11-05,0000-00-00,Warracknabeal,Mildura,0.00,,,,P38_JOYCE_Barnaby_30_5,P38_JOYCE_Barnaby.pdf,30
+P38_JOYCE_Barnaby_30_8,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Sydney to Tenterfield 27 Nov 15",2015-11-27,0000-00-00,Sydney,Tenterfield,6970.00,,,,,P38_JOYCE_Barnaby.pdf,30
+P38_JOYCE_Barnaby_30_9,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Coffs Harbour to Canberra 7 Dec 15",2015-12-07,0000-00-00,"Coffs Harbour",Canberra,8125.00,,,,,P38_JOYCE_Barnaby.pdf,30
+P38_JOYCE_Barnaby_30_10,JOYCE_Barnaby,P38_JOYCE_Barnaby,"Toowoomba to Tamworth 12 Dec 15",2015-12-12,0000-00-00,Toowoomba,Tamworth,5430.00,,,,,P38_JOYCE_Barnaby.pdf,30
+P38_LEY_Sussan_12_3,LEY_Sussan,P38_LEY_Sussan,"Albury to Canberra 21 Feb 16",2016-02-21,0000-00-00,Albury,Canberra,2027.27,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_4,LEY_Sussan,P38_LEY_Sussan,"Albury to Melbourne Essendon Airport 28 Feb 16",2016-02-28,0000-00-00,Albury,"Melbourne Essendon Airport",2150.00,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_5,LEY_Sussan,P38_LEY_Sussan,"Albury to Canberra 14 Mar 16",2016-03-14,0000-00-00,Albury,Canberra,2027.27,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_6,LEY_Sussan,P38_LEY_Sussan,"Albury to Canberra 23 Apr 16",2016-04-23,0000-00-00,Albury,Canberra,2195.57,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_7,LEY_Sussan,P38_LEY_Sussan,"Canberra to Albury 23 Apr 16",2016-04-23,0000-00-00,Canberra,Albury,0.00,,,,P38_LEY_Sussan_12_6,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_8,LEY_Sussan,P38_LEY_Sussan,"Canberra to Port Macquarie 27 Apr 16",2016-04-27,0000-00-00,Canberra,"Port Macquarie",3589.00,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_9,LEY_Sussan,P38_LEY_Sussan,"Sydney to Nowra 28 Apr 16",2016-04-28,0000-00-00,Sydney,Nowra,4000.00,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_10,LEY_Sussan,P38_LEY_Sussan,"Nowra to Sydney 29 Apr 16",2016-04-29,0000-00-00,Nowra,Sydney,0.00,,,,P38_LEY_Sussan_12_9,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_11,LEY_Sussan,P38_LEY_Sussan,"Albury to Melbourne Essendon Airport 22 May 16",2016-05-22,0000-00-00,Albury,"Melbourne Essendon Airport",2150.00,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_32_3,LEY_Sussan,P38_LEY_Sussan,"Albury to Melbourne Essendon Airport 29 Nov 15",2015-11-29,0000-00-00,Albury,"Melbourne Essendon Airport",2150.00,,,,,P38_LEY_Sussan.pdf,32
+P38_NASH_Fiona_9_3,NASH_Fiona,P38_NASH_Fiona,"Cowra to Canberra 11 Mar 16 to 14 Mar 16",2016-03-11,2016-03-14,Cowra,Canberra,1038.77,,,,,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_9_4,NASH_Fiona,P38_NASH_Fiona,"Sydney to Cowra 11 Mar 16",2016-03-11,0000-00-00,Sydney,Cowra,2822.73,,,,,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_9_5,NASH_Fiona,P38_NASH_Fiona,"Cowra to Merimbula 4 Apr 16",2016-04-04,0000-00-00,Cowra,Merimbula,2622.73,,,,,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_9_6,NASH_Fiona,P38_NASH_Fiona,"Perth to Albany 11 Apr 16",2016-04-11,0000-00-00,Perth,Albany,4256.32,,,,,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_9_7,NASH_Fiona,P38_NASH_Fiona,"Albany to Esperance 11 Apr 16",2016-04-11,0000-00-00,Albany,Esperance,0.00,,,,P38_NASH_Fiona_9_6,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_9_8,NASH_Fiona,P38_NASH_Fiona,"Albury to Melbourne 28 Apr 16",2016-04-28,0000-00-00,Albury,Melbourne,404.07,,,,,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_9_9,NASH_Fiona,P38_NASH_Fiona,"Canberra to Tamworth 7 May 16",2016-05-07,0000-00-00,Canberra,Tamworth,3600.00,,,,,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_9_10,NASH_Fiona,P38_NASH_Fiona,"Tamworth to Forbes 7 May 16",2016-05-07,0000-00-00,Tamworth,Forbes,0.00,,,,P38_NASH_Fiona_9_9,P38_NASH_Fiona.pdf,9
+P38_NASH_Fiona_23_3,NASH_Fiona,P38_NASH_Fiona,"Melbourne Essendon Airport to Warrnambool 16 Nov 15",2015-11-16,0000-00-00,"Melbourne Essendon Airport",Warrnambool,2540.91,,,,,P38_NASH_Fiona.pdf,23
+P38_NASH_Fiona_23_4,NASH_Fiona,P38_NASH_Fiona,"Warrnambool to Melbourne Essendon Airport 16 Nov 15",2015-11-16,0000-00-00,Warrnambool,"Melbourne Essendon Airport",0.00,,,,P38_NASH_Fiona_23_3,P38_NASH_Fiona.pdf,23
+P38_PORTER_Christian_8_3,PORTER_Christian,P38_PORTER_Christian,"Adelaide to Ceduna 4 Apr 16",2016-04-04,0000-00-00,Adelaide,Ceduna,-407.91,,Y,,,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_4,PORTER_Christian,P38_PORTER_Christian,"Ceduna to Adelaide 4 Apr 16",2016-04-04,0000-00-00,Ceduna,Adelaide,0.00,,Y,,P38_PORTER_Christian_8_3,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_5,PORTER_Christian,P38_PORTER_Christian,"Adelaide to Ceduna 4 Apr 16",2016-04-04,0000-00-00,Adelaide,Ceduna,-407.91,,Y,,,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_6,PORTER_Christian,P38_PORTER_Christian,"Ceduna to Adelaide 4 Apr 16",2016-04-04,0000-00-00,Ceduna,Adelaide,0.00,,Y,,P38_PORTER_Christian_8_5,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_7,PORTER_Christian,P38_PORTER_Christian,"Adelaide to Ceduna 4 Apr 16",2016-04-04,0000-00-00,Adelaide,Ceduna,5410.00,,,,,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_8,PORTER_Christian,P38_PORTER_Christian,"Ceduna to Adelaide 4 Apr 16",2016-04-04,0000-00-00,Ceduna,Adelaide,0.00,,,,P38_PORTER_Christian_8_7,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_9,PORTER_Christian,P38_PORTER_Christian,"Adelaide to Ceduna 4 Apr 16",2016-04-04,0000-00-00,Adelaide,Ceduna,-407.91,,Y,,,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_10,PORTER_Christian,P38_PORTER_Christian,"Ceduna to Adelaide 4 Apr 16",2016-04-04,0000-00-00,Ceduna,Adelaide,0.00,,Y,,P38_PORTER_Christian_8_9,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_11,PORTER_Christian,P38_PORTER_Christian,"Adelaide to Ceduna 4 Apr 16",2016-04-04,0000-00-00,Adelaide,Ceduna,-407.91,,Y,,,P38_PORTER_Christian.pdf,8
+P38_PORTER_Christian_8_12,PORTER_Christian,P38_PORTER_Christian,"Ceduna to Adelaide 4 Apr 16",2016-04-04,0000-00-00,Ceduna,Adelaide,0.00,,Y,,P38_PORTER_Christian_8_11,P38_PORTER_Christian.pdf,8
+P38_SCULLION_Nigel_10_3,SCULLION_Nigel,P38_SCULLION_Nigel,"Darwin to Groote Eylandt 5 Jan 16",2016-01-05,0000-00-00,Darwin,"Groote Eylandt",11033.64,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_4,SCULLION_Nigel,P38_SCULLION_Nigel,"Groote Eylandt to Robinson River 6 Jan 16",2016-01-06,0000-00-00,"Groote Eylandt","Robinson River",0.00,,,,P38_SCULLION_Nigel_10_3,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_5,SCULLION_Nigel,P38_SCULLION_Nigel,"Robinson River to Borroloola 6 Jan 16",2016-01-06,0000-00-00,"Robinson River",Borroloola,0.00,,,,P38_SCULLION_Nigel_10_3,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_6,SCULLION_Nigel,P38_SCULLION_Nigel,"Borroloola to Goulburn Island 7 Jan 16",2016-01-07,0000-00-00,Borroloola,"Goulburn Island",0.00,,,,P38_SCULLION_Nigel_10_3,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_7,SCULLION_Nigel,P38_SCULLION_Nigel,"Goulburn Island to Darwin 7 Jan 16",2016-01-07,0000-00-00,"Goulburn Island",Darwin,0.00,,,,P38_SCULLION_Nigel_10_3,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_8,SCULLION_Nigel,P38_SCULLION_Nigel,"Broome to Beagle Bay 21 Jan 16",2016-01-21,0000-00-00,Broome,"Beagle Bay",6809.09,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_9,SCULLION_Nigel,P38_SCULLION_Nigel,"Beagle Bay to Derby 21 Jan 16",2016-01-21,0000-00-00,"Beagle Bay",Derby,0.00,,,,P38_SCULLION_Nigel_10_8,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_10,SCULLION_Nigel,P38_SCULLION_Nigel,"Derby to Fitzroy Crossing 22 Jan 16",2016-01-22,0000-00-00,Derby,"Fitzroy Crossing",0.00,,,,P38_SCULLION_Nigel_10_8,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_11,SCULLION_Nigel,P38_SCULLION_Nigel,"Fitzroy Crossing to Broome 22 Jan 16",2016-01-22,0000-00-00,"Fitzroy Crossing",Broome,0.00,,,,P38_SCULLION_Nigel_10_8,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_12,SCULLION_Nigel,P38_SCULLION_Nigel,"Alice Springs 24 Jan 16 to 27 Jan 16",2016-01-24,2016-01-27,"Alice Springs",,223.52,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_13,SCULLION_Nigel,P38_SCULLION_Nigel,"Darwin to Elcho Island 15 Feb 16",2016-02-15,0000-00-00,Darwin,"Elcho Island",5445.45,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_14,SCULLION_Nigel,P38_SCULLION_Nigel,"Elcho Island to Darwin 15 Feb 16",2016-02-15,0000-00-00,"Elcho Island",Darwin,0.00,,,,P38_SCULLION_Nigel_10_13,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_15,SCULLION_Nigel,P38_SCULLION_Nigel,"Horn Island to Saibai Island 18 Feb 16",2016-02-18,0000-00-00,"Horn Island","Saibai Island",3127.00,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_16,SCULLION_Nigel,P38_SCULLION_Nigel,"Saibai Island to Murray Island 18 Feb 16",2016-02-18,0000-00-00,"Saibai Island","Murray Island",0.00,,,,P38_SCULLION_Nigel_10_15,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_17,SCULLION_Nigel,P38_SCULLION_Nigel,"Murray Island to Darnley Island 18 Feb 16",2016-02-18,0000-00-00,"Murray Island","Darnley Island",0.00,,,,P38_SCULLION_Nigel_10_15,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_18,SCULLION_Nigel,P38_SCULLION_Nigel,"Alice Springs to Yuendumu 4 Mar 16",2016-03-04,0000-00-00,"Alice Springs",Yuendumu,2425.45,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_19,SCULLION_Nigel,P38_SCULLION_Nigel,"Yuendumu to Alice Springs 4 Mar 16",2016-03-04,0000-00-00,Yuendumu,"Alice Springs",0.00,,,,P38_SCULLION_Nigel_10_18,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_20,SCULLION_Nigel,P38_SCULLION_Nigel,"Canberra to Wagga Wagga 14 Mar 16",2016-03-14,0000-00-00,Canberra,"Wagga Wagga",1805.36,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_21,SCULLION_Nigel,P38_SCULLION_Nigel,"Wagga Wagga to Canberra 14 Mar 16",2016-03-14,0000-00-00,"Wagga Wagga",Canberra,0.00,,,,P38_SCULLION_Nigel_10_20,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_22,SCULLION_Nigel,P38_SCULLION_Nigel,"Canberra to Merimbula 28 Apr 16",2016-04-28,0000-00-00,Canberra,Merimbula,2122.73,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_23,SCULLION_Nigel,P38_SCULLION_Nigel,"Alice Springs to Yuendumu 10 May 16",2016-05-10,0000-00-00,"Alice Springs",Yuendumu,1968.18,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_24,SCULLION_Nigel,P38_SCULLION_Nigel,"Yuendumu to Alice Springs 10 May 16",2016-05-10,0000-00-00,Yuendumu,"Alice Springs",0.00,,,,P38_SCULLION_Nigel_10_23,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_25,SCULLION_Nigel,P38_SCULLION_Nigel,"Alice Springs to Tennant Creek 11 May 16",2016-05-11,0000-00-00,"Alice Springs","Tennant Creek",4969.09,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_26,SCULLION_Nigel,P38_SCULLION_Nigel,"Tennant Creek to Alice Springs 11 May 16",2016-05-11,0000-00-00,"Tennant Creek","Alice Springs",0.00,,,,P38_SCULLION_Nigel_10_25,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_27,SCULLION_Nigel,P38_SCULLION_Nigel,"Alice Springs to Haasts Bluff 18 May 16",2016-05-18,0000-00-00,"Alice Springs","Haasts Bluff",1690.91,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_28,SCULLION_Nigel,P38_SCULLION_Nigel,"Haasts Bluff to Alice Springs 18 May 16",2016-05-18,0000-00-00,"Haasts Bluff","Alice Springs",0.00,,,,P38_SCULLION_Nigel_10_27,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_29,SCULLION_Nigel,P38_SCULLION_Nigel,"Darwin to Roper River Mission 19 May 16",2016-05-19,0000-00-00,Darwin,"Roper River Mission",7450.91,,,,,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_30,SCULLION_Nigel,P38_SCULLION_Nigel,"Roper River Mission  to Gove 19 May 16",2016-05-19,0000-00-00,"Roper River Mission",Gove,0.00,,,,P38_SCULLION_Nigel_10_29,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_31,SCULLION_Nigel,P38_SCULLION_Nigel,"Maningrida to Darwin 20 May 16",2016-05-20,0000-00-00,Maningrida,Darwin,0.00,,,,P38_SCULLION_Nigel_10_29,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_10_32,SCULLION_Nigel,P38_SCULLION_Nigel,"Gove to Maningrida 20 May 16",2016-05-20,0000-00-00,Gove,Maningrida,0.00,,,,P38_SCULLION_Nigel_10_29,P38_SCULLION_Nigel.pdf,10
+P38_SCULLION_Nigel_25_3,SCULLION_Nigel,P38_SCULLION_Nigel,"Darwin to Groote Eylandt 19 Nov 15",2015-11-19,0000-00-00,Darwin,"Groote Eylandt",-6840.50,,,Refund,,P38_SCULLION_Nigel.pdf,25
+P38_SCULLION_Nigel_25_4,SCULLION_Nigel,P38_SCULLION_Nigel,"Groote Eylandt to Gove 19 Nov 15",2015-11-19,0000-00-00,"Groote Eylandt",Gove,0.00,,,Refund,P38_SCULLION_Nigel_25_3,P38_SCULLION_Nigel.pdf,25
+P38_SCULLION_Nigel_25_5,SCULLION_Nigel,P38_SCULLION_Nigel,"Gove to Darwin 20 Nov 15",2015-11-20,0000-00-00,Gove,Darwin,0.00,,,Refund,P38_SCULLION_Nigel_25_3,P38_SCULLION_Nigel.pdf,25
+P38_TRUSS_Warren_11_3,TRUSS_Warren,P38_TRUSS_Warren,"Brisbane to Hervey Bay 15 Jan 16",2016-01-15,0000-00-00,Brisbane,"Hervey Bay",3909.09,,,,,P38_TRUSS_Warren.pdf,11
+P38_TRUSS_Warren_28_3,TRUSS_Warren,P38_TRUSS_Warren,"Maryborough to Rockhampton 11 Dec 15",2015-12-11,0000-00-00,Maryborough,Rockhampton,6990.00,,,,,P38_TRUSS_Warren.pdf,28
+P38_TRUSS_Warren_28_4,TRUSS_Warren,P38_TRUSS_Warren,"Heldow Airfield Mulara to Maryborough 11 Dec 15",2015-12-11,0000-00-00,"Heldow Airfield Mulara",Maryborough,0.00,,,,P38_TRUSS_Warren_28_3,P38_TRUSS_Warren.pdf,28
+P38_TUDGE_Alan_21_3,TUDGE_Alan,P38_TUDGE_Alan,"Bamaga to Yorke Island 26 Aug 15",2015-08-26,0000-00-00,Bamaga,"Yorke Island",1396.68,,,,,P38_TUDGE_Alan.pdf,21
+P38_TUDGE_Alan_21_4,TUDGE_Alan,P38_TUDGE_Alan,"Yorke Island to Bamaga 26 Aug 15",2015-08-26,0000-00-00,"Yorke Island",Bamaga,0.00,,,,P38_TUDGE_Alan_21_3,P38_TUDGE_Alan.pdf,21
+P33_FERGUSON_Martin_24_3,FERGUSON_Martin,P33_FERGUSON_Martin,"Ceduna to Adelaide 8 Sep 12",2012-09-08,0000-00-00,Ceduna,Adelaide,-366.15,,Y,,,P33_FERGUSON_Martin.pdf,24
+P34_CHESTER_Darren_7_3,CHESTER_Darren,P34_CHESTER_Darren,"Lakes Entrance to Sydney 8 Feb 14",2014-02-08,0000-00-00,"Lakes Entrance",Sydney,2181.82,,,,,P34_CHESTER_Darren.pdf,7
+P34_CHESTER_Darren_7_4,CHESTER_Darren,P34_CHESTER_Darren,"Bankstown to Sydney 9 Feb 14",2014-02-09,0000-00-00,Bankstown,Sydney,0.00,,,,P34_CHESTER_Darren_7_3,P34_CHESTER_Darren.pdf,7
+P34_COLLINS_Julie_19_3,COLLINS_Julie,P34_COLLINS_Julie,"Launceston to Hobart 25 Jul 13",2013-07-25,0000-00-00,Launceston,Hobart,7250.00,,,,,P34_COLLINS_Julie.pdf,19
+P34_CORMANN_Mathias0_8_3,CORMANN_Mathias,P34_CORMANN_Mathias0,"Karratha to Port Hedland 7 Feb 14",2014-02-07,0000-00-00,Karratha,"Port Hedland",7185.00,,,,,P34_CORMANN_Mathias0.pdf,0
+P33_GRAY_Gary_9_3,GRAY_Gary,P33_GRAY_Gary,"Melbourne Essendon Airport to Latrobe 3 Jul 13",2013-07-03,0000-00-00,"Melbourne Essendon Airport",Latrobe,11900.00,,,,,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_9_4,GRAY_Gary,P33_GRAY_Gary,"Latrobe to Warrnambool 3 Jul 13",2013-07-03,0000-00-00,Latrobe,Warrnambool,0.00,,,,P33_GRAY_Gary_9_3,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_9_5,GRAY_Gary,P33_GRAY_Gary,"Warrnambool to Melbourne Essendon Airport 3 Jul 13",2013-07-03,0000-00-00,Warrnambool,"Melbourne Essendon Airport",0.00,,,,P33_GRAY_Gary_9_3,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_9_6,GRAY_Gary,P33_GRAY_Gary,"Adelaide to Bannockburn 23 Jul 13",2013-07-23,0000-00-00,Adelaide,Bannockburn,18100.00,,,,,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_9_7,GRAY_Gary,P33_GRAY_Gary,"Bannockburn to Brisbane 23 Jul 13",2013-07-23,0000-00-00,Bannockburn,Brisbane,0.00,,,,P33_GRAY_Gary_9_6,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_9_8,GRAY_Gary,P33_GRAY_Gary,"Brisbane to Dalby 25 Jul 13",2013-07-25,0000-00-00,Brisbane,Dalby,24770.00,,,,,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_9_9,GRAY_Gary,P33_GRAY_Gary,"Dalby to Gladstone 25 Jul 13",2013-07-25,0000-00-00,Dalby,Gladstone,0.00,,,,P33_GRAY_Gary_9_8,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_9_10,GRAY_Gary,P33_GRAY_Gary,"Gladstone to Canberra 25 Jul 13",2013-07-25,0000-00-00,Gladstone,Canberra,0.00,,,,P33_GRAY_Gary_9_8,P33_GRAY_Gary.pdf,9
+P33_GRAY_Gary_27_3,GRAY_Gary,P33_GRAY_Gary,"Kununurra 24 May to 25 May 13",2013-05-24,2013-05-25,Kununurra,,7909.09,,,,,P33_GRAY_Gary.pdf,27
+P33_GRAY_Gary_27_4,GRAY_Gary,P33_GRAY_Gary,"Onslow to Karratha 16 Jun 13",2013-06-16,0000-00-00,Onslow,Karratha,6272.73,,,,,P33_GRAY_Gary.pdf,27
+P33_GRAY_Gary_27_5,GRAY_Gary,P33_GRAY_Gary,"Onslow to Karratha 16 Jun 13",2013-06-16,0000-00-00,Onslow,Karratha,-2090.91,,Y,,,P33_GRAY_Gary.pdf,27
+P33_HARTSUYKER_Luke_9_3,HARTSUYKER_Luke,P33_HARTSUYKER_Luke,"Sydney to Coffs Harbour 9 Nov 13",2013-11-09,0000-00-00,Sydney,"Coffs Harbour",6110.00,,,,,P33_HARTSUYKER_Luke.pdf,9
+P34_FERGUSON_Martin_13_3,FERGUSON_Martin,P34_FERGUSON_Martin,"Ceduna to Adelaide 8 Sep 12",2012-09-08,0000-00-00,Ceduna,Adelaide,-127.15,,Y,,,P34_FERGUSON_Martin.pdf,13
+P34_FERGUSON_Martin_13_4,FERGUSON_Martin,P34_FERGUSON_Martin,"Ceduna to Adelaide 8 Sep 12",2012-09-08,0000-00-00,Ceduna,Adelaide,-366.15,,Y,,,P34_FERGUSON_Martin.pdf,13
+P33_HUNT_Greg_8_3,HUNT_Greg,P33_HUNT_Greg,"Gladstone to Bowen 30 Oct 13",2013-10-30,0000-00-00,Gladstone,Bowen,11950.00,,,,,P33_HUNT_Greg.pdf,8
+P33_HUNT_Greg_8_4,HUNT_Greg,P33_HUNT_Greg,"Bowen to Cairns 30 Oct 13",2013-10-30,0000-00-00,Bowen,Cairns,0.00,,,,P33_HUNT_Greg_8_3,P33_HUNT_Greg.pdf,8
+P34_FITZGIBBON_Joel_20_3,FITZGIBBON_Joel,P34_FITZGIBBON_Joel,"Shepparton to Warrnambool 25 Jul 13",2013-07-25,0000-00-00,Shepparton,Warrnambool,3745.45,,,,,P34_FITZGIBBON_Joel.pdf,20
+P34_FITZGIBBON_Joel_20_4,FITZGIBBON_Joel,P34_FITZGIBBON_Joel,"Warrnambool to Melbourne Essendon Airport 25 Jul 13",2013-07-25,0000-00-00,Warrnambool,"Melbourne Essendon Airport",0.00,,,,P34_FITZGIBBON_Joel_20_3,P34_FITZGIBBON_Joel.pdf,20
+P34_GRAY_Gary_23_3,GRAY_Gary,P34_GRAY_Gary,"Adelaide 1 May 13",2013-05-01,0000-00-00,Adelaide,,25830.00,,,,,P34_GRAY_Gary.pdf,23
+P34_GRAY_Gary_23_4,GRAY_Gary,P34_GRAY_Gary,"Warrnambool 3 Jul 13",2013-07-03,0000-00-00,Warrnambool,,112.72,,,,,P34_GRAY_Gary.pdf,23
+P34_GRAY_Gary_23_5,GRAY_Gary,P34_GRAY_Gary,"Sydney to Karratha 26 Jul 13",2013-07-26,0000-00-00,Sydney,Karratha,54570.00,,,,,P34_GRAY_Gary.pdf,23
+P34_GRAY_Gary_23_6,GRAY_Gary,P34_GRAY_Gary,"Darwin to Uluru 30 Jul 13",2013-07-30,0000-00-00,Darwin,Uluru,10692.73,,,,,P34_GRAY_Gary.pdf,23
+P34_GRAY_Gary_23_7,GRAY_Gary,P34_GRAY_Gary,"Uluru to Darwin 31 Jul 13",2013-07-31,0000-00-00,Uluru,Darwin,0.00,,,,P34_GRAY_Gary_23_6,P34_GRAY_Gary.pdf,23
+P33_KING_Catherine_23_3,KING_Catherine,P33_KING_Catherine,"Ballarat to Warrnambool 24 May 13",2013-05-24,0000-00-00,Ballarat,Warrnambool,2750.00,,,,,P33_KING_Catherine.pdf,23
+P33_KING_Catherine_23_4,KING_Catherine,P33_KING_Catherine,"Devonport to Ballarat 24 May 13",2013-05-24,0000-00-00,Devonport,Ballarat,0.00,,,,P33_KING_Catherine_23_3,P33_KING_Catherine.pdf,23
+P33_LEY_Sussan_10_11,LEY_Sussan,P33_LEY_Sussan,"Cessnock to Albury 18 Oct 13",2013-10-18,0000-00-00,Cessnock,Albury,3400.00,,,,,P33_LEY_Sussan.pdf,10
+P33_LEY_Sussan_10_12,LEY_Sussan,P33_LEY_Sussan,"Canberra 6 Nov to 6 Nov 13",2013-11-06,2013-11-06,Canberra,,2259.09,,,,,P33_LEY_Sussan.pdf,10
+P33_LUDWIG_Joe_18_3,LUDWIG_Joe,P33_LUDWIG_Joe,"Darwin to Hodgson Downs Station 17 Apr 13",2013-04-17,0000-00-00,Darwin,"Hodgson Downs Station",5680.00,,,,,P33_LUDWIG_Joe.pdf,18
+P33_LUDWIG_Joe_18_4,LUDWIG_Joe,P33_LUDWIG_Joe,"Hodgson Downs Station to Darwin 17 Apr 13",2013-04-17,0000-00-00,"Hodgson Downs Station",Darwin,0.00,,,,P33_LUDWIG_Joe_18_3,P33_LUDWIG_Joe.pdf,18
+P34_JOYCE_Barnaby1_12_3,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Canberra to Mount Gambier 18 Feb 14",2014-02-18,0000-00-00,Canberra,"Mount Gambier",13720.00,,,,,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_4,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Mount Gambier to Renmark 19 Feb 14",2014-02-19,0000-00-00,"Mount Gambier",Renmark,0.00,,,,P34_JOYCE_Barnaby1_12_3,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_5,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Renmark to Mildura 19 Feb 14",2014-02-19,0000-00-00,Renmark,Mildura,0.00,,,,P34_JOYCE_Barnaby1_12_3,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_6,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Mildura to Tamworth 19 Feb 14",2014-02-19,0000-00-00,Mildura,Tamworth,0.00,,,,P34_JOYCE_Barnaby1_12_3,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_7,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Sydney to Rockhampton 16 Apr 14",2014-04-16,0000-00-00,Sydney,Rockhampton,10550.00,,,,,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_8,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Rockhampton to Tamworth 16 Apr 14",2014-04-16,0000-00-00,Rockhampton,Tamworth,0.00,,,,P34_JOYCE_Barnaby1_12_7,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_9,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Glen Innes to Melbourne Essendon Airport 1 May 14",2014-05-01,0000-00-00,"Glen Innes","Melbourne Essendon Airport",12560.00,,,,,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_10,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Tamworth to Charleville 30 May 14",2014-05-30,0000-00-00,Tamworth,Charleville,9250.00,,,,,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_11,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Charleville to Tambo 30 May 14",2014-05-30,0000-00-00,Charleville,Tambo,0.00,,,,P34_JOYCE_Barnaby1_12_10,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_12_12,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Tambo to Tamworth 30 May 14",2014-05-30,0000-00-00,Tambo,Tamworth,0.00,,,,P34_JOYCE_Barnaby1_12_10,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_33_3,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Townsville to Mount Isa 12 Oct 13",2013-10-12,0000-00-00,Townsville,"Mount Isa",23260.00,,,,,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_33_4,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Mount Isa to George Town 12 Oct 13",2013-10-12,0000-00-00,"Mount Isa","George Town",0.00,,,,P34_JOYCE_Barnaby1_33_3,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_33_5,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"George Town to Longreach 12 Oct 13",2013-10-12,0000-00-00,"George Town",Longreach,0.00,,,,P34_JOYCE_Barnaby1_33_3,P34_JOYCE_Barnaby1.pdf,1
+P34_JOYCE_Barnaby1_33_6,JOYCE_Barnaby,P34_JOYCE_Barnaby1,"Longreach to Cairns 13 Oct 13",2013-10-13,0000-00-00,Longreach,Cairns,0.00,,,,P34_JOYCE_Barnaby1_33_3,P34_JOYCE_Barnaby1.pdf,1
+P34_KING_Catherine_22_3,KING_Catherine,P34_KING_Catherine,"Gladstone to Thangool 21 Aug 13",2013-08-21,0000-00-00,Gladstone,Thangool,1230.00,,,,,P34_KING_Catherine.pdf,22
+P34_KING_Catherine_22_4,KING_Catherine,P34_KING_Catherine,"Thangool to Gladstone 21 Aug 13",2013-08-21,0000-00-00,Thangool,Gladstone,0.00,,,,P34_KING_Catherine_22_3,P34_KING_Catherine.pdf,22
+P34_LEY_Sussan_10_3,LEY_Sussan,P34_LEY_Sussan,"Broken Hill to Sydney 16 Mar 14",2014-03-16,0000-00-00,"Broken Hill",Sydney,5700.00,,,,,P34_LEY_Sussan.pdf,10
+P34_LEY_Sussan_10_4,LEY_Sussan,P34_LEY_Sussan,"Balranald to Canberra 10 Apr 14",2014-04-10,0000-00-00,Balranald,Canberra,1881.25,,,,,P34_LEY_Sussan.pdf,10
+P34_LUDWIG_Joe_17_3,LUDWIG_Joe,P34_LUDWIG_Joe,"Tamworth to Toowoomba 11 Apr 13",2013-04-11,0000-00-00,Tamworth,Toowoomba,4400.00,,,,,P34_LUDWIG_Joe.pdf,17
+P33_NASH_Fiona_9_3,NASH_Fiona,P33_NASH_Fiona,"Roma to Cowra 29 Sep 13",2013-09-29,0000-00-00,Roma,Cowra,10709.00,,,,,P33_NASH_Fiona.pdf,9
+P33_NASH_Fiona_9_4,NASH_Fiona,P33_NASH_Fiona,"Sydney to Forbes 22 Nov 13",2013-11-22,0000-00-00,Sydney,Forbes,3630.00,,,,,P33_NASH_Fiona.pdf,9
+P34_MACFARLANE_Ian_28_3,MACFARLANE_Ian,P34_MACFARLANE_Ian,"Toowoomba to Canberra 18 Dec 13",2013-12-18,0000-00-00,Toowoomba,Canberra,11463.64,,,,,P34_MACFARLANE_Ian.pdf,28
+P34_MACFARLANE_Ian_28_4,MACFARLANE_Ian,P34_MACFARLANE_Ian,"Canberra to Toowoomba 18 Dec 13",2013-12-18,0000-00-00,Canberra,Toowoomba,0.00,,,,P34_MACFARLANE_Ian_28_3,P34_MACFARLANE_Ian.pdf,28
+P34_MACKLIN_Jenny_18_3,MACKLIN_Jenny,P34_MACKLIN_Jenny,"Cairns to Gove 9 Aug 13",2013-08-09,0000-00-00,Cairns,Gove,14320.00,,,,,P34_MACKLIN_Jenny.pdf,18
+P34_MACKLIN_Jenny_18_4,MACKLIN_Jenny,P34_MACKLIN_Jenny,"Gove to Cairns 9 Aug 13",2013-08-09,0000-00-00,Gove,Cairns,0.00,,,,P34_MACKLIN_Jenny_18_3,P34_MACKLIN_Jenny.pdf,18
+P34_NASH_Fiona_9_3,NASH_Fiona,P34_NASH_Fiona,"Cowra to Sydney 14 Feb 14",2014-02-14,0000-00-00,Cowra,Sydney,5090.00,,,,,P34_NASH_Fiona.pdf,9
+P34_NASH_Fiona_9_4,NASH_Fiona,P34_NASH_Fiona,"Sydney to Cowra 14 Feb 14",2014-02-14,0000-00-00,Sydney,Cowra,0.00,,,,P34_NASH_Fiona_9_3,P34_NASH_Fiona.pdf,9
+P34_NASH_Fiona_9_5,NASH_Fiona,P34_NASH_Fiona,"Alice Springs to Uluru 17 Feb 14",2014-02-17,0000-00-00,"Alice Springs",Uluru,7140.00,,,,,P34_NASH_Fiona.pdf,9
+P34_NASH_Fiona_9_6,NASH_Fiona,P34_NASH_Fiona,"Uluru to Alice Springs 17 Feb 14",2014-02-17,0000-00-00,Uluru,"Alice Springs",0.00,,,,P34_NASH_Fiona_9_5,P34_NASH_Fiona.pdf,9
+P34_NASH_Fiona_9_7,NASH_Fiona,P34_NASH_Fiona,"Alice Springs to Kintore Airport 18 Feb 14",2014-02-18,0000-00-00,"Alice Springs","Kintore Airport",0.00,,,,P34_NASH_Fiona_9_5,P34_NASH_Fiona.pdf,9
+P34_NASH_Fiona_9_8,NASH_Fiona,P34_NASH_Fiona,"Kintore Airport to Alice Springs 18 Feb 14",2014-02-18,0000-00-00,"Kintore Airport","Alice Springs",0.00,,,,P34_NASH_Fiona_9_5,P34_NASH_Fiona.pdf,9
+P34_NASH_Fiona_9_9,NASH_Fiona,P34_NASH_Fiona,"Cowra to Sydney 15 Mar 14",2014-03-15,0000-00-00,Cowra,Sydney,3131.82,,,,,P34_NASH_Fiona.pdf,9
+P34_NASH_Fiona_23_3,NASH_Fiona,P34_NASH_Fiona,"Roma 27 Sep to 29 Sep 13",2013-09-27,2013-09-29,Roma,,331.39,,,,,P34_NASH_Fiona.pdf,23
+P34_PAYNE_Marise_7_3,PAYNE_Marise,P34_PAYNE_Marise,"Canberra to Armidale 4 Mar 14",2014-03-04,0000-00-00,Canberra,Armidale,6964.45,,,,,P34_PAYNE_Marise.pdf,7
+P33_SCULLION_Nigel_11_3,SCULLION_Nigel,P33_SCULLION_Nigel,"Broken Hill to Wilcannia 10 Oct 13",2013-10-10,0000-00-00,"Broken Hill",Wilcannia,8000.00,,,,,P33_SCULLION_Nigel.pdf,11
+P33_SCULLION_Nigel_11_4,SCULLION_Nigel,P33_SCULLION_Nigel,"Wilcannia to Broken Hill 10 Oct 13",2013-10-10,0000-00-00,Wilcannia,"Broken Hill",0.00,,,,P33_SCULLION_Nigel_11_3,P33_SCULLION_Nigel.pdf,11
+P33_SCULLION_Nigel_11_5,SCULLION_Nigel,P33_SCULLION_Nigel,"Broken Hill to Canberra 11 Oct 13",2013-10-11,0000-00-00,"Broken Hill",Canberra,0.00,,,,P33_SCULLION_Nigel_11_3,P33_SCULLION_Nigel.pdf,11
+P33_SCULLION_Nigel_11_6,SCULLION_Nigel,P33_SCULLION_Nigel,"Darwin to Oenpelli 16 Oct 13",2013-10-16,0000-00-00,Darwin,Oenpelli,2470.91,,,,,P33_SCULLION_Nigel.pdf,11
+P33_SCULLION_Nigel_11_7,SCULLION_Nigel,P33_SCULLION_Nigel,"Oenpelli to Darwin 16 Oct 13",2013-10-16,0000-00-00,Oenpelli,Darwin,0.00,,,,P33_SCULLION_Nigel_11_6,P33_SCULLION_Nigel.pdf,11
+P34_PYNE_Christopher_11_3,PYNE_Christopher,P34_PYNE_Christopher,"Cairns to Bamaga 6 Feb 14",2014-02-06,0000-00-00,Cairns,Bamaga,7263.64,,,,,P34_PYNE_Christopher.pdf,11
+P34_PYNE_Christopher_11_4,PYNE_Christopher,P34_PYNE_Christopher,"Bamaga to Cairns 6 Feb 14",2014-02-06,0000-00-00,Bamaga,Cairns,0.00,,,,P34_PYNE_Christopher_11_3,P34_PYNE_Christopher.pdf,11
+P34_PYNE_Christopher_11_5,PYNE_Christopher,P34_PYNE_Christopher,"Perth to Mandurah 10 Mar 14",2014-03-10,0000-00-00,Perth,Mandurah,3800.00,,,,,P34_PYNE_Christopher.pdf,11
+P34_PYNE_Christopher_11_6,PYNE_Christopher,P34_PYNE_Christopher,"Mandurah to Albany 10 Mar 14",2014-03-10,0000-00-00,Mandurah,Albany,0.00,,,,P34_PYNE_Christopher_11_5,P34_PYNE_Christopher.pdf,11
+P34_PYNE_Christopher_11_7,PYNE_Christopher,P34_PYNE_Christopher,"Albany to Perth 10 Mar 14",2014-03-10,0000-00-00,Albany,Perth,0.00,,,,P34_PYNE_Christopher_11_5,P34_PYNE_Christopher.pdf,11
+P34_PYNE_Christopher_11_8,PYNE_Christopher,P34_PYNE_Christopher,"Perth to Mandurah 10 Mar 14",2014-03-10,0000-00-00,Perth,Mandurah,-1097.76,,Y,,,P34_PYNE_Christopher.pdf,11
+P34_PYNE_Christopher_11_9,PYNE_Christopher,P34_PYNE_Christopher,"Mandurah to Albany 10 Mar 14",2014-03-10,0000-00-00,Mandurah,Albany,0.00,,Y,,P34_PYNE_Christopher_11_8,P34_PYNE_Christopher.pdf,11
+P34_PYNE_Christopher_11_10,PYNE_Christopher,P34_PYNE_Christopher,"Albany to Perth 10 Mar 14",2014-03-10,0000-00-00,Albany,Perth,0.00,,Y,,P34_PYNE_Christopher_11_8,P34_PYNE_Christopher.pdf,11
+P33_SIDEBOTTOM_Sid_22_3,SIDEBOTTOM_Sid,P33_SIDEBOTTOM_Sid,"Mangalore to King Island 4 Mar 13",2013-03-04,0000-00-00,Mangalore,"King Island",-2900.00,,Y,,,P33_SIDEBOTTOM_Sid.pdf,22
+P33_SIDEBOTTOM_Sid_22_4,SIDEBOTTOM_Sid,P33_SIDEBOTTOM_Sid,"King Island to Essendon 5 Mar 13",2013-03-05,0000-00-00,"King Island",Essendon,0.00,,Y,,P33_SIDEBOTTOM_Sid_22_3,P33_SIDEBOTTOM_Sid.pdf,22
+P33_SIDEBOTTOM_Sid_22_5,SIDEBOTTOM_Sid,P33_SIDEBOTTOM_Sid,"King Island 4 Mar 13",2013-03-04,0000-00-00,"King Island",,-93.18,,Y,,,P33_SIDEBOTTOM_Sid.pdf,22
+P33_SIDEBOTTOM_Sid_22_6,SIDEBOTTOM_Sid,P33_SIDEBOTTOM_Sid,"Moorabbin to Smithton 15 Mar 13",2013-03-15,0000-00-00,Moorabbin,Smithton,-1950.00,,Y,,,P33_SIDEBOTTOM_Sid.pdf,22
+P33_SIDEBOTTOM_Sid_22_7,SIDEBOTTOM_Sid,P33_SIDEBOTTOM_Sid,"King Island 26 Mar 13",2013-03-26,0000-00-00,"King Island",,-87.91,,Y,,,P33_SIDEBOTTOM_Sid.pdf,22
+P34_RONALDSON_Michael_11_3,RONALDSON_Michael,P34_RONALDSON_Michael,"Perth to Albany 11 Mar 14",2014-03-11,0000-00-00,Perth,Albany,4915.00,,,,,P34_RONALDSON_Michael.pdf,11
+P34_RONALDSON_Michael_11_4,RONALDSON_Michael,P34_RONALDSON_Michael,"Albany to Perth 11 Mar 14",2014-03-11,0000-00-00,Albany,Perth,0.00,,,,P34_RONALDSON_Michael_11_3,P34_RONALDSON_Michael.pdf,11
+P34_RONALDSON_Michael_11_5,RONALDSON_Michael,P34_RONALDSON_Michael,"Canberra to Coffs Harbour 27 May 14",2014-05-27,0000-00-00,Canberra,"Coffs Harbour",7890.91,,,,,P34_RONALDSON_Michael.pdf,11
+P34_RONALDSON_Michael_11_6,RONALDSON_Michael,P34_RONALDSON_Michael,"Coffs Harbour to Canberra 27 May 14",2014-05-27,0000-00-00,"Coffs Harbour",Canberra,0.00,,,,P34_RONALDSON_Michael_11_5,P34_RONALDSON_Michael.pdf,11
+P33_SNOWDON_Warren_12_3,SNOWDON_Warren,P33_SNOWDON_Warren,"Alice Springs to Adelaide 16 Jul 13",2013-07-16,0000-00-00,"Alice Springs",Adelaide,10271.82,,,,,P33_SNOWDON_Warren.pdf,12
+P33_SNOWDON_Warren_12_4,SNOWDON_Warren,P33_SNOWDON_Warren,"Adelaide to Alice Springs 16 Jul 13",2013-07-16,0000-00-00,Adelaide,"Alice Springs",0.00,,,,P33_SNOWDON_Warren_12_3,P33_SNOWDON_Warren.pdf,12
+P33_SNOWDON_Warren_12_5,SNOWDON_Warren,P33_SNOWDON_Warren,"Darwin to Tindal 21 Aug 13",2013-08-21,0000-00-00,Darwin,Tindal,5909.09,,,,,P33_SNOWDON_Warren.pdf,12
+P33_SNOWDON_Warren_12_6,SNOWDON_Warren,P33_SNOWDON_Warren,"Tindal to Lajamanu 21 Aug 13",2013-08-21,0000-00-00,Tindal,Lajamanu,0.00,,,,P33_SNOWDON_Warren_12_5,P33_SNOWDON_Warren.pdf,12
+P33_SNOWDON_Warren_12_7,SNOWDON_Warren,P33_SNOWDON_Warren,"Lajamanu to Darwin 21 Aug 13",2013-08-21,0000-00-00,Lajamanu,Darwin,0.00,,,,P33_SNOWDON_Warren_12_5,P33_SNOWDON_Warren.pdf,12
+P34_SCULLION_Nigel_9_3,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Oenpelli 6 Jan 14",2014-01-06,0000-00-00,Darwin,Oenpelli,3886.36,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_4,SCULLION_Nigel,P34_SCULLION_Nigel,"Oenpelli to Darwin 6 Jan 14",2014-01-06,0000-00-00,Oenpelli,Darwin,0.00,,,,P34_SCULLION_Nigel_9_3,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_5,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Oenpelli 7 Jan 14",2014-01-07,0000-00-00,Darwin,Oenpelli,0.00,,,,P34_SCULLION_Nigel_9_3,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_6,SCULLION_Nigel,P34_SCULLION_Nigel,"Oenpelli to Darwin 7 Jan 14",2014-01-07,0000-00-00,Oenpelli,Darwin,0.00,,,,P34_SCULLION_Nigel_9_3,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_7,SCULLION_Nigel,P34_SCULLION_Nigel,"Essendon to Swan Hill 16 Jan 14",2014-01-16,0000-00-00,Essendon,"Swan Hill",4200.00,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_8,SCULLION_Nigel,P34_SCULLION_Nigel,"Swan Hill to Robinvale 16 Jan 14",2014-01-16,0000-00-00,"Swan Hill",Robinvale,0.00,,,,P34_SCULLION_Nigel_9_7,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_9,SCULLION_Nigel,P34_SCULLION_Nigel,"Robinvale to Mildura 16 Jan 14",2014-01-16,0000-00-00,Robinvale,Mildura,0.00,,,,P34_SCULLION_Nigel_9_7,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_10,SCULLION_Nigel,P34_SCULLION_Nigel,"Mildura to Shepparton 16 Jan 14",2014-01-16,0000-00-00,Mildura,Shepparton,0.00,,,,P34_SCULLION_Nigel_9_7,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_11,SCULLION_Nigel,P34_SCULLION_Nigel,"Shepparton to Essendon 16 Jan 14",2014-01-16,0000-00-00,Shepparton,Essendon,0.00,,,,P34_SCULLION_Nigel_9_7,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_12,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Elcho Island 20 Jan 14",2014-01-20,0000-00-00,Darwin,"Elcho Island",5070.00,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_13,SCULLION_Nigel,P34_SCULLION_Nigel,"Elcho Island to Maningrida 20 Jan 14",2014-01-20,0000-00-00,"Elcho Island",Maningrida,0.00,,,,P34_SCULLION_Nigel_9_12,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_14,SCULLION_Nigel,P34_SCULLION_Nigel,"Maningrida to Darwin 20 Jan 14",2014-01-20,0000-00-00,Maningrida,Darwin,0.00,,,,P34_SCULLION_Nigel_9_12,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_15,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Kalumburu 23 Jan 14",2014-01-23,0000-00-00,Darwin,Kalumburu,4727.27,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_16,SCULLION_Nigel,P34_SCULLION_Nigel,"Kalumburu to Darwin 23 Jan 14",2014-01-23,0000-00-00,Kalumburu,Darwin,0.00,,,,P34_SCULLION_Nigel_9_15,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_17,SCULLION_Nigel,P34_SCULLION_Nigel,"Alice Springs to Yuendumu 28 Jan 14",2014-01-28,0000-00-00,"Alice Springs",Yuendumu,3184.55,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_18,SCULLION_Nigel,P34_SCULLION_Nigel,"Yuendumu to Alice Springs 28 Jan 14",2014-01-28,0000-00-00,Yuendumu,"Alice Springs",0.00,,,,P34_SCULLION_Nigel_9_17,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_19,SCULLION_Nigel,P34_SCULLION_Nigel,"Jandakot to Carnarvon 3 Feb 14",2014-02-03,0000-00-00,Jandakot,Carnarvon,11589.00,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_20,SCULLION_Nigel,P34_SCULLION_Nigel,"Carnarvon to Karratha 4 Feb 14",2014-02-04,0000-00-00,Carnarvon,Karratha,0.00,,,,P34_SCULLION_Nigel_9_19,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_21,SCULLION_Nigel,P34_SCULLION_Nigel,"Karratha to Meekatharra 5 Feb 14",2014-02-05,0000-00-00,Karratha,Meekatharra,0.00,,,,P34_SCULLION_Nigel_9_19,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_22,SCULLION_Nigel,P34_SCULLION_Nigel,"Townsville to Palm Island 26 Feb 14",2014-02-26,0000-00-00,Townsville,"Palm Island",1365.00,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_23,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Gove 9 Mar 14",2014-03-09,0000-00-00,Darwin,Gove,13545.45,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_24,SCULLION_Nigel,P34_SCULLION_Nigel,"Gove to Darwin 10 Mar 14",2014-03-10,0000-00-00,Gove,Darwin,0.00,,,,P34_SCULLION_Nigel_9_23,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_25,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Bathurst Island 14 Mar 14",2014-03-14,0000-00-00,Darwin,"Bathurst Island",5000.00,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_26,SCULLION_Nigel,P34_SCULLION_Nigel,"Bathurst Island to Garden Point 14 Mar 14",2014-03-14,0000-00-00,"Bathurst Island","Garden Point",0.00,,,,P34_SCULLION_Nigel_9_25,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_27,SCULLION_Nigel,P34_SCULLION_Nigel,"Garden Point to Darwin 14 Mar 14",2014-03-14,0000-00-00,"Garden Point",Darwin,0.00,,,,P34_SCULLION_Nigel_9_25,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_28,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Lajamanu 3 Apr 14",2014-04-03,0000-00-00,Darwin,Lajamanu,8172.73,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_29,SCULLION_Nigel,P34_SCULLION_Nigel,"Lajamanu to Darwin 3 Apr 14",2014-04-03,0000-00-00,Lajamanu,Darwin,0.00,,,,P34_SCULLION_Nigel_9_28,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_30,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Wadeye 4 Apr 14",2014-04-04,0000-00-00,Darwin,Wadeye,5409.09,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_31,SCULLION_Nigel,P34_SCULLION_Nigel,"Wadeye to Darwin 4 Apr 14",2014-04-04,0000-00-00,Wadeye,Darwin,0.00,,,,P34_SCULLION_Nigel_9_30,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_32,SCULLION_Nigel,P34_SCULLION_Nigel,"Horn Island to Badu Island 7 Apr 14",2014-04-07,0000-00-00,"Horn Island","Badu Island",2940.00,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_33,SCULLION_Nigel,P34_SCULLION_Nigel,"Badu Island to Horn Island 7 Apr 14",2014-04-07,0000-00-00,"Badu Island","Horn Island",0.00,,,,P34_SCULLION_Nigel_9_32,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_34,SCULLION_Nigel,P34_SCULLION_Nigel,"Alice Springs 22 Apr to 23 Apr 14",2014-04-22,2014-04-23,"Alice Springs",,87.86,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_35,SCULLION_Nigel,P34_SCULLION_Nigel,"Katherine 16 May to 17 May 14",2014-05-16,2014-05-17,Katherine,,133.66,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_36,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Katherine 16 May 14",2014-05-16,0000-00-00,Darwin,Katherine,3300.00,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_37,SCULLION_Nigel,P34_SCULLION_Nigel,"Katherine to Darwin 17 May 14",2014-05-17,0000-00-00,Katherine,Darwin,0.00,,,,P34_SCULLION_Nigel_9_36,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_38,SCULLION_Nigel,P34_SCULLION_Nigel,"Alice Springs 3 Jun to 4 Jun 14",2014-06-03,2014-06-04,"Alice Springs",,182.04,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_39,SCULLION_Nigel,P34_SCULLION_Nigel,"Alice Springs to Hermannsburg 4 Jun 14",2014-06-04,0000-00-00,"Alice Springs",Hermannsburg,2186.36,,,,,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_9_40,SCULLION_Nigel,P34_SCULLION_Nigel,"Hermannsburg to Alice Springs 4 Jun 14",2014-06-04,0000-00-00,Hermannsburg,"Alice Springs",0.00,,,,P34_SCULLION_Nigel_9_39,P34_SCULLION_Nigel.pdf,9
+P34_SCULLION_Nigel_10_3,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Oenpelli 5 Jun 14",2014-06-05,0000-00-00,Darwin,Oenpelli,6363.64,,,,,P34_SCULLION_Nigel.pdf,10
+P34_SCULLION_Nigel_10_4,SCULLION_Nigel,P34_SCULLION_Nigel,"Oenpelli to Darwin 6 Jun 14",2014-06-06,0000-00-00,Oenpelli,Darwin,0.00,,,,P34_SCULLION_Nigel_10_3,P34_SCULLION_Nigel.pdf,10
+P34_SCULLION_Nigel_28_3,SCULLION_Nigel,P34_SCULLION_Nigel,"Broken Hill to Wilcannia 10 Oct 13",2013-10-10,0000-00-00,"Broken Hill",Wilcannia,8000.00,,,,,P34_SCULLION_Nigel.pdf,28
+P34_SCULLION_Nigel_28_4,SCULLION_Nigel,P34_SCULLION_Nigel,"Wilcannia to Broken Hill 10 Oct 13",2013-10-10,0000-00-00,Wilcannia,"Broken Hill",0.00,,,,P34_SCULLION_Nigel_28_3,P34_SCULLION_Nigel.pdf,28
+P34_SCULLION_Nigel_28_5,SCULLION_Nigel,P34_SCULLION_Nigel,"Broken Hill to Canberra 11 Oct 13",2013-10-11,0000-00-00,"Broken Hill",Canberra,0.00,,,,P34_SCULLION_Nigel_28_3,P34_SCULLION_Nigel.pdf,28
+P34_SCULLION_Nigel_28_6,SCULLION_Nigel,P34_SCULLION_Nigel,"Mount Isa to Cloncurry 7 Nov 13",2013-11-07,0000-00-00,"Mount Isa",Cloncurry,2110.00,,,,,P34_SCULLION_Nigel.pdf,28
+P34_SCULLION_Nigel_28_7,SCULLION_Nigel,P34_SCULLION_Nigel,"Darwin to Daly River 20 Dec 13",2013-12-20,0000-00-00,Darwin,"Daly River",2240.91,,,,,P34_SCULLION_Nigel.pdf,28
+P34_SCULLION_Nigel_28_8,SCULLION_Nigel,P34_SCULLION_Nigel,"Daly River to Darwin 20 Dec 13",2013-12-20,0000-00-00,"Daly River",Darwin,0.00,,,,P34_SCULLION_Nigel_28_7,P34_SCULLION_Nigel.pdf,28
+P34_SHERRY_Nick_8_3,SHERRY_Nick,P34_SHERRY_Nick,"Refund of hire car costs from Devonport to Hobart between 19 Jun and 20 Jun 11",2011-06-19,2011-06-20,"Refund of hire car costs from Devonport","Hobart between",-112.00,,,,,P34_SHERRY_Nick.pdf,8
+P33_TRUSS_Warren_9_3,TRUSS_Warren,P33_TRUSS_Warren,"Sydney to Swan Hill 1 Nov 13",2013-11-01,0000-00-00,Sydney,"Swan Hill",8777.27,,,,,P33_TRUSS_Warren.pdf,9
+P33_TRUSS_Warren_9_4,TRUSS_Warren,P33_TRUSS_Warren,"Swan Hill to Canberra 2 Nov 13",2013-11-02,0000-00-00,"Swan Hill",Canberra,0.00,,,,P33_TRUSS_Warren_9_3,P33_TRUSS_Warren.pdf,9
+P33_TRUSS_Warren_9_5,TRUSS_Warren,P33_TRUSS_Warren,"Brisbane Airport to Maryborough 8 Nov 13",2013-11-08,0000-00-00,"Brisbane Airport",Maryborough,2318.18,,,,,P33_TRUSS_Warren.pdf,9
+P33_TRUSS_Warren_9_6,TRUSS_Warren,P33_TRUSS_Warren,"Maryborough to Mitchell 9 Nov 13",2013-11-09,0000-00-00,Maryborough,Mitchell,5240.91,,,,,P33_TRUSS_Warren.pdf,9
+P33_TRUSS_Warren_9_7,TRUSS_Warren,P33_TRUSS_Warren,"Mitchell to Maryborough 9 Nov 13",2013-11-09,0000-00-00,Mitchell,Maryborough,0.00,,,,P33_TRUSS_Warren_9_6,P33_TRUSS_Warren.pdf,9
+P33_TRUSS_Warren_9_8,TRUSS_Warren,P33_TRUSS_Warren,"Maryborough to Rockhampton 27 Nov 13",2013-11-27,0000-00-00,Maryborough,Rockhampton,3275.00,,,,,P33_TRUSS_Warren.pdf,9
+P33_TRUSS_Warren_9_9,TRUSS_Warren,P33_TRUSS_Warren,"Maryborough to Brisbane 30 Nov 13",2013-11-30,0000-00-00,Maryborough,Brisbane,2318.18,,,,,P33_TRUSS_Warren.pdf,9
+P33_TRUSS_Warren_9_10,TRUSS_Warren,P33_TRUSS_Warren,"Brisbane Airport to Maryborough 30 Nov 13",2013-11-30,0000-00-00,"Brisbane Airport",Maryborough,0.00,,,,P33_TRUSS_Warren_9_9,P33_TRUSS_Warren.pdf,9
+P33_TUDGE_Alan_7_3,TUDGE_Alan,P33_TUDGE_Alan,"Cairns to Aurukun 5 Nov 13",2013-11-05,0000-00-00,Cairns,Aurukun,7945.45,,,,,P33_TUDGE_Alan.pdf,7
+P33_TUDGE_Alan_7_4,TUDGE_Alan,P33_TUDGE_Alan,"Aurukun to Cairns 6 Nov 13",2013-11-06,0000-00-00,Aurukun,Cairns,0.00,,,,P33_TUDGE_Alan_7_3,P33_TUDGE_Alan.pdf,7
+P34_SNOWDON_Warren_25_3,SNOWDON_Warren,P34_SNOWDON_Warren,"Groote Eylandt to Numbulwar 9 Apr 13",2013-04-09,0000-00-00,"Groote Eylandt",Numbulwar,881.82,,,,,P34_SNOWDON_Warren.pdf,25
+P34_SNOWDON_Warren_25_4,SNOWDON_Warren,P34_SNOWDON_Warren,"Numbulwar to Ngukurr 9 Apr 13",2013-04-09,0000-00-00,Numbulwar,Ngukurr,0.00,,,,P34_SNOWDON_Warren_25_3,P34_SNOWDON_Warren.pdf,25
+P34_SNOWDON_Warren_25_5,SNOWDON_Warren,P34_SNOWDON_Warren,"Ngukurr to Groote Eylandt 9 Apr 13",2013-04-09,0000-00-00,Ngukurr,"Groote Eylandt",0.00,,,,P34_SNOWDON_Warren_25_3,P34_SNOWDON_Warren.pdf,25
+P34_TRUSS_Warren_9_3,TRUSS_Warren,P34_TRUSS_Warren,"Canberra to Warrnambool 14 Feb 14",2014-02-14,0000-00-00,Canberra,Warrnambool,8145.45,,,,,P34_TRUSS_Warren.pdf,9
+P34_TRUSS_Warren_9_4,TRUSS_Warren,P34_TRUSS_Warren,"Warrnambool to Canberra 14 Feb 14",2014-02-14,0000-00-00,Warrnambool,Canberra,0.00,,,,P34_TRUSS_Warren_9_3,P34_TRUSS_Warren.pdf,9
+P34_TRUSS_Warren_9_5,TRUSS_Warren,P34_TRUSS_Warren,"Maryborough to Boulia 11 Mar 14",2014-03-11,0000-00-00,Maryborough,Boulia,16190.91,,,,,P34_TRUSS_Warren.pdf,9
+P34_TRUSS_Warren_9_6,TRUSS_Warren,P34_TRUSS_Warren,"Boulia to Maryborough 11 Mar 14",2014-03-11,0000-00-00,Boulia,Maryborough,0.00,,,,P34_TRUSS_Warren_9_5,P34_TRUSS_Warren.pdf,9
+P34_TRUSS_Warren_9_7,TRUSS_Warren,P34_TRUSS_Warren,"Canberra to Benalla 2 May 14",2014-05-02,0000-00-00,Canberra,Benalla,5531.82,,,,,P34_TRUSS_Warren.pdf,9
+P34_TRUSS_Warren_9_8,TRUSS_Warren,P34_TRUSS_Warren,"Benalla to Canberra 3 May 14",2014-05-03,0000-00-00,Benalla,Canberra,0.00,,,,P34_TRUSS_Warren_9_7,P34_TRUSS_Warren.pdf,9
+P34_TRUSS_Warren_28_3,TRUSS_Warren,P34_TRUSS_Warren,"Maryborough to Coffs Harbour 16 Dec 13",2013-12-16,0000-00-00,Maryborough,"Coffs Harbour",11418.18,,,,,P34_TRUSS_Warren.pdf,28
+P34_TRUSS_Warren_28_4,TRUSS_Warren,P34_TRUSS_Warren,"Coffs Harbour to Sydney 16 Dec 13",2013-12-16,0000-00-00,"Coffs Harbour",Sydney,0.00,,,,P34_TRUSS_Warren_28_3,P34_TRUSS_Warren.pdf,28
 P39_CANAVAN_Matthew_26_3,CANAVAN_Matthew,P39_CANAVAN_Matthew,"Rockhampton to Clermont 24 May 16",2016-05-24,0000-00-00,Rockhampton,Clermont,968.18,,,,,P39_CANAVAN_Matthew.pdf,26
 P39_CANAVAN_Matthew_26_4,CANAVAN_Matthew,P39_CANAVAN_Matthew,"Clermont to Rockhampton 25 May 16",2016-05-25,0000-00-00,Clermont,Rockhampton,0.00,,,,P39_CANAVAN_Matthew_26_3,P39_CANAVAN_Matthew.pdf,26
 P39_CHESTER_Darren_10_3,CHESTER_Darren,P39_CHESTER_Darren,"Lakes Entrance to Canberra 11 Jul 16",2016-07-11,0000-00-00,"Lakes Entrance",Canberra,4208.64,,,,,P39_CHESTER_Darren.pdf,10
