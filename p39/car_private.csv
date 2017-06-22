@@ -1,0 +1,151 @@
+entry_id,parl_id,source_id,details,origin,destination,date,amount,balance_of_payment,source_pdf,source_pagenum
+P39_ABBOTT_Tony_8_14,ABBOTT_Tony,P39_ABBOTT_Tony,"Sydney to Canberra 10 Oct 16",Sydney,Canberra,2016-10-10,203.28,,P39_ABBOTT_Tony.pdf,8
+P39_ABBOTT_Tony_8_15,ABBOTT_Tony,P39_ABBOTT_Tony,"Canberra to Sydney 13 Oct 16",Canberra,Sydney,2016-10-13,203.28,,P39_ABBOTT_Tony.pdf,8
+P39_ABBOTT_Tony_8_16,ABBOTT_Tony,P39_ABBOTT_Tony,"Forestville to Canberra 6 Nov 16",Forestville,Canberra,2016-11-06,201.96,,P39_ABBOTT_Tony.pdf,8
+P39_ABBOTT_Tony_8_17,ABBOTT_Tony,P39_ABBOTT_Tony,"Canberra to Forestville 10 Nov 16",Canberra,Forestville,2016-11-10,201.96,,P39_ABBOTT_Tony.pdf,8
+P39_ABBOTT_Tony_8_18,ABBOTT_Tony,P39_ABBOTT_Tony,"Sydney to Canberra 27 Nov 16",Sydney,Canberra,2016-11-27,201.96,,P39_ABBOTT_Tony.pdf,8
+P39_ABBOTT_Tony_8_19,ABBOTT_Tony,P39_ABBOTT_Tony,"Canberra to Forestville 1 Dec 16",Canberra,Forestville,2016-12-01,201.96,,P39_ABBOTT_Tony.pdf,8
+P39_ALEXANDER_John_6_3,ALEXANDER_John,P39_ALEXANDER_John,"Sydney to Canberra 28 Aug 16",Sydney,Canberra,2016-08-28,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_4,ALEXANDER_John,P39_ALEXANDER_John,"Canberra to Sydney 1 Sep 16",Canberra,Sydney,2016-09-01,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_5,ALEXANDER_John,P39_ALEXANDER_John,"Sydney to Canberra 11 Sep 16",Sydney,Canberra,2016-09-11,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_6,ALEXANDER_John,P39_ALEXANDER_John,"Canberra to Sydney 15 Sep 16",Canberra,Sydney,2016-09-15,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_7,ALEXANDER_John,P39_ALEXANDER_John,"Sydney to Canberra 9 Oct 16",Sydney,Canberra,2016-10-09,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_8,ALEXANDER_John,P39_ALEXANDER_John,"Canberra to Sydney 13 Oct 16",Canberra,Sydney,2016-10-13,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_9,ALEXANDER_John,P39_ALEXANDER_John,"Sydney to Canberra 16 Oct 16",Sydney,Canberra,2016-10-16,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_10,ALEXANDER_John,P39_ALEXANDER_John,"Canberra to Sydney 20 Oct 16",Canberra,Sydney,2016-10-20,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_11,ALEXANDER_John,P39_ALEXANDER_John,"Sydney to Canberra 6 Nov 16",Sydney,Canberra,2016-11-06,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_12,ALEXANDER_John,P39_ALEXANDER_John,"Canberra to Sydney 10 Nov 16",Canberra,Sydney,2016-11-10,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_13,ALEXANDER_John,P39_ALEXANDER_John,"Sydney to Canberra 20 Nov 16",Sydney,Canberra,2016-11-20,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_14,ALEXANDER_John,P39_ALEXANDER_John,"Canberra to Sydney 24 Nov 16",Canberra,Sydney,2016-11-24,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_15,ALEXANDER_John,P39_ALEXANDER_John,"Sydney to Canberra 27 Nov 16",Sydney,Canberra,2016-11-27,188.10,,P39_ALEXANDER_John.pdf,6
+P39_ALEXANDER_John_6_16,ALEXANDER_John,P39_ALEXANDER_John,"Canberra to Sydney 1 Dec 16",Canberra,Sydney,2016-12-01,188.10,,P39_ALEXANDER_John.pdf,6
+P39_BURNEY_Linda_7_3,BURNEY_Linda,P39_BURNEY_Linda,"Marrickville to Canberra 8 Jul 16",Marrickville,Canberra,2016-07-08,182.16,,P39_BURNEY_Linda.pdf,7
+P39_BURNEY_Linda_7_4,BURNEY_Linda,P39_BURNEY_Linda,"Canberra to Marrickville 8 Jul 16",Canberra,Marrickville,2016-07-08,182.16,,P39_BURNEY_Linda.pdf,7
+P39_BURNEY_Linda_7_5,BURNEY_Linda,P39_BURNEY_Linda,"Marrickville to Canberra 21 Jul 16",Marrickville,Canberra,2016-07-21,182.16,,P39_BURNEY_Linda.pdf,7
+P39_BURNEY_Linda_7_6,BURNEY_Linda,P39_BURNEY_Linda,"Canberra to Marrickville 22 Jul 16",Canberra,Marrickville,2016-07-22,182.16,,P39_BURNEY_Linda.pdf,7
+P39_COLEMAN_David_7_3,COLEMAN_David,P39_COLEMAN_David,"Sydney to Canberra 3 Oct 16",Sydney,Canberra,2016-10-03,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_4,COLEMAN_David,P39_COLEMAN_David,"Canberra to Sydney 6 Oct 16",Canberra,Sydney,2016-10-06,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_5,COLEMAN_David,P39_COLEMAN_David,"Sydney to Canberra 10 Oct 16",Sydney,Canberra,2016-10-10,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_6,COLEMAN_David,P39_COLEMAN_David,"Canberra to Sydney 14 Oct 16",Canberra,Sydney,2016-10-14,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_7,COLEMAN_David,P39_COLEMAN_David,"Sydney to Canberra 17 Oct 16",Sydney,Canberra,2016-10-17,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_8,COLEMAN_David,P39_COLEMAN_David,"Canberra to Sydney 20 Oct 16",Canberra,Sydney,2016-10-20,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_9,COLEMAN_David,P39_COLEMAN_David,"Lugarno to Canberra 7 Nov 16",Lugarno,Canberra,2016-11-07,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_10,COLEMAN_David,P39_COLEMAN_David,"Canberra to Lugarno 10 Nov 16",Canberra,Lugarno,2016-11-10,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_11,COLEMAN_David,P39_COLEMAN_David,"Sydney to Canberra 21 Nov 16",Sydney,Canberra,2016-11-21,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_12,COLEMAN_David,P39_COLEMAN_David,"Canberra to Sydney 24 Nov 16",Canberra,Sydney,2016-11-24,178.20,,P39_COLEMAN_David.pdf,7
+P39_COLEMAN_David_7_13,COLEMAN_David,P39_COLEMAN_David,"Sydney to Canberra 27 Nov 16",Sydney,Canberra,2016-11-27,171.60,,P39_COLEMAN_David.pdf,7
+P39_FALINSKI_Jason_7_3,FALINSKI_Jason,P39_FALINSKI_Jason,"Sydney to Canberra 17 Jul 16",Sydney,Canberra,2016-07-17,411.84,,P39_FALINSKI_Jason.pdf,7
+P39_FREELANDER_Mike_6_3,FREELANDER_Mike,P39_FREELANDER_Mike,"Camden to Canberra 15 Aug 16",Camden,Canberra,2016-08-15,337.92,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_4,FREELANDER_Mike,P39_FREELANDER_Mike,"Wombarra to Canberra 29 Aug 16",Wombarra,Canberra,2016-08-29,171.60,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_5,FREELANDER_Mike,P39_FREELANDER_Mike,"Canberra to Wombarra 1 Sep 16",Canberra,Wombarra,2016-09-01,171.60,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_6,FREELANDER_Mike,P39_FREELANDER_Mike,"Wombarra to Canberra 11 Sep 16",Wombarra,Canberra,2016-09-11,174.90,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_7,FREELANDER_Mike,P39_FREELANDER_Mike,"Canberra to Wombarra 15 Sep 16",Canberra,Wombarra,2016-09-15,174.90,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_8,FREELANDER_Mike,P39_FREELANDER_Mike,"Wombarra to Canberra 10 Oct 16",Wombarra,Canberra,2016-10-10,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_9,FREELANDER_Mike,P39_FREELANDER_Mike,"Canberra to Wombarra 13 Oct 16",Canberra,Wombarra,2016-10-13,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_10,FREELANDER_Mike,P39_FREELANDER_Mike,"Wombarra to Canberra 17 Oct 16",Wombarra,Canberra,2016-10-17,174.90,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_11,FREELANDER_Mike,P39_FREELANDER_Mike,"Canberra to Wombarra 20 Oct 16",Canberra,Wombarra,2016-10-20,174.90,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_12,FREELANDER_Mike,P39_FREELANDER_Mike,"Wombarra to Canberra 7 Nov 16",Wombarra,Canberra,2016-11-07,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_13,FREELANDER_Mike,P39_FREELANDER_Mike,"Canberra to Wombarra 10 Nov 16",Canberra,Wombarra,2016-11-10,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_14,FREELANDER_Mike,P39_FREELANDER_Mike,"Wombarra to Canberra 21 Nov 16",Wombarra,Canberra,2016-11-21,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_15,FREELANDER_Mike,P39_FREELANDER_Mike,"Canberra to Wombarra 24 Nov 16",Canberra,Wombarra,2016-11-24,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_16,FREELANDER_Mike,P39_FREELANDER_Mike,"Wombarra to Canberra 28 Nov 16",Wombarra,Canberra,2016-11-28,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_FREELANDER_Mike_6_17,FREELANDER_Mike,P39_FREELANDER_Mike,"Canberra to Wombarra 2 Dec 16",Canberra,Wombarra,2016-12-02,178.20,,P39_FREELANDER_Mike.pdf,6
+P39_GALLACHER_Alex_9_19,GALLACHER_Alex,P39_GALLACHER_Alex,"Adelaide to Canberra 27 Aug 16",Adelaide,Canberra,2016-08-27,798.60,,P39_GALLACHER_Alex.pdf,9
+P39_GEE_Andrew_6_14,GEE_Andrew,P39_GEE_Andrew,"Orange to Canberra 12 Jul 16",Orange,Canberra,2016-07-12,194.04,,P39_GEE_Andrew.pdf,6
+P39_GEE_Andrew_6_15,GEE_Andrew,P39_GEE_Andrew,"Canberra to Orange 13 Jul 16",Canberra,Orange,2016-07-13,194.04,,P39_GEE_Andrew.pdf,6
+P39_GEE_Andrew_6_16,GEE_Andrew,P39_GEE_Andrew,"Orange to Canberra 17 Jul 16",Orange,Canberra,2016-07-17,194.04,,P39_GEE_Andrew.pdf,6
+P39_GEE_Andrew_6_17,GEE_Andrew,P39_GEE_Andrew,"Canberra to Orange 18 Jul 16",Canberra,Orange,2016-07-18,194.04,,P39_GEE_Andrew.pdf,6
+P39_KELLY_Craig_7_3,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 17 Jul 16",Sydney,Canberra,2016-07-17,183.48,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_4,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 18 Jul 16",Canberra,Sydney,2016-07-18,183.48,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_5,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 28 Aug 16",Sydney,Canberra,2016-08-28,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_6,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 2 Sep 16",Canberra,Sydney,2016-09-02,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_7,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 11 Sep 16",Sydney,Canberra,2016-09-11,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_8,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 16 Sep 16",Canberra,Sydney,2016-09-16,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_9,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 3 Oct 16",Sydney,Canberra,2016-10-03,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_10,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 7 Oct 16",Canberra,Sydney,2016-10-07,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_11,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 9 Oct 16",Sydney,Canberra,2016-10-09,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_12,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 14 Oct 16",Canberra,Sydney,2016-10-14,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_13,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 16 Oct 16",Sydney,Canberra,2016-10-16,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_14,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 21 Oct 16",Canberra,Sydney,2016-10-21,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_15,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 6 Nov 16",Sydney,Canberra,2016-11-06,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_16,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 11 Nov 16",Canberra,Sydney,2016-11-11,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_17,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 20 Nov 16",Sydney,Canberra,2016-11-20,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_18,KELLY_Craig,P39_KELLY_Craig,"Canberra to Sydney 25 Nov 16",Canberra,Sydney,2016-11-25,180.84,,P39_KELLY_Craig.pdf,7
+P39_KELLY_Craig_7_19,KELLY_Craig,P39_KELLY_Craig,"Sydney to Canberra 27 Nov 16",Sydney,Canberra,2016-11-27,180.84,,P39_KELLY_Craig.pdf,7
+P39_LAUNDY_Craig_8_3,LAUNDY_Craig,P39_LAUNDY_Craig,"Hunters Hill to Canberra 20 Nov 16","Hunters Hill",Canberra,2016-11-20,184.80,,P39_LAUNDY_Craig.pdf,8
+P39_LAUNDY_Craig_8_4,LAUNDY_Craig,P39_LAUNDY_Craig,"Canberra to Hunters Hill 24 Nov 16",Canberra,"Hunters Hill",2016-11-24,184.80,,P39_LAUNDY_Craig.pdf,8
+P39_LAUNDY_Craig_8_5,LAUNDY_Craig,P39_LAUNDY_Craig,"Hunters Hill to Canberra 27 Nov 16","Hunters Hill",Canberra,2016-11-27,184.80,,P39_LAUNDY_Craig.pdf,8
+P39_LAUNDY_Craig_8_6,LAUNDY_Craig,P39_LAUNDY_Craig,"Canberra to Hunters Hill 2 Dec 16",Canberra,"Hunters Hill",2016-12-02,184.80,,P39_LAUNDY_Craig.pdf,8
+P39_LAZARUS_Glenn_5_3,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Brisbane to Coffs Harbour 14 Sep 16",Brisbane,"Coffs Harbour",2016-09-14,258.06,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_4,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Coffs Harbour to Port Stephens 15 Sep 16","Coffs Harbour","Port Stephens",2016-09-15,258.72,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_5,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Port Stephens to Canberra 16 Sep 16","Port Stephens",Canberra,2016-09-16,318.12,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_6,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Canberra to Gerringong 19 Sep 16",Canberra,Gerringong,2016-09-19,150.48,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_7,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Gerringong to Ballina 20 Sep 16",Gerringong,Ballina,2016-09-20,590.70,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_8,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Ballina to Brisbane 21 Sep 16",Ballina,Brisbane,2016-09-21,122.76,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_9,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Brisbane to Ballina 5 Oct 16",Brisbane,Ballina,2016-10-05,122.76,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_10,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Ballina to Harrington 6 Oct 16",Ballina,Harrington,2016-10-06,306.90,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_11,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Harrington to Canberra 7 Oct 16",Harrington,Canberra,2016-10-07,401.28,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_12,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Canberra to Salamander Bay 11 Oct 16",Canberra,"Salamander Bay",2016-10-11,318.12,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_13,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Salamander Bay to Ballina 12 Oct 16","Salamander Bay",Ballina,2016-10-12,399.96,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_14,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Ballina to Brisbane 13 Oct 16",Ballina,Brisbane,2016-10-13,88.76,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_15,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Brisbane to Magenta 3 Nov 16",Brisbane,Magenta,2016-11-03,283.40,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_16,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Magenta to Canberra 4 Nov 16",Magenta,Canberra,2016-11-04,133.70,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_17,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Canberra to Port Macquarie 8 Nov 16",Canberra,"Port Macquarie",2016-11-08,227.50,,P39_LAZARUS_Glenn.pdf,5
+P39_LAZARUS_Glenn_5_18,LAZARUS_Glenn,P39_LAZARUS_Glenn,"Port Macquarie to Brisbane 9 Nov 16","Port Macquarie",Brisbane,2016-11-09,184.68,,P39_LAZARUS_Glenn.pdf,5
+P39_LEESER_Julian_7_9,LEESER_Julian,P39_LEESER_Julian,"Sydney to Canberra 15 Aug 16",Sydney,Canberra,2016-08-15,199.32,,P39_LEESER_Julian.pdf,7
+P39_LEESER_Julian_7_10,LEESER_Julian,P39_LEESER_Julian,"Canberra to Sydney 17 Aug 16",Canberra,Sydney,2016-08-17,199.98,,P39_LEESER_Julian.pdf,7
+P39_MCCORMACK_Michael_22_10,MCCORMACK_Michael,P39_MCCORMACK_Michael,"Reimbursement of tolls 2 Dec 15",,"Reimbursement of tolls",2015-12-02,-5.05,,P39_MCCORMACK_Michael.pdf,22
+P39_MCVEIGH_John_0_7_3,MCVEIGH_John_,P39_MCVEIGH_John_0,"Toowoomba to Brisbane 17 Jul 16",Toowoomba,Brisbane,2016-07-17,92.40,,P39_MCVEIGH_John_0.pdf,0
+P39_MCVEIGH_John_0_7_4,MCVEIGH_John_,P39_MCVEIGH_John_0,"Brisbane to Toowoomba 18 Jul 16",Brisbane,Toowoomba,2016-07-18,92.40,,P39_MCVEIGH_John_0.pdf,0
+P39_MCVEIGH_John_0_7_5,MCVEIGH_John_,P39_MCVEIGH_John_0,"Toowoomba to Brisbane 10 Sep 16",Toowoomba,Brisbane,2016-09-10,92.40,,P39_MCVEIGH_John_0.pdf,0
+P39_MCVEIGH_John_0_7_6,MCVEIGH_John_,P39_MCVEIGH_John_0,"Brisbane to Toowoomba 13 Sep 16",Brisbane,Toowoomba,2016-09-13,92.40,,P39_MCVEIGH_John_0.pdf,0
+P39_OWENS_Julie_7_3,OWENS_Julie,P39_OWENS_Julie,"Sydney to Canberra 7 Jul 16",Sydney,Canberra,2016-07-07,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_4,OWENS_Julie,P39_OWENS_Julie,"Canberra to Sydney 8 Jul 16",Canberra,Sydney,2016-07-08,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_5,OWENS_Julie,P39_OWENS_Julie,"Sydney to Canberra 21 Jul 16",Sydney,Canberra,2016-07-21,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_6,OWENS_Julie,P39_OWENS_Julie,"Canberra to Sydney 22 Jul 16",Canberra,Sydney,2016-07-22,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_7,OWENS_Julie,P39_OWENS_Julie,"Sydney to Canberra 28 Aug 16",Sydney,Canberra,2016-08-28,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_8,OWENS_Julie,P39_OWENS_Julie,"Canberra to Sydney 2 Sep 16",Canberra,Sydney,2016-09-02,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_9,OWENS_Julie,P39_OWENS_Julie,"Sydney to Canberra 9 Oct 16",Sydney,Canberra,2016-10-09,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_10,OWENS_Julie,P39_OWENS_Julie,"Canberra to Sydney 22 Oct 16",Canberra,Sydney,2016-10-22,184.80,,P39_OWENS_Julie.pdf,7
+P39_OWENS_Julie_7_11,OWENS_Julie,P39_OWENS_Julie,"Sydney to Canberra 6 Nov 16",Sydney,Canberra,2016-11-06,184.80,,P39_OWENS_Julie.pdf,7
+P39_RHIANNON_Lee_7_3,RHIANNON_Lee,P39_RHIANNON_Lee,"Sydney to Canberra 28 Aug 16",Sydney,Canberra,2016-08-28,184.80,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_4,RHIANNON_Lee,P39_RHIANNON_Lee,"Canberra to Sydney 1 Sep 16",Canberra,Sydney,2016-09-01,184.80,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_5,RHIANNON_Lee,P39_RHIANNON_Lee,"Sydney to Canberra 11 Sep 16",Sydney,Canberra,2016-09-11,184.80,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_6,RHIANNON_Lee,P39_RHIANNON_Lee,"Canberra to Sydney 15 Sep 16",Canberra,Sydney,2016-09-15,184.80,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_7,RHIANNON_Lee,P39_RHIANNON_Lee,"Sydney to Canberra 9 Oct 16",Sydney,Canberra,2016-10-09,191.40,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_8,RHIANNON_Lee,P39_RHIANNON_Lee,"Canberra to Sydney 13 Oct 16",Canberra,Sydney,2016-10-13,191.40,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_9,RHIANNON_Lee,P39_RHIANNON_Lee,"Sydney to Canberra 16 Oct 16",Sydney,Canberra,2016-10-16,191.40,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_10,RHIANNON_Lee,P39_RHIANNON_Lee,"Canberra to Sydney 20 Oct 16",Canberra,Sydney,2016-10-20,191.40,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_11,RHIANNON_Lee,P39_RHIANNON_Lee,"Sydney to Canberra 20 Nov 16",Sydney,Canberra,2016-11-20,191.40,,P39_RHIANNON_Lee.pdf,7
+P39_RHIANNON_Lee_7_12,RHIANNON_Lee,P39_RHIANNON_Lee,"Canberra to Sydney 1 Dec 16",Canberra,Sydney,2016-12-01,191.40,,P39_RHIANNON_Lee.pdf,7
+P39_STANLEY_Anne_6_14,STANLEY_Anne,P39_STANLEY_Anne,"Lurnea to Canberra 7 Jul 16",Lurnea,Canberra,2016-07-07,167.64,,P39_STANLEY_Anne.pdf,6
+P39_STANLEY_Anne_6_15,STANLEY_Anne,P39_STANLEY_Anne,"Canberra to Lurnea 8 Jul 16",Canberra,Lurnea,2016-07-08,167.64,,P39_STANLEY_Anne.pdf,6
+P39_STANLEY_Anne_6_16,STANLEY_Anne,P39_STANLEY_Anne,"Lurnea to Canberra 22 Jul 16",Lurnea,Canberra,2016-07-22,167.64,,P39_STANLEY_Anne.pdf,6
+P39_STANLEY_Anne_6_17,STANLEY_Anne,P39_STANLEY_Anne,"Canberra to Lurnea 22 Jul 16",Canberra,Lurnea,2016-07-22,167.64,,P39_STANLEY_Anne.pdf,6
+P39_WICKS_Lucy_7_3,WICKS_Lucy,P39_WICKS_Lucy,"Gosford to Canberra 17 Jul 16",Gosford,Canberra,2016-07-17,238.26,,P39_WICKS_Lucy.pdf,7
+P39_WICKS_Lucy_7_4,WICKS_Lucy,P39_WICKS_Lucy,"Canberra to Gosford 18 Jul 16",Canberra,Gosford,2016-07-18,238.26,,P39_WICKS_Lucy.pdf,7
+P39_WICKS_Lucy_7_5,WICKS_Lucy,P39_WICKS_Lucy,"Springfield to Sydney 11 Sep 16",Springfield,Sydney,2016-09-11,61.38,,P39_WICKS_Lucy.pdf,7
+P39_WICKS_Lucy_7_6,WICKS_Lucy,P39_WICKS_Lucy,"Springfield to Canberra 9 Oct 16",Springfield,Canberra,2016-10-09,238.26,,P39_WICKS_Lucy.pdf,7
+P39_WICKS_Lucy_7_7,WICKS_Lucy,P39_WICKS_Lucy,"Springfield to Canberra 16 Oct 16",Springfield,Canberra,2016-10-16,238.26,,P39_WICKS_Lucy.pdf,7
+P39_WICKS_Lucy_7_8,WICKS_Lucy,P39_WICKS_Lucy,"Canberra to Springfield 20 Oct 16",Canberra,Springfield,2016-10-20,238.26,,P39_WICKS_Lucy.pdf,7
+P39_WICKS_Lucy_16_3,WICKS_Lucy,P39_WICKS_Lucy,"Terrigal to Canberra 6 Feb 16",Terrigal,Canberra,2016-02-06,266.04,,P39_WICKS_Lucy.pdf,16
+P39_WICKS_Lucy_16_4,WICKS_Lucy,P39_WICKS_Lucy,"Canberra to Terrigal 7 Feb 16",Canberra,Terrigal,2016-02-07,266.04,,P39_WICKS_Lucy.pdf,16
+P39_WICKS_Lucy_16_5,WICKS_Lucy,P39_WICKS_Lucy,"Terrigal to Canberra 14 Mar 16",Terrigal,Canberra,2016-03-14,180.81,,P39_WICKS_Lucy.pdf,16
+P39_WICKS_Lucy_16_6,WICKS_Lucy,P39_WICKS_Lucy,"Canberra to Terrigal 18 Mar 16",Canberra,Terrigal,2016-03-18,231.84,,P39_WICKS_Lucy.pdf,16
+P39_WICKS_Lucy_16_7,WICKS_Lucy,P39_WICKS_Lucy,"Gosford to Canberra 17 Apr 16",Gosford,Canberra,2016-04-17,58.59,,P39_WICKS_Lucy.pdf,16
+P39_WICKS_Lucy_16_8,WICKS_Lucy,P39_WICKS_Lucy,"Gosford to Canberra 1 May 16",Gosford,Canberra,2016-05-01,58.59,,P39_WICKS_Lucy.pdf,16
+P39_WOOD_Jason_6_3,WOOD_Jason,P39_WOOD_Jason,"Canberra to Mount Dandenong 18 Jul 16",Canberra,"Mount Dandenong",2016-07-18,458.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_4,WOOD_Jason,P39_WOOD_Jason,"Mount Dandenong to Canberra 28 Aug 16","Mount Dandenong",Canberra,2016-08-28,458.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_5,WOOD_Jason,P39_WOOD_Jason,"Canberra to Mount Dandenong 2 Sep 16",Canberra,"Mount Dandenong",2016-09-02,458.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_6,WOOD_Jason,P39_WOOD_Jason,"Mount Dandenong to Canberra 11 Sep 16","Mount Dandenong",Canberra,2016-09-11,234.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_7,WOOD_Jason,P39_WOOD_Jason,"Canberra to Mount Dandenong 16 Sep 16",Canberra,"Mount Dandenong",2016-09-16,234.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_8,WOOD_Jason,P39_WOOD_Jason,"Mount Dandenong to Canberra 9 Oct 16","Mount Dandenong",Canberra,2016-10-09,458.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_9,WOOD_Jason,P39_WOOD_Jason,"Canberra to Mount Dandenong 14 Oct 16",Canberra,"Mount Dandenong",2016-10-14,458.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_10,WOOD_Jason,P39_WOOD_Jason,"Mount Dandenong to Canberra 16 Oct 16","Mount Dandenong",Canberra,2016-10-16,458.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_11,WOOD_Jason,P39_WOOD_Jason,"Canberra to Mount Dandenong 21 Oct 16",Canberra,"Mount Dandenong",2016-10-21,458.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_12,WOOD_Jason,P39_WOOD_Jason,"Mount Dandenong to Canberra 6 Nov 16","Mount Dandenong",Canberra,2016-11-06,277.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_13,WOOD_Jason,P39_WOOD_Jason,"Canberra to Mount Dandenong 11 Nov 16",Canberra,"Mount Dandenong",2016-11-11,234.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_14,WOOD_Jason,P39_WOOD_Jason,"Mount Dandenong to Canberra 20 Nov 16","Mount Dandenong",Canberra,2016-11-20,234.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_15,WOOD_Jason,P39_WOOD_Jason,"Canberra to Mount Dandenong 25 Nov 16",Canberra,"Mount Dandenong",2016-11-25,234.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_16,WOOD_Jason,P39_WOOD_Jason,"Melbourne to Canberra 27 Nov 16",Melbourne,Canberra,2016-11-27,234.70,,P39_WOOD_Jason.pdf,6
+P39_WOOD_Jason_6_17,WOOD_Jason,P39_WOOD_Jason,"Canberra to Melbourne 2 Dec 16",Canberra,Melbourne,2016-12-02,234.70,,P39_WOOD_Jason.pdf,6
