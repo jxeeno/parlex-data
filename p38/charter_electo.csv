@@ -1,0 +1,299 @@
+entry_id,parl_id,source_id,details,start_date,end_date,origin,destination,amount,superscript,adjustment,notes,linked_entry,source_pdf,source_pagenum
+P38_BACK_Chris_20_3,BACK_Chris,P38_BACK_Chris,"Esperance 16 Oct 15 to 18 Oct 15",2015-10-16,2015-10-18,Esperance,,163.53,,,,,P38_BACK_Chris.pdf,20
+P38_BACK_Chris_20_4,BACK_Chris,P38_BACK_Chris,"Geraldton 23 Oct 15 to 25 Oct 15",2015-10-23,2015-10-25,Geraldton,,166.64,,,,,P38_BACK_Chris.pdf,20
+P38_BACK_Chris_20_5,BACK_Chris,P38_BACK_Chris,"Jandakot to Esperance 9 Dec 15",2015-12-09,0000-00-00,Jandakot,Esperance,3960.00,,,,,P38_BACK_Chris.pdf,20
+P38_BACK_Chris_20_6,BACK_Chris,P38_BACK_Chris,"Esperance to Jandakot 9 Dec 15",2015-12-09,0000-00-00,Esperance,Jandakot,0.00,,,,P38_BACK_Chris_20_5,P38_BACK_Chris.pdf,20
+P38_BACK_Chris_7_3,BACK_Chris,P38_BACK_Chris,"Esperance 19 May 16",2016-05-19,0000-00-00,Esperance,,367.80,,,,,P38_BACK_Chris.pdf,7
+P38_BROAD_Andrew_19_3,BROAD_Andrew,P38_BROAD_Andrew,"Horsham to Birchip 6 Nov 15",2015-11-06,0000-00-00,Horsham,Birchip,1181.82,,,,,P38_BROAD_Andrew.pdf,19
+P38_BROAD_Andrew_19_4,BROAD_Andrew,P38_BROAD_Andrew,"Birchip to Mildura 6 Nov 15",2015-11-06,0000-00-00,Birchip,Mildura,0.00,,,,P38_BROAD_Andrew_19_3,P38_BROAD_Andrew.pdf,19
+P38_BROAD_Andrew_19_5,BROAD_Andrew,P38_BROAD_Andrew,"Mildura to Pinnaroo 15 Nov 15",2015-11-15,0000-00-00,Mildura,Pinnaroo,1240.91,,,,,P38_BROAD_Andrew.pdf,19
+P38_BROAD_Andrew_19_6,BROAD_Andrew,P38_BROAD_Andrew,"Pinnaroo to Sea Lake 15 Nov 15",2015-11-15,0000-00-00,Pinnaroo,"Sea Lake",0.00,,,,P38_BROAD_Andrew_19_5,P38_BROAD_Andrew.pdf,19
+P38_BROAD_Andrew_19_7,BROAD_Andrew,P38_BROAD_Andrew,"Sea Lake to Mildura 15 Nov 15",2015-11-15,0000-00-00,"Sea Lake",Mildura,0.00,,,,P38_BROAD_Andrew_19_5,P38_BROAD_Andrew.pdf,19
+P38_BROAD_Andrew_19_8,BROAD_Andrew,P38_BROAD_Andrew,"Mildura to Donald 20 Nov 15",2015-11-20,0000-00-00,Mildura,Donald,800.00,,,,,P38_BROAD_Andrew.pdf,19
+P38_BROAD_Andrew_19_9,BROAD_Andrew,P38_BROAD_Andrew,"Donald to Mildura 21 Nov 15",2015-11-21,0000-00-00,Donald,Mildura,0.00,,,,P38_BROAD_Andrew_19_8,P38_BROAD_Andrew.pdf,19
+P38_BROAD_Andrew_7_3,BROAD_Andrew,P38_BROAD_Andrew,"Mildura to Horsham 12 Feb 16",2016-02-12,0000-00-00,Mildura,Horsham,1259.09,,,,,P38_BROAD_Andrew.pdf,7
+P38_BROAD_Andrew_7_4,BROAD_Andrew,P38_BROAD_Andrew,"Horsham to Mildura 12 Feb 16",2016-02-12,0000-00-00,Horsham,Mildura,0.00,,,,P38_BROAD_Andrew_7_3,P38_BROAD_Andrew.pdf,7
+P38_BROAD_Andrew_7_5,BROAD_Andrew,P38_BROAD_Andrew,"Mildura to Donald 26 Feb 16",2016-02-26,0000-00-00,Mildura,Donald,1131.82,,,,,P38_BROAD_Andrew.pdf,7
+P38_BROAD_Andrew_7_6,BROAD_Andrew,P38_BROAD_Andrew,"Donald to Mildura 26 Feb 16",2016-02-26,0000-00-00,Donald,Mildura,0.00,,,,P38_BROAD_Andrew_7_5,P38_BROAD_Andrew.pdf,7
+P38_CANAVAN_Matthew_10_11,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Townsville to Georgetown 17 Feb 16",2016-02-17,0000-00-00,Townsville,Georgetown,3258.55,,,,,P38_CANAVAN_Matthew.pdf,10
+P38_CANAVAN_Matthew_10_12,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Georgetown to Townsville 17 Feb 16",2016-02-17,0000-00-00,Georgetown,Townsville,0.00,,,,P38_CANAVAN_Matthew_10_11,P38_CANAVAN_Matthew.pdf,10
+P38_CANAVAN_Matthew_28_3,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Roma 5 Nov 15 to 7 Nov 15",2015-11-05,2015-11-07,Roma,,528.44,,,,,P38_CANAVAN_Matthew.pdf,28
+P38_CANAVAN_Matthew_28_4,CANAVAN_Matthew,P38_CANAVAN_Matthew,"Brisbane 20 Nov 15 to 22 Nov 15",2015-11-20,2015-11-22,Brisbane,,299.21,,,,,P38_CANAVAN_Matthew.pdf,28
+P38_CHESTER_Darren_29_10,CHESTER_Darren,P38_CHESTER_Darren,"Orbost to West Sale 17 Nov 15",2015-11-17,0000-00-00,Orbost,"West Sale",0.00,,,,,P38_CHESTER_Darren.pdf,29
+P38_CHESTER_Darren_29_8,CHESTER_Darren,P38_CHESTER_Darren,"Lakes Entrance to Sale 13 Nov 15",2015-11-13,0000-00-00,"Lakes Entrance",Sale,469.00,,,,,P38_CHESTER_Darren.pdf,29
+P38_CHESTER_Darren_29_9,CHESTER_Darren,P38_CHESTER_Darren,"Yarram to Orbost 17 Nov 15",2015-11-17,0000-00-00,Yarram,Orbost,2509.09,,,,,P38_CHESTER_Darren.pdf,29
+P38_CHESTER_Darren_8_16,CHESTER_Darren,P38_CHESTER_Darren,"Lakes Entrance to Yarrum 12 Feb 16",2016-02-12,0000-00-00,"Lakes Entrance",Yarrum,1206.00,,,,,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_17,CHESTER_Darren,P38_CHESTER_Darren,"Yarrum to Lakes Entrance 12 Feb 16",2016-02-12,0000-00-00,Yarrum,"Lakes Entrance",0.00,,,,P38_CHESTER_Darren_8_16,P38_CHESTER_Darren.pdf,8
+P38_CHESTER_Darren_8_18,CHESTER_Darren,P38_CHESTER_Darren,"Horsham to Bairnsdale 29 Apr 16",2016-04-29,0000-00-00,Horsham,Bairnsdale,2609.09,,,,,P38_CHESTER_Darren.pdf,8
+P38_CHRISTENSEN_George_7_3,CHRISTENSEN_George,P38_CHRISTENSEN_George,"Mackay to Townsville 11 Apr 16",2016-04-11,0000-00-00,Mackay,Townsville,2000.00,,,,,P38_CHRISTENSEN_George.pdf,7
+P38_COULTON_Mark_8_3,COULTON_Mark,P38_COULTON_Mark,"Warialda to Dubbo 19 Feb 16",2016-02-19,0000-00-00,Warialda,Dubbo,2727.27,,,,,P38_COULTON_Mark.pdf,8
+P38_COULTON_Mark_8_4,COULTON_Mark,P38_COULTON_Mark,"Dubbo to Warialda 19 Feb 16",2016-02-19,0000-00-00,Dubbo,Warialda,0.00,,,,P38_COULTON_Mark_8_3,P38_COULTON_Mark.pdf,8
+P38_COULTON_Mark_8_5,COULTON_Mark,P38_COULTON_Mark,"Warialda to Gilgandra 20 Feb 16",2016-02-20,0000-00-00,Warialda,Gilgandra,2454.55,,,,,P38_COULTON_Mark.pdf,8
+P38_COULTON_Mark_8_6,COULTON_Mark,P38_COULTON_Mark,"Gilgandra to Warialda 20 Feb 16",2016-02-20,0000-00-00,Gilgandra,Warialda,0.00,,,,P38_COULTON_Mark_8_5,P38_COULTON_Mark.pdf,8
+P38_ENTSCH_Warren_23_10,ENTSCH_Warren,P38_ENTSCH_Warren,"Bamaga to Weipa 16 Dec 15",2015-12-16,0000-00-00,Bamaga,Weipa,0.00,,,,,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_23_3,ENTSCH_Warren,P38_ENTSCH_Warren,"Weipa to Kowanyama 15 Dec 15",2015-12-15,0000-00-00,Weipa,Kowanyama,5900.00,,,,,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_23_4,ENTSCH_Warren,P38_ENTSCH_Warren,"Kowanyama to Pormpuraaw 15 Dec 15",2015-12-15,0000-00-00,Kowanyama,Pormpuraaw,0.00,,,,P38_ENTSCH_Warren_23_3,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_23_5,ENTSCH_Warren,P38_ENTSCH_Warren,"Pormpuraaw to Aurukun 15 Dec 15",2015-12-15,0000-00-00,Pormpuraaw,Aurukun,0.00,,,,P38_ENTSCH_Warren_23_3,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_23_6,ENTSCH_Warren,P38_ENTSCH_Warren,"Aurukun to Weipa 15 Dec 15",2015-12-15,0000-00-00,Aurukun,Weipa,0.00,,,,P38_ENTSCH_Warren_23_3,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_23_7,ENTSCH_Warren,P38_ENTSCH_Warren,"Weipa to Lockhart River 16 Dec 15",2015-12-16,0000-00-00,Weipa,"Lockhart River",0.00,,,,P38_ENTSCH_Warren_23_3,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_23_8,ENTSCH_Warren,P38_ENTSCH_Warren,"Lockhart River to Mapoon 16 Dec 15",2015-12-16,0000-00-00,"Lockhart River",Mapoon,0.00,,,,P38_ENTSCH_Warren_23_3,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_23_9,ENTSCH_Warren,P38_ENTSCH_Warren,"Mapoon to Bamaga 16 Dec 15",2015-12-16,0000-00-00,Mapoon,Bamaga,0.00,,,,P38_ENTSCH_Warren_23_3,P38_ENTSCH_Warren.pdf,23
+P38_ENTSCH_Warren_8_3,ENTSCH_Warren,P38_ENTSCH_Warren,"Cooktown 5 Apr 16 to 7 Apr 16",2016-04-05,2016-04-07,Cooktown,,199.15,,,,,P38_ENTSCH_Warren.pdf,8
+P38_ENTSCH_Warren_8_4,ENTSCH_Warren,P38_ENTSCH_Warren,"Horn Island to Saibai Island 11 Apr 16",2016-04-11,0000-00-00,"Horn Island","Saibai Island",1000.00,,,,,P38_ENTSCH_Warren.pdf,8
+P38_ENTSCH_Warren_8_5,ENTSCH_Warren,P38_ENTSCH_Warren,"Saibai Island to Horn Island 12 Apr 16",2016-04-12,0000-00-00,"Saibai Island","Horn Island",0.00,,,,P38_ENTSCH_Warren_8_4,P38_ENTSCH_Warren.pdf,8
+P38_KATTER_Bob_10_10,KATTER_Bob,P38_KATTER_Bob,"Burketown to Mount Isa 2 Mar 16",2016-03-02,0000-00-00,Burketown,"Mount Isa",2530.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_11,KATTER_Bob,P38_KATTER_Bob,"Chillagoe to Charters Towers 6 Mar 16",2016-03-06,0000-00-00,Chillagoe,"Charters Towers",1828.18,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_12,KATTER_Bob,P38_KATTER_Bob,"Mount Isa to Karumba 22 Mar 16",2016-03-22,0000-00-00,"Mount Isa",Karumba,4625.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_13,KATTER_Bob,P38_KATTER_Bob,"Karumba to Normanton 22 Mar 16",2016-03-22,0000-00-00,Karumba,Normanton,0.00,,,,P38_KATTER_Bob_10_12,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_14,KATTER_Bob,P38_KATTER_Bob,"Normanton to Karumba 22 Mar 16",2016-03-22,0000-00-00,Normanton,Karumba,0.00,,,,P38_KATTER_Bob_10_12,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_15,KATTER_Bob,P38_KATTER_Bob,"Karumba to Burketown 23 Mar 16",2016-03-23,0000-00-00,Karumba,Burketown,0.00,,,,P38_KATTER_Bob_10_12,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_16,KATTER_Bob,P38_KATTER_Bob,"Burketown to Mount Isa 23 Mar 16",2016-03-23,0000-00-00,Burketown,"Mount Isa",0.00,,,,P38_KATTER_Bob_10_12,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_17,KATTER_Bob,P38_KATTER_Bob,"Townsville to Julia Creek 16 Apr 16",2016-04-16,0000-00-00,Townsville,"Julia Creek",6125.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_18,KATTER_Bob,P38_KATTER_Bob,"Julia Creek to Charters Towers 16 Apr 16",2016-04-16,0000-00-00,"Julia Creek","Charters Towers",0.00,,,,P38_KATTER_Bob_10_17,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_19,KATTER_Bob,P38_KATTER_Bob,"Cairns to Innisfail 21 Apr 16",2016-04-21,0000-00-00,Cairns,Innisfail,2363.64,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_20,KATTER_Bob,P38_KATTER_Bob,"Innisfail to Cairns 21 Apr 16",2016-04-21,0000-00-00,Innisfail,Cairns,0.00,,,,P38_KATTER_Bob_10_19,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_21,KATTER_Bob,P38_KATTER_Bob,"Mount Isa 23 Apr 16",2016-04-23,0000-00-00,"Mount Isa",,63.64,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_22,KATTER_Bob,P38_KATTER_Bob,"Charters Towers to Richmond 30 Apr 16",2016-04-30,0000-00-00,"Charters Towers",Richmond,3925.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_23,KATTER_Bob,P38_KATTER_Bob,"Richmond to Charters Towers 30 Apr 16",2016-04-30,0000-00-00,Richmond,"Charters Towers",0.00,,,,P38_KATTER_Bob_10_22,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_24,KATTER_Bob,P38_KATTER_Bob,"Mount Isa to Cairns 29 May 16",2016-05-29,0000-00-00,"Mount Isa",Cairns,4232.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_25,KATTER_Bob,P38_KATTER_Bob,"Cairns to Charters Towers 29 May 16",2016-05-29,0000-00-00,Cairns,"Charters Towers",0.00,,,,P38_KATTER_Bob_10_24,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_3,KATTER_Bob,P38_KATTER_Bob,"Cairns to Yarrabah 27 Jan 16",2016-01-27,0000-00-00,Cairns,Yarrabah,500.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_4,KATTER_Bob,P38_KATTER_Bob,"Yarrabah to Cairns 27 Jan 16",2016-01-27,0000-00-00,Yarrabah,Cairns,0.00,,,,P38_KATTER_Bob_10_3,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_5,KATTER_Bob,P38_KATTER_Bob,"Mount Isa to Innisfail 14 Feb 16",2016-02-14,0000-00-00,"Mount Isa",Innisfail,4950.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_6,KATTER_Bob,P38_KATTER_Bob,"Innisfail to Mount Isa 14 Feb 16",2016-02-14,0000-00-00,Innisfail,"Mount Isa",0.00,,,,P38_KATTER_Bob_10_5,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_7,KATTER_Bob,P38_KATTER_Bob,"Townsville to Charters Towers 14 Feb 16",2016-02-14,0000-00-00,Townsville,"Charters Towers",0.00,,,,P38_KATTER_Bob_10_5,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_8,KATTER_Bob,P38_KATTER_Bob,"Charters Towers to Hughenden 27 Feb 16",2016-02-27,0000-00-00,"Charters Towers",Hughenden,3250.00,,,,,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_10_9,KATTER_Bob,P38_KATTER_Bob,"Hughenden to Charters Towers 27 Feb 16",2016-02-27,0000-00-00,Hughenden,"Charters Towers",0.00,,,,P38_KATTER_Bob_10_8,P38_KATTER_Bob.pdf,10
+P38_KATTER_Bob_32_10,KATTER_Bob,P38_KATTER_Bob,"Charters Towers to Mt Garnet 11 Dec 15",2015-12-11,0000-00-00,"Charters Towers","Mt Garnet",2125.00,,,,,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_11,KATTER_Bob,P38_KATTER_Bob,"Mt Garnet to Charters Towers 11 Dec 15",2015-12-11,0000-00-00,"Mt Garnet","Charters Towers",0.00,,,,P38_KATTER_Bob_32_10,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_12,KATTER_Bob,P38_KATTER_Bob,"Charters Towers to Cloncurry 17 Dec 15",2015-12-17,0000-00-00,"Charters Towers",Cloncurry,7660.00,,,,,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_13,KATTER_Bob,P38_KATTER_Bob,"Cloncurry to Cairns 17 Dec 15",2015-12-17,0000-00-00,Cloncurry,Cairns,0.00,,,,P38_KATTER_Bob_32_12,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_14,KATTER_Bob,P38_KATTER_Bob,"Cairns to Innisfail 17 Dec 15",2015-12-17,0000-00-00,Cairns,Innisfail,0.00,,,,P38_KATTER_Bob_32_12,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_15,KATTER_Bob,P38_KATTER_Bob,"Innisfail to Charters Towers 17 Dec 15",2015-12-17,0000-00-00,Innisfail,"Charters Towers",0.00,,,,P38_KATTER_Bob_32_12,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_3,KATTER_Bob,P38_KATTER_Bob,"Charters Towers 7 Sep 15",2015-09-07,0000-00-00,"Charters Towers",,1800.00,,,,,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_4,KATTER_Bob,P38_KATTER_Bob,"Innisfail to Townsville 27 Sep 15",2015-09-27,0000-00-00,Innisfail,Townsville,780.91,,,,,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_5,KATTER_Bob,P38_KATTER_Bob,"Mount Isa to Karumba 4 Dec 15",2015-12-04,0000-00-00,"Mount Isa",Karumba,3355.00,,,,,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_6,KATTER_Bob,P38_KATTER_Bob,"Karumba to Mount Isa 5 Dec 15",2015-12-05,0000-00-00,Karumba,"Mount Isa",0.00,,,,P38_KATTER_Bob_32_5,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_7,KATTER_Bob,P38_KATTER_Bob,"Charters Towers to Mount Surprise 10 Dec 15",2015-12-10,0000-00-00,"Charters Towers","Mount Surprise",3400.00,,,,,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_8,KATTER_Bob,P38_KATTER_Bob,"Mount Surprise to Mt Garnet 10 Dec 15",2015-12-10,0000-00-00,"Mount Surprise","Mt Garnet",0.00,,,,P38_KATTER_Bob_32_7,P38_KATTER_Bob.pdf,32
+P38_KATTER_Bob_32_9,KATTER_Bob,P38_KATTER_Bob,"Mt Garnet to Charters Towers 10 Dec 15",2015-12-10,0000-00-00,"Mt Garnet","Charters Towers",0.00,,,,P38_KATTER_Bob_32_7,P38_KATTER_Bob.pdf,32
+P38_KETTER_Chris_22_3,KETTER_Chris,P38_KETTER_Chris,"Townsville 3 Dec 15 to 4 Dec 15",2015-12-03,2015-12-04,Townsville,,69.72,,,,,P38_KETTER_Chris.pdf,22
+P38_LANDRY_Michelle_20_3,LANDRY_Michelle,P38_LANDRY_Michelle,"Rockhampton to Moranbah 16 Dec 15",2015-12-16,0000-00-00,Rockhampton,Moranbah,2236.36,,,,,P38_LANDRY_Michelle.pdf,20
+P38_LANDRY_Michelle_20_4,LANDRY_Michelle,P38_LANDRY_Michelle,"Moranbah to Rockhampton 16 Dec 15",2015-12-16,0000-00-00,Moranbah,Rockhampton,0.00,,,,P38_LANDRY_Michelle_20_3,P38_LANDRY_Michelle.pdf,20
+P38_LANDRY_Michelle_7_3,LANDRY_Michelle,P38_LANDRY_Michelle,"Rockhampton 16 Feb 16",2016-02-16,0000-00-00,Rockhampton,,3150.00,,,,,P38_LANDRY_Michelle.pdf,7
+P38_LANDRY_Michelle_7_4,LANDRY_Michelle,P38_LANDRY_Michelle,"Rockhampton to Mackay 22 Apr 16",2016-04-22,0000-00-00,Rockhampton,Mackay,2252.73,,,,,P38_LANDRY_Michelle.pdf,7
+P38_LANDRY_Michelle_7_5,LANDRY_Michelle,P38_LANDRY_Michelle,"Mackay to Collinsville 22 Apr 16",2016-04-22,0000-00-00,Mackay,Collinsville,0.00,,,,P38_LANDRY_Michelle_7_4,P38_LANDRY_Michelle.pdf,7
+P38_LANDRY_Michelle_7_6,LANDRY_Michelle,P38_LANDRY_Michelle,"Collinsville to Mackay 22 Apr 16",2016-04-22,0000-00-00,Collinsville,Mackay,0.00,,,,P38_LANDRY_Michelle_7_4,P38_LANDRY_Michelle.pdf,7
+P38_LANDRY_Michelle_7_7,LANDRY_Michelle,P38_LANDRY_Michelle,"Mackay to Rockhampton 22 Apr 16",2016-04-22,0000-00-00,Mackay,Rockhampton,0.00,,,,P38_LANDRY_Michelle_7_4,P38_LANDRY_Michelle.pdf,7
+P38_LEY_Sussan_12_15,LEY_Sussan,P38_LEY_Sussan,"Canberra to Albury 25 Feb 16",2016-02-25,0000-00-00,Canberra,Albury,2027.27,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_16,LEY_Sussan,P38_LEY_Sussan,"Albury to Coleambally 24 Mar 16",2016-03-24,0000-00-00,Albury,Coleambally,2543.23,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_17,LEY_Sussan,P38_LEY_Sussan,"Coleambally to Jerilderie 24 Mar 16",2016-03-24,0000-00-00,Coleambally,Jerilderie,0.00,,,,P38_LEY_Sussan_12_16,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_18,LEY_Sussan,P38_LEY_Sussan,"Jerilderie to Deniliquin 24 Mar 16",2016-03-24,0000-00-00,Jerilderie,Deniliquin,0.00,,,,P38_LEY_Sussan_12_16,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_19,LEY_Sussan,P38_LEY_Sussan,"Deniliquin to Albury 24 Mar 16",2016-03-24,0000-00-00,Deniliquin,Albury,0.00,,,,P38_LEY_Sussan_12_16,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_20,LEY_Sussan,P38_LEY_Sussan,"Albury to Deniliquin 6 Apr 16",2016-04-06,0000-00-00,Albury,Deniliquin,3805.88,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_21,LEY_Sussan,P38_LEY_Sussan,"Deniliquin to Mildura 6 Apr 16",2016-04-06,0000-00-00,Deniliquin,Mildura,0.00,,,,P38_LEY_Sussan_12_20,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_22,LEY_Sussan,P38_LEY_Sussan,"Albury to Echuca 10 Jun 16",2016-06-10,0000-00-00,Albury,Echuca,2200.00,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_23,LEY_Sussan,P38_LEY_Sussan,"Echuca to Jerilderie 10 Jun 16",2016-06-10,0000-00-00,Echuca,Jerilderie,0.00,,,,P38_LEY_Sussan_12_22,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_24,LEY_Sussan,P38_LEY_Sussan,"Jerilderie to Albury 10 Jun 16",2016-06-10,0000-00-00,Jerilderie,Albury,0.00,,,,P38_LEY_Sussan_12_22,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_12_25,LEY_Sussan,P38_LEY_Sussan,"Albury to Griffith 12 Jun 16",2016-06-12,0000-00-00,Albury,Griffith,2025.00,,,,,P38_LEY_Sussan.pdf,12
+P38_LEY_Sussan_32_10,LEY_Sussan,P38_LEY_Sussan,"Griffith to Albury 15 Dec 15",2015-12-15,0000-00-00,Griffith,Albury,0.00,,,,,P38_LEY_Sussan.pdf,32
+P38_LEY_Sussan_32_11,LEY_Sussan,P38_LEY_Sussan,"Broken Hill to Kerang 18 Dec 15",2015-12-18,0000-00-00,"Broken Hill",Kerang,5475.00,,,,,P38_LEY_Sussan.pdf,32
+P38_LEY_Sussan_32_12,LEY_Sussan,P38_LEY_Sussan,"Kerang to Hay 18 Dec 15",2015-12-18,0000-00-00,Kerang,Hay,0.00,,,,P38_LEY_Sussan_32_11,P38_LEY_Sussan.pdf,32
+P38_LEY_Sussan_32_13,LEY_Sussan,P38_LEY_Sussan,"Hay to Albury 18 Dec 15",2015-12-18,0000-00-00,Hay,Albury,0.00,,,,P38_LEY_Sussan_32_11,P38_LEY_Sussan.pdf,32
+P38_LEY_Sussan_32_7,LEY_Sussan,P38_LEY_Sussan,"Melbourne Essendon Airport to Albury 11 Dec 15",2015-12-11,0000-00-00,"Melbourne Essendon Airport",Albury,2150.00,,,,,P38_LEY_Sussan.pdf,32
+P38_LEY_Sussan_32_8,LEY_Sussan,P38_LEY_Sussan,"Albury to Coleambally 15 Dec 15",2015-12-15,0000-00-00,Albury,Coleambally,2237.50,,,,,P38_LEY_Sussan.pdf,32
+P38_LEY_Sussan_32_9,LEY_Sussan,P38_LEY_Sussan,"Coleambally to Griffith 15 Dec 15",2015-12-15,0000-00-00,Coleambally,Griffith,0.00,,,,P38_LEY_Sussan_32_8,P38_LEY_Sussan.pdf,32
+P38_MACDONALD_Ian_23_8,MACDONALD_Ian,P38_MACDONALD_Ian,"Cairns 26 Oct 15 to 28 Oct 15",2015-10-26,2015-10-28,Cairns,,183.28,,,,,P38_MACDONALD_Ian.pdf,23
+P38_MACDONALD_Ian_8_3,MACDONALD_Ian,P38_MACDONALD_Ian,"Brisbane 18 Mar 16 to 21 Mar 16",2016-03-18,2016-03-21,Brisbane,,383.97,,,,,P38_MACDONALD_Ian.pdf,8
+P38_MACDONALD_Ian_8_4,MACDONALD_Ian,P38_MACDONALD_Ian,"Brisbane 4 Apr 16 to 6 Apr 16",2016-04-04,2016-04-06,Brisbane,,421.36,,,,,P38_MACDONALD_Ian.pdf,8
+P38_MACDONALD_Ian_8_5,MACDONALD_Ian,P38_MACDONALD_Ian,"Cairns 6 Apr 16 to 7 Apr 16",2016-04-06,2016-04-07,Cairns,,141.33,,,,,P38_MACDONALD_Ian.pdf,8
+P38_MACDONALD_Ian_8_6,MACDONALD_Ian,P38_MACDONALD_Ian,"Brisbane 21 Apr 16 to 22 Apr 16",2016-04-21,2016-04-22,Brisbane,,164.16,,,,,P38_MACDONALD_Ian.pdf,8
+P38_MACDONALD_Ian_8_7,MACDONALD_Ian,P38_MACDONALD_Ian,"Mount Isa 25 Apr 16 to 29 Apr 16",2016-04-25,2016-04-29,"Mount Isa",,1327.24,,,,,P38_MACDONALD_Ian.pdf,8
+P38_MCKENZIE_Bridget_8_3,MCKENZIE_Bridget,P38_MCKENZIE_Bridget,"Essendon to Hopetoun 19 Mar 16",2016-03-19,0000-00-00,Essendon,Hopetoun,2360.91,,,,,P38_MCKENZIE_Bridget.pdf,8
+P38_MCKENZIE_Bridget_8_4,MCKENZIE_Bridget,P38_MCKENZIE_Bridget,"Hopetoun to Essendon 20 Mar 16",2016-03-20,0000-00-00,Hopetoun,Essendon,0.00,,,,P38_MCKENZIE_Bridget_8_3,P38_MCKENZIE_Bridget.pdf,8
+P38_MCKIM_Nick_8_3,MCKIM_Nick,P38_MCKIM_Nick,"Hobart 17 Feb 16",2016-02-17,0000-00-00,Hobart,,9000.00,,,,,P38_MCKIM_Nick.pdf,8
+P38_O'DOWD_Ken_19_3,O'DOWD_Ken,P38_O'DOWD_Ken,"Gladstone to Kingaroy 21 Nov 15",2015-11-21,0000-00-00,Gladstone,Kingaroy,2172.73,,,,,P38_O'DOWD_Ken.pdf,19
+P38_O'DOWD_Ken_19_4,O'DOWD_Ken,P38_O'DOWD_Ken,"Kingaroy to Gladstone 21 Nov 15",2015-11-21,0000-00-00,Kingaroy,Gladstone,0.00,,,,P38_O'DOWD_Ken_19_3,P38_O'DOWD_Ken.pdf,19
+P38_O'DOWD_Ken_19_5,O'DOWD_Ken,P38_O'DOWD_Ken,"Gladstone to Emerald 7 Dec 15",2015-12-07,0000-00-00,Gladstone,Emerald,2041.82,,,,,P38_O'DOWD_Ken.pdf,19
+P38_O'DOWD_Ken_19_6,O'DOWD_Ken,P38_O'DOWD_Ken,"Emerald to Gladstone 7 Dec 15",2015-12-07,0000-00-00,Emerald,Gladstone,0.00,,,,P38_O'DOWD_Ken_19_5,P38_O'DOWD_Ken.pdf,19
+P38_O'DOWD_Ken_19_7,O'DOWD_Ken,P38_O'DOWD_Ken,"Gladstone to Emerald 8 Dec 15",2015-12-08,0000-00-00,Gladstone,Emerald,2800.00,,,,,P38_O'DOWD_Ken.pdf,19
+P38_O'DOWD_Ken_19_8,O'DOWD_Ken,P38_O'DOWD_Ken,"Emerald to Gladstone 8 Dec 15",2015-12-08,0000-00-00,Emerald,Gladstone,0.00,,,,P38_O'DOWD_Ken_19_7,P38_O'DOWD_Ken.pdf,19
+P38_O'DOWD_Ken_7_3,O'DOWD_Ken,P38_O'DOWD_Ken,"Gladstone to Emerald 26 Jan 16",2016-01-26,0000-00-00,Gladstone,Emerald,2800.00,,,,,P38_O'DOWD_Ken.pdf,7
+P38_O'DOWD_Ken_7_4,O'DOWD_Ken,P38_O'DOWD_Ken,"Emerald to Gladstone 26 Jan 16",2016-01-26,0000-00-00,Emerald,Gladstone,0.00,,,,P38_O'DOWD_Ken_7_3,P38_O'DOWD_Ken.pdf,7
+P38_O'DOWD_Ken_7_5,O'DOWD_Ken,P38_O'DOWD_Ken,"Gladstone to Emerald 27 Jan 16",2016-01-27,0000-00-00,Gladstone,Emerald,3454.55,,,,,P38_O'DOWD_Ken.pdf,7
+P38_O'DOWD_Ken_7_6,O'DOWD_Ken,P38_O'DOWD_Ken,"Emerald to Gladstone 27 Jan 16",2016-01-27,0000-00-00,Emerald,Gladstone,0.00,,,,P38_O'DOWD_Ken_7_5,P38_O'DOWD_Ken.pdf,7
+P38_O'DOWD_Ken_7_7,O'DOWD_Ken,P38_O'DOWD_Ken,"Rockhampton to Springsure 28 May 16",2016-05-28,0000-00-00,Rockhampton,Springsure,1500.00,,,,,P38_O'DOWD_Ken.pdf,7
+P38_PASIN_Tony_23_3,PASIN_Tony,P38_PASIN_Tony,"Mount Gambier 2 Sep 15 to 3 Sep 15",2015-09-02,2015-09-03,"Mount Gambier",,163.76,,,,,P38_PASIN_Tony.pdf,23
+P38_PASIN_Tony_23_4,PASIN_Tony,P38_PASIN_Tony,"Mount Gambier 8 Dec 15 to 9 Dec 15",2015-12-08,2015-12-09,"Mount Gambier",,161.72,,,,,P38_PASIN_Tony.pdf,23
+P38_PASIN_Tony_7_3,PASIN_Tony,P38_PASIN_Tony,"Mount Gambier to Waikerie 23 Jan 16",2016-01-23,0000-00-00,"Mount Gambier",Waikerie,2018.18,,,,,P38_PASIN_Tony.pdf,7
+P38_PASIN_Tony_7_4,PASIN_Tony,P38_PASIN_Tony,"Waikerie to Mount Gambier 24 Jan 16",2016-01-24,0000-00-00,Waikerie,"Mount Gambier",0.00,,,,P38_PASIN_Tony_7_3,P38_PASIN_Tony.pdf,7
+P38_PASIN_Tony_7_5,PASIN_Tony,P38_PASIN_Tony,"Mount Gambier 17 Feb 16 to 19 Feb 16",2016-02-17,2016-02-19,"Mount Gambier",,186.66,,,,,P38_PASIN_Tony.pdf,7
+P38_PASIN_Tony_7_6,PASIN_Tony,P38_PASIN_Tony,"Mount Gambier 20 Feb 16 to 21 Feb 16",2016-02-20,2016-02-21,"Mount Gambier",,192.46,,,,,P38_PASIN_Tony.pdf,7
+P38_PASIN_Tony_7_7,PASIN_Tony,P38_PASIN_Tony,"Mount Gambier 10 Mar 16",2016-03-10,0000-00-00,"Mount Gambier",,85.76,,,,,P38_PASIN_Tony.pdf,7
+P38_PASIN_Tony_7_8,PASIN_Tony,P38_PASIN_Tony,"Mount Gambier 19 Mar 16 to 20 Mar 16",2016-03-19,2016-03-20,"Mount Gambier",,331.15,,,,,P38_PASIN_Tony.pdf,7
+P38_PERIS_Nova_7_3,PERIS_Nova,P38_PERIS_Nova,"Darwin to Garden Point 5 Apr 16",2016-04-05,0000-00-00,Darwin,"Garden Point",2272.73,,,,,P38_PERIS_Nova.pdf,7
+P38_PERIS_Nova_7_4,PERIS_Nova,P38_PERIS_Nova,"Garden Point to Darwin 7 Apr 16",2016-04-07,0000-00-00,"Garden Point",Darwin,2272.73,,,,,P38_PERIS_Nova.pdf,7
+P38_PRICE_Melissa_23_3,PRICE_Melissa,P38_PRICE_Melissa,"Broome 22 Aug 15 to 23 Aug 15",2015-08-22,2015-08-23,Broome,,152.89,,,,,P38_PRICE_Melissa.pdf,23
+P38_PRICE_Melissa_23_4,PRICE_Melissa,P38_PRICE_Melissa,"Broome 29 Sep 15 to 30 Sep 15",2015-09-29,2015-09-30,Broome,,91.34,,,,,P38_PRICE_Melissa.pdf,23
+P38_PRICE_Melissa_23_5,PRICE_Melissa,P38_PRICE_Melissa,"Geraldton to Carnarvon 26 Oct 15",2015-10-26,0000-00-00,Geraldton,Carnarvon,2813.64,,,,,P38_PRICE_Melissa.pdf,23
+P38_PRICE_Melissa_23_6,PRICE_Melissa,P38_PRICE_Melissa,"Perth to Geraldton 21 Dec 15",2015-12-21,0000-00-00,Perth,Geraldton,2790.00,,,,,P38_PRICE_Melissa.pdf,23
+P38_PRICE_Melissa_23_7,PRICE_Melissa,P38_PRICE_Melissa,"Geraldton to Perth 21 Dec 15",2015-12-21,0000-00-00,Geraldton,Perth,0.00,,,,P38_PRICE_Melissa_23_6,P38_PRICE_Melissa.pdf,23
+P38_PRICE_Melissa_9_10,PRICE_Melissa,P38_PRICE_Melissa,"Newman 30 Mar 16",2016-03-30,0000-00-00,Newman,,127.98,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_11,PRICE_Melissa,P38_PRICE_Melissa,"Newman 30 Mar 16",2016-03-30,0000-00-00,Newman,,127.98,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_12,PRICE_Melissa,P38_PRICE_Melissa,"Broome 31 Mar 16 to 1 Apr 16",2016-03-31,2016-04-01,Broome,,83.30,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_13,PRICE_Melissa,P38_PRICE_Melissa,"Karratha 10 Apr 16 to 11 Apr 16",2016-04-10,2016-04-11,Karratha,,144.33,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_14,PRICE_Melissa,P38_PRICE_Melissa,"Perth to Carnarvon 13 Apr 16",2016-04-13,0000-00-00,Perth,Carnarvon,8650.00,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_15,PRICE_Melissa,P38_PRICE_Melissa,"Carnarvon to Exmouth 13 Apr 16",2016-04-13,0000-00-00,Carnarvon,Exmouth,0.00,,,,P38_PRICE_Melissa_9_14,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_16,PRICE_Melissa,P38_PRICE_Melissa,"Exmouth to Perth 13 Apr 16",2016-04-13,0000-00-00,Exmouth,Perth,0.00,,,,P38_PRICE_Melissa_9_14,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_17,PRICE_Melissa,P38_PRICE_Melissa,"Jandakot to Dalwallinu 15 Apr 16",2016-04-15,0000-00-00,Jandakot,Dalwallinu,1500.00,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_18,PRICE_Melissa,P38_PRICE_Melissa,"Dalwallinu to Jandakot 15 Apr 16",2016-04-15,0000-00-00,Dalwallinu,Jandakot,0.00,,,,P38_PRICE_Melissa_9_17,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_19,PRICE_Melissa,P38_PRICE_Melissa,"Broome 26 Apr 16 to 27 Apr 16",2016-04-26,2016-04-27,Broome,,91.34,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_20,PRICE_Melissa,P38_PRICE_Melissa,"Perth to Cue 6 May 16",2016-05-06,0000-00-00,Perth,Cue,4330.00,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_21,PRICE_Melissa,P38_PRICE_Melissa,"Cue to Perth 6 May 16",2016-05-06,0000-00-00,Cue,Perth,0.00,,,,P38_PRICE_Melissa_9_20,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_22,PRICE_Melissa,P38_PRICE_Melissa,"Port Hedland 12 May 16 to 13 May 16",2016-05-12,2016-05-13,"Port Hedland",,126.06,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_23,PRICE_Melissa,P38_PRICE_Melissa,"Broome to Port Hedland 12 May 16",2016-05-12,0000-00-00,Broome,"Port Hedland",4463.64,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_24,PRICE_Melissa,P38_PRICE_Melissa,"Port Hedland to Broome 13 May 16",2016-05-13,0000-00-00,"Port Hedland",Broome,0.00,,,,P38_PRICE_Melissa_9_23,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_3,PRICE_Melissa,P38_PRICE_Melissa,"Mornington Island to Albury 27 Jan 16 to 28 Jan 16",2016-01-27,2016-01-28,"Mornington Island",Albury,397.85,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_4,PRICE_Melissa,P38_PRICE_Melissa,"Port Hedland 5 Feb 16 to 6 Feb 16",2016-02-05,2016-02-06,"Port Hedland",,113.46,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_5,PRICE_Melissa,P38_PRICE_Melissa,"Karratha 10 Mar 16",2016-03-10,0000-00-00,Karratha,,80.24,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_6,PRICE_Melissa,P38_PRICE_Melissa,"Perth to Geraldton 11 Mar 16",2016-03-11,0000-00-00,Perth,Geraldton,2790.00,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_7,PRICE_Melissa,P38_PRICE_Melissa,"Geraldton to Perth 11 Mar 16",2016-03-11,0000-00-00,Geraldton,Perth,0.00,,,,P38_PRICE_Melissa_9_6,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_8,PRICE_Melissa,P38_PRICE_Melissa,"Perth to Kalannie 19 Mar 16",2016-03-19,0000-00-00,Perth,Kalannie,2400.00,,,,,P38_PRICE_Melissa.pdf,9
+P38_PRICE_Melissa_9_9,PRICE_Melissa,P38_PRICE_Melissa,"Kalannie to Perth 19 Mar 16",2016-03-19,0000-00-00,Kalannie,Perth,0.00,,,,P38_PRICE_Melissa_9_8,P38_PRICE_Melissa.pdf,9
+P38_RAMSEY_Rowan_24_10,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Olympic Dam to Kimba 5 Dec 15",2015-12-05,0000-00-00,"Olympic Dam",Kimba,2200.00,,,,,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_11,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Kimba to Minlaton 13 Dec 15",2015-12-13,0000-00-00,Kimba,Minlaton,1300.00,,,,,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_12,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Minlaton to Kimba 13 Dec 15",2015-12-13,0000-00-00,Minlaton,Kimba,0.00,,,,P38_RAMSEY_Rowan_24_11,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_3,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Charter travel 21 Aug 15",2015-08-21,0000-00-00,"Charter travel",,543.65,,,,,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_4,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Kimba to Ceduna 4 Nov 15",2015-11-04,0000-00-00,Kimba,Ceduna,3520.91,,,,,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_5,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Ceduna to Coober Pedy 4 Nov 15",2015-11-04,0000-00-00,Ceduna,"Coober Pedy",0.00,,,,P38_RAMSEY_Rowan_24_4,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_6,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Ceduna 8 Dec 15 to 9 Dec 15",2015-12-08,2015-12-09,Ceduna,,76.07,,,,,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_7,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Kadina to Ceduna 8 Dec 15",2015-12-08,0000-00-00,Kadina,Ceduna,3790.91,,,,,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_8,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Ceduna to Lock 9 Dec 15",2015-12-09,0000-00-00,Ceduna,Lock,0.00,,,,P38_RAMSEY_Rowan_24_7,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_24_9,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Lock to Port Pirie 9 Dec 15",2015-12-09,0000-00-00,Lock,"Port Pirie",0.00,,,,P38_RAMSEY_Rowan_24_7,P38_RAMSEY_Rowan.pdf,24
+P38_RAMSEY_Rowan_8_10,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Coober Pedy 6 Apr 16 to 7 Apr 16",2016-04-06,2016-04-07,"Coober Pedy",,111.11,,,,,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_11,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Coober Pedy 25 May to 26 May 16",2016-05-25,2016-05-26,"Coober Pedy",,96.77,,,,,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_3,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Kimba to Port Lincoln 20 Feb 16",2016-02-20,0000-00-00,Kimba,"Port Lincoln",2105.32,,,,,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_4,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Port Lincoln to Whyalla 21 Feb 16",2016-02-21,0000-00-00,"Port Lincoln",Whyalla,0.00,,,,P38_RAMSEY_Rowan_8_3,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_5,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Port Lincoln 29 Mar to 30 Mar 16",2016-03-29,2016-03-30,"Port Lincoln",,88.73,,,,,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_6,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Port Lincoln to Port Augusta 30 Mar 16",2016-03-30,0000-00-00,"Port Lincoln","Port Augusta",1737.27,,,,,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_7,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Whyalla to Eudunda 5 Apr 16",2016-04-05,0000-00-00,Whyalla,Eudunda,4788.18,,,,,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_8,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Port Pirie to Coober Pedy 6 Apr 16",2016-04-06,0000-00-00,"Port Pirie","Coober Pedy",0.00,,,,P38_RAMSEY_Rowan_8_7,P38_RAMSEY_Rowan.pdf,8
+P38_RAMSEY_Rowan_8_9,RAMSEY_Rowan,P38_RAMSEY_Rowan,"Coober Pedy to Port Pirie 7 Apr 16",2016-04-07,0000-00-00,"Coober Pedy","Port Pirie",0.00,,,,P38_RAMSEY_Rowan_8_7,P38_RAMSEY_Rowan.pdf,8
+P38_REYNOLDS_Linda_7_10,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Lake Grace to Jandakot 2 Apr 16",2016-04-02,0000-00-00,"Lake Grace",Jandakot,0.00,,,,,P38_REYNOLDS_Linda.pdf,7
+P38_REYNOLDS_Linda_7_3,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Margaret River 14 Jan 16 to 15 Jan 16",2016-01-14,2016-01-15,"Margaret River",,107.27,,,,,P38_REYNOLDS_Linda.pdf,7
+P38_REYNOLDS_Linda_7_4,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Perth to Margaret River 14 Jan 16",2016-01-14,0000-00-00,Perth,"Margaret River",2280.00,,,,,P38_REYNOLDS_Linda.pdf,7
+P38_REYNOLDS_Linda_7_5,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Margaret River to Perth 15 Jan 16",2016-01-15,0000-00-00,"Margaret River",Perth,0.00,,,,P38_REYNOLDS_Linda_7_4,P38_REYNOLDS_Linda.pdf,7
+P38_REYNOLDS_Linda_7_6,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Perth to Albany 16 Feb 16",2016-02-16,0000-00-00,Perth,Albany,3225.00,,,,,P38_REYNOLDS_Linda.pdf,7
+P38_REYNOLDS_Linda_7_7,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Albany to Perth 17 Feb 16",2016-02-17,0000-00-00,Albany,Perth,0.00,,,,P38_REYNOLDS_Linda_7_6,P38_REYNOLDS_Linda.pdf,7
+P38_REYNOLDS_Linda_7_8,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Albany 16 Feb 16 to 17 Feb 16",2016-02-16,2016-02-17,Albany,,92.44,,,,,P38_REYNOLDS_Linda.pdf,7
+P38_REYNOLDS_Linda_7_9,REYNOLDS_Linda,P38_REYNOLDS_Linda,"Jandakot to Lake Grace 2 Apr 16",2016-04-02,0000-00-00,Jandakot,"Lake Grace",1000.00,,,,,P38_REYNOLDS_Linda.pdf,7
+P38_RUSTON_Anne_10_3,RUSTON_Anne,P38_RUSTON_Anne,"Mount Gambier 29 Jan 16",2016-01-29,0000-00-00,"Mount Gambier",,58.84,,,,,P38_RUSTON_Anne.pdf,10
+P38_RUSTON_Anne_10_4,RUSTON_Anne,P38_RUSTON_Anne,"Mount Gambier to Kingston Se 29 Jan 16",2016-01-29,0000-00-00,"Mount Gambier","Kingston Se",2810.00,,,,,P38_RUSTON_Anne.pdf,10
+P38_RUSTON_Anne_10_5,RUSTON_Anne,P38_RUSTON_Anne,"Kingston Se to Adelaide 29 Jan 16",2016-01-29,0000-00-00,"Kingston Se",Adelaide,0.00,,,,P38_RUSTON_Anne_10_4,P38_RUSTON_Anne.pdf,10
+P38_RUSTON_Anne_26_3,RUSTON_Anne,P38_RUSTON_Anne,"Port Lincoln to Adelaide 21 May 15",2015-05-21,0000-00-00,"Port Lincoln",Adelaide,-369.48,,Y,,,P38_RUSTON_Anne.pdf,26
+P38_SCOTT_Bruce_16_10,SCOTT_Bruce,P38_SCOTT_Bruce,"Longreach to Winton 21 Apr 16",2016-04-21,0000-00-00,Longreach,Winton,0.00,,,,,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_11,SCOTT_Bruce,P38_SCOTT_Bruce,"Winton to Archerfield 21 Apr 16",2016-04-21,0000-00-00,Winton,Archerfield,0.00,,,,,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_12,SCOTT_Bruce,P38_SCOTT_Bruce,"Roma to Birdsville 28 Apr 16",2016-04-28,0000-00-00,Roma,Birdsville,17126.80,,,,,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_13,SCOTT_Bruce,P38_SCOTT_Bruce,"Birdsville to Eromanga 29 Apr 16",2016-04-29,0000-00-00,Birdsville,Eromanga,0.00,,,,P38_SCOTT_Bruce_16_12,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_14,SCOTT_Bruce,P38_SCOTT_Bruce,"Eromanga to Roma 29 Apr 16",2016-04-29,0000-00-00,Eromanga,Roma,0.00,,,,P38_SCOTT_Bruce_16_12,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_3,SCOTT_Bruce,P38_SCOTT_Bruce,"Longreach to Roma 12 Feb 16",2016-02-12,0000-00-00,Longreach,Roma,9020.00,,,,,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_4,SCOTT_Bruce,P38_SCOTT_Bruce,"Roma to Barcaldine 12 Feb 16",2016-02-12,0000-00-00,Roma,Barcaldine,0.00,,,,P38_SCOTT_Bruce_16_3,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_5,SCOTT_Bruce,P38_SCOTT_Bruce,"Barcaldine to Longreach 12 Feb 16",2016-02-12,0000-00-00,Barcaldine,Longreach,0.00,,,,P38_SCOTT_Bruce_16_3,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_6,SCOTT_Bruce,P38_SCOTT_Bruce,"Longreach to Barcaldine 13 Feb 16",2016-02-13,0000-00-00,Longreach,Barcaldine,0.00,,,,P38_SCOTT_Bruce_16_3,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_7,SCOTT_Bruce,P38_SCOTT_Bruce,"Barcaldine to Roma 13 Feb 16",2016-02-13,0000-00-00,Barcaldine,Roma,0.00,,,,P38_SCOTT_Bruce_16_3,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_8,SCOTT_Bruce,P38_SCOTT_Bruce,"Roma to Longreach 13 Feb 16",2016-02-13,0000-00-00,Roma,Longreach,0.00,,,,P38_SCOTT_Bruce_16_3,P38_SCOTT_Bruce.pdf,16
+P38_SCOTT_Bruce_16_9,SCOTT_Bruce,P38_SCOTT_Bruce,"Brisbane to Longreach 19 Apr 16",2016-04-19,0000-00-00,Brisbane,Longreach,16095.00,,,,,P38_SCOTT_Bruce.pdf,16
+P38_SIMMS_Robert_7_3,SIMMS_Robert,P38_SIMMS_Robert,"Adelaide to Hawker 30 Mar 16",2016-03-30,0000-00-00,Adelaide,Hawker,7000.00,,,,,P38_SIMMS_Robert.pdf,7
+P38_SIMMS_Robert_7_4,SIMMS_Robert,P38_SIMMS_Robert,"Hawker to Kimba 30 Mar 16",2016-03-30,0000-00-00,Hawker,Kimba,0.00,,,,P38_SIMMS_Robert_7_3,P38_SIMMS_Robert.pdf,7
+P38_SIMMS_Robert_7_5,SIMMS_Robert,P38_SIMMS_Robert,"Kimba to Adelaide 30 Mar 16",2016-03-30,0000-00-00,Kimba,Adelaide,0.00,,,,P38_SIMMS_Robert_7_3,P38_SIMMS_Robert.pdf,7
+P38_SMITH_Dean_21_10,SMITH_Dean,P38_SMITH_Dean,"Albany to Perth 14 Nov 15",2015-11-14,0000-00-00,Albany,Perth,0.00,,Y,,,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_11,SMITH_Dean,P38_SMITH_Dean,"Perth to Albany 14 Nov 15",2015-11-14,0000-00-00,Perth,Albany,-210.72,,Y,,,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_12,SMITH_Dean,P38_SMITH_Dean,"Albany to Perth 14 Nov 15",2015-11-14,0000-00-00,Albany,Perth,0.00,,Y,,P38_SMITH_Dean_21_11,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_13,SMITH_Dean,P38_SMITH_Dean,"Perth to Albany 14 Nov 15",2015-11-14,0000-00-00,Perth,Albany,-210.72,,Y,,,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_14,SMITH_Dean,P38_SMITH_Dean,"Albany to Perth 14 Nov 15",2015-11-14,0000-00-00,Albany,Perth,0.00,,Y,,P38_SMITH_Dean_21_13,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_15,SMITH_Dean,P38_SMITH_Dean,"Albany 8 Dec 15",2015-12-08,0000-00-00,Albany,,93.64,,,,,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_3,SMITH_Dean,P38_SMITH_Dean,"Perth to Busselton 31 Aug 15",2015-08-31,0000-00-00,Perth,Busselton,735.00,,,,,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_4,SMITH_Dean,P38_SMITH_Dean,"Busselton to Albany 31 Aug 15",2015-08-31,0000-00-00,Busselton,Albany,0.00,,,,P38_SMITH_Dean_21_3,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_5,SMITH_Dean,P38_SMITH_Dean,"Albany to Esperance 1 Sep 15",2015-09-01,0000-00-00,Albany,Esperance,0.00,,,,P38_SMITH_Dean_21_3,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_6,SMITH_Dean,P38_SMITH_Dean,"Esperance to Narrogin 1 Sep 15",2015-09-01,0000-00-00,Esperance,Narrogin,0.00,,,,P38_SMITH_Dean_21_3,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_7,SMITH_Dean,P38_SMITH_Dean,"Narrogin to Perth 1 Sep 15",2015-09-01,0000-00-00,Narrogin,Perth,0.00,,,,P38_SMITH_Dean_21_3,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_8,SMITH_Dean,P38_SMITH_Dean,"Albany 1 Sep 15",2015-09-01,0000-00-00,Albany,,80.00,,,,,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_21_9,SMITH_Dean,P38_SMITH_Dean,"Perth to Albany 14 Nov 15",2015-11-14,0000-00-00,Perth,Albany,-210.72,,Y,,,P38_SMITH_Dean.pdf,21
+P38_SMITH_Dean_7_3,SMITH_Dean,P38_SMITH_Dean,"Broome to Noonkanbah 29 Mar 16",2016-03-29,0000-00-00,Broome,Noonkanbah,1745.45,,,,,P38_SMITH_Dean.pdf,7
+P38_SMITH_Dean_7_4,SMITH_Dean,P38_SMITH_Dean,"Noonkanbah to Fitzroy Crossing 29 Mar 16",2016-03-29,0000-00-00,Noonkanbah,"Fitzroy Crossing",0.00,,,,P38_SMITH_Dean_7_3,P38_SMITH_Dean.pdf,7
+P38_SMITH_Dean_7_5,SMITH_Dean,P38_SMITH_Dean,"Fitzroy Crossing to Broome 29 Mar 16",2016-03-29,0000-00-00,"Fitzroy Crossing",Broome,0.00,,,,P38_SMITH_Dean_7_3,P38_SMITH_Dean.pdf,7
+P38_SNOWDON_Warren_21_3,SNOWDON_Warren,P38_SNOWDON_Warren,"Alice Springs to Uluru 25 Oct 15",2015-10-25,0000-00-00,"Alice Springs",Uluru,-5390.00,,,Refund,,P38_SNOWDON_Warren.pdf,21
+P38_SNOWDON_Warren_21_4,SNOWDON_Warren,P38_SNOWDON_Warren,"Uluru to Alice Springs 26 Oct 15",2015-10-26,0000-00-00,Uluru,"Alice Springs",0.00,,,Refund,P38_SNOWDON_Warren_21_3,P38_SNOWDON_Warren.pdf,21
+P38_SNOWDON_Warren_21_5,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Port Keats 27 Nov 15",2015-11-27,0000-00-00,Darwin,"Port Keats",2850.91,,,,,P38_SNOWDON_Warren.pdf,21
+P38_SNOWDON_Warren_21_6,SNOWDON_Warren,P38_SNOWDON_Warren,"Port Keats to Darwin 27 Nov 15",2015-11-27,0000-00-00,"Port Keats",Darwin,0.00,,,,P38_SNOWDON_Warren_21_5,P38_SNOWDON_Warren.pdf,21
+P38_SNOWDON_Warren_9_10,SNOWDON_Warren,P38_SNOWDON_Warren,"Kintore to Alice Springs 25 Feb 16",2016-02-25,0000-00-00,Kintore,"Alice Springs",0.00,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_11,SNOWDON_Warren,P38_SNOWDON_Warren,"Alice Springs to Yuendumu 29 Mar 16",2016-03-29,0000-00-00,"Alice Springs",Yuendumu,3210.00,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_12,SNOWDON_Warren,P38_SNOWDON_Warren,"Yuendumu to Alice Springs 29 Mar 16",2016-03-29,0000-00-00,Yuendumu,"Alice Springs",0.00,,,,P38_SNOWDON_Warren_9_11,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_13,SNOWDON_Warren,P38_SNOWDON_Warren,"Port Keats to Palumpa 31 Mar 16",2016-03-31,0000-00-00,"Port Keats",Palumpa,0.00,,,,P38_SNOWDON_Warren_9_11,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_14,SNOWDON_Warren,P38_SNOWDON_Warren,"Palumpa to Darwin 31 Mar 16",2016-03-31,0000-00-00,Palumpa,Darwin,0.00,,,,P38_SNOWDON_Warren_9_11,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_15,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Port Keats 31 Mar 16",2016-03-31,0000-00-00,Darwin,"Port Keats",3863.64,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_16,SNOWDON_Warren,P38_SNOWDON_Warren,"Elcho Island to Gove 4 Apr 16 to 5 Apr 16",2016-04-04,2016-04-05,"Elcho Island",Gove,990.91,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_17,SNOWDON_Warren,P38_SNOWDON_Warren,"Gove to Elcho Island 4 Apr 16",2016-04-04,0000-00-00,Gove,"Elcho Island",909.09,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_18,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Katherine 7 Apr 16",2016-04-07,0000-00-00,Darwin,Katherine,2370.00,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_19,SNOWDON_Warren,P38_SNOWDON_Warren,"Katherine to Darwin 7 Apr 16",2016-04-07,0000-00-00,Katherine,Darwin,0.00,,,,P38_SNOWDON_Warren_9_18,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_20,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Borroloola 15 Apr 16",2016-04-15,0000-00-00,Darwin,Borroloola,7263.64,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_21,SNOWDON_Warren,P38_SNOWDON_Warren,"Borroloola to Darwin 15 Apr 16",2016-04-15,0000-00-00,Borroloola,Darwin,0.00,,,,P38_SNOWDON_Warren_9_20,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_22,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Ngkurr 19 May 16",2016-05-19,0000-00-00,Darwin,Ngkurr,4221.82,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_23,SNOWDON_Warren,P38_SNOWDON_Warren,"Ngukurr to Darwin 19 May 16",2016-05-19,0000-00-00,Ngukurr,Darwin,0.00,,,,P38_SNOWDON_Warren_9_22,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_24,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Hooker Creek 23 May 16",2016-05-23,0000-00-00,Darwin,"Hooker Creek",6020.91,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_25,SNOWDON_Warren,P38_SNOWDON_Warren,"Hooker Creek to Kalkarindji 23 May 16",2016-05-23,0000-00-00,"Hooker Creek",Kalkarindji,0.00,,,,P38_SNOWDON_Warren_9_24,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_26,SNOWDON_Warren,P38_SNOWDON_Warren,"Kalkarindji to Darwin 23 May 16",2016-05-23,0000-00-00,Kalkarindji,Darwin,0.00,,,,P38_SNOWDON_Warren_9_24,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_27,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Yarralin 14 Jun 16",2016-06-14,0000-00-00,Darwin,Yarralin,3254.55,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_28,SNOWDON_Warren,P38_SNOWDON_Warren,"Yarralin to Darwin 14 Jun 16",2016-06-14,0000-00-00,Yarralin,Darwin,0.00,,,,P38_SNOWDON_Warren_9_27,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_3,SNOWDON_Warren,P38_SNOWDON_Warren,"Darwin to Bathurst Island 20 Jan 16",2016-01-20,0000-00-00,Darwin,"Bathurst Island",1855.45,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_4,SNOWDON_Warren,P38_SNOWDON_Warren,"Bathurst Island to Garden Point 20 Jan 16",2016-01-20,0000-00-00,"Bathurst Island","Garden Point",0.00,,,,P38_SNOWDON_Warren_9_3,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_5,SNOWDON_Warren,P38_SNOWDON_Warren,"Garden Point to Darwin 20 Jan 16",2016-01-20,0000-00-00,"Garden Point",Darwin,0.00,,,,P38_SNOWDON_Warren_9_3,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_6,SNOWDON_Warren,P38_SNOWDON_Warren,"Alice Springs to Ampilatwatja 18 Feb 16",2016-02-18,0000-00-00,"Alice Springs",Ampilatwatja,3106.36,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_7,SNOWDON_Warren,P38_SNOWDON_Warren,"Ampilatwatja to Alice Springs 18 Feb 16",2016-02-18,0000-00-00,Ampilatwatja,"Alice Springs",0.00,,,,P38_SNOWDON_Warren_9_6,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_8,SNOWDON_Warren,P38_SNOWDON_Warren,"Alice Springs to Kintore 19 Feb 16",2016-02-19,0000-00-00,"Alice Springs",Kintore,4406.36,,,,,P38_SNOWDON_Warren.pdf,9
+P38_SNOWDON_Warren_9_9,SNOWDON_Warren,P38_SNOWDON_Warren,"Alice Springs to Kintore 25 Feb 16",2016-02-25,0000-00-00,"Alice Springs",Kintore,4508.18,,,,,P38_SNOWDON_Warren.pdf,9
+P38_WATERS_Larissa_8_3,WATERS_Larissa,P38_WATERS_Larissa,"Townsville to Magnetic Island 22 Mar 16",2016-03-22,0000-00-00,Townsville,"Magnetic Island",2409.09,,,,,P38_WATERS_Larissa.pdf,8
+P38_WATERS_Larissa_8_4,WATERS_Larissa,P38_WATERS_Larissa,"Cairns to Lizard Island 28 Apr 16",2016-04-28,0000-00-00,Cairns,"Lizard Island",3411.27,,,,,P38_WATERS_Larissa.pdf,8
+P38_WATERS_Larissa_8_5,WATERS_Larissa,P38_WATERS_Larissa,"Lizard Island to Cairns 28 Apr 16",2016-04-28,0000-00-00,"Lizard Island",Cairns,0.00,,,,P38_WATERS_Larissa_8_4,P38_WATERS_Larissa.pdf,8
+P38_WHITELEY_Brett_7_3,WHITELEY_Brett,P38_WHITELEY_Brett,"King Island 7 Mar 16",2016-03-07,0000-00-00,"King Island",,75.45,,,,,P38_WHITELEY_Brett.pdf,7
+P38_WILLIAMS_John_7_3,WILLIAMS_John,P38_WILLIAMS_John,"Inverell to Gold Coast 14 Feb 16",2016-02-14,0000-00-00,Inverell,"Gold Coast",2272.73,,,,,P38_WILLIAMS_John.pdf,7
+P38_WILLIAMS_John_7_4,WILLIAMS_John,P38_WILLIAMS_John,"Gold Coast to Inverell 14 Feb 16",2016-02-14,0000-00-00,"Gold Coast",Inverell,0.00,,,,P38_WILLIAMS_John_7_3,P38_WILLIAMS_John.pdf,7
+P38_WILLIAMS_John_7_5,WILLIAMS_John,P38_WILLIAMS_John,"Grafton to Inverell 19 Mar 16",2016-03-19,0000-00-00,Grafton,Inverell,1809.09,,,,,P38_WILLIAMS_John.pdf,7
+P38_WILLIAMS_John_7_6,WILLIAMS_John,P38_WILLIAMS_John,"Inverell to Gold Coast 11 Apr 16",2016-04-11,0000-00-00,Inverell,"Gold Coast",2272.73,,,,,P38_WILLIAMS_John.pdf,7
+P38_WILLIAMS_John_7_7,WILLIAMS_John,P38_WILLIAMS_John,"Gold Coast to Inverell 11 Apr 16",2016-04-11,0000-00-00,"Gold Coast",Inverell,0.00,,,,P38_WILLIAMS_John_7_6,P38_WILLIAMS_John.pdf,7
+P38_WILLIAMS_John_7_8,WILLIAMS_John,P38_WILLIAMS_John,"Inverell to Orange 17 Jun 16",2016-06-17,0000-00-00,Inverell,Orange,3280.00,,,,,P38_WILLIAMS_John.pdf,7
+P38_WILLIAMS_John_7_9,WILLIAMS_John,P38_WILLIAMS_John,"Orange to Inverell 17 Jun 16",2016-06-17,0000-00-00,Orange,Inverell,0.00,,,,P38_WILLIAMS_John_7_8,P38_WILLIAMS_John.pdf,7
+P38_WILSON_Rick_29_10,WILSON_Rick,P38_WILSON_Rick,"Kalgoorlie to Esperance 19 Nov 15",2015-11-19,0000-00-00,Kalgoorlie,Esperance,0.00,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_11,WILSON_Rick,P38_WILSON_Rick,"Esperance to Albany 19 Nov 15",2015-11-19,0000-00-00,Esperance,Albany,0.00,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_12,WILSON_Rick,P38_WILSON_Rick,"Albany to Esperance 8 Dec 15",2015-12-08,0000-00-00,Albany,Esperance,3195.00,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_13,WILSON_Rick,P38_WILSON_Rick,"Esperance to Albany 9 Dec 15",2015-12-09,0000-00-00,Esperance,Albany,0.00,,,,P38_WILSON_Rick_29_12,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_14,WILSON_Rick,P38_WILSON_Rick,"Katanning to Kalgoorlie 10 Dec 15",2015-12-10,0000-00-00,Katanning,Kalgoorlie,6770.00,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_15,WILSON_Rick,P38_WILSON_Rick,"Kalgoorlie to Leonora 10 Dec 15",2015-12-10,0000-00-00,Kalgoorlie,Leonora,0.00,,,,P38_WILSON_Rick_29_14,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_16,WILSON_Rick,P38_WILSON_Rick,"Leonora to Laverton 11 Dec 15",2015-12-11,0000-00-00,Leonora,Laverton,0.00,,,,P38_WILSON_Rick_29_14,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_17,WILSON_Rick,P38_WILSON_Rick,"Laverton to Kalgoorlie 11 Dec 15",2015-12-11,0000-00-00,Laverton,Kalgoorlie,0.00,,,,P38_WILSON_Rick_29_14,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_18,WILSON_Rick,P38_WILSON_Rick,"Kalgoorlie to Norseman 11 Dec 15",2015-12-11,0000-00-00,Kalgoorlie,Norseman,0.00,,,,P38_WILSON_Rick_29_14,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_19,WILSON_Rick,P38_WILSON_Rick,"Norseman to Katanning 11 Dec 15",2015-12-11,0000-00-00,Norseman,Katanning,0.00,,,,P38_WILSON_Rick_29_14,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_20,WILSON_Rick,P38_WILSON_Rick,"Perth to Leonora 22 Dec 15",2015-12-22,0000-00-00,Perth,Leonora,3843.86,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_21,WILSON_Rick,P38_WILSON_Rick,"Leonora to Perth 22 Dec 15",2015-12-22,0000-00-00,Leonora,Perth,0.00,,,,P38_WILSON_Rick_29_20,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_3,WILSON_Rick,P38_WILSON_Rick,"Esperance 27 Feb 15",2015-02-27,0000-00-00,Esperance,,101.75,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_4,WILSON_Rick,P38_WILSON_Rick,"Perth to Busselton 31 Aug 15",2015-08-31,0000-00-00,Perth,Busselton,840.00,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_5,WILSON_Rick,P38_WILSON_Rick,"Busselton to Albany 31 Aug 15",2015-08-31,0000-00-00,Busselton,Albany,0.00,,,,P38_WILSON_Rick_29_4,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_6,WILSON_Rick,P38_WILSON_Rick,"Albany to Esperance 1 Sep 15",2015-09-01,0000-00-00,Albany,Esperance,0.00,,,,P38_WILSON_Rick_29_4,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_7,WILSON_Rick,P38_WILSON_Rick,"Esperance to Narrogin 1 Sep 15",2015-09-01,0000-00-00,Esperance,Narrogin,0.00,,,,P38_WILSON_Rick_29_4,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_8,WILSON_Rick,P38_WILSON_Rick,"Narrogin to Perth 1 Sep 15",2015-09-01,0000-00-00,Narrogin,Perth,0.00,,,,P38_WILSON_Rick_29_4,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_29_9,WILSON_Rick,P38_WILSON_Rick,"Albany to Kalgoorlie 19 Nov 15",2015-11-19,0000-00-00,Albany,Kalgoorlie,4375.00,,,,,P38_WILSON_Rick.pdf,29
+P38_WILSON_Rick_9_10,WILSON_Rick,P38_WILSON_Rick,"Albany to Perth 5 Mar 16",2016-03-05,0000-00-00,Albany,Perth,0.00,,,,,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_11,WILSON_Rick,P38_WILSON_Rick,"Albany to Wagin 11 Mar 16",2016-03-11,0000-00-00,Albany,Wagin,2355.00,,,,,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_12,WILSON_Rick,P38_WILSON_Rick,"Wagin to Manjimup 11 Mar 16",2016-03-11,0000-00-00,Wagin,Manjimup,0.00,,,,P38_WILSON_Rick_9_11,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_13,WILSON_Rick,P38_WILSON_Rick,"Manjimup to Albany 11 Mar 16",2016-03-11,0000-00-00,Manjimup,Albany,0.00,,,,P38_WILSON_Rick_9_11,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_14,WILSON_Rick,P38_WILSON_Rick,"Perth to Albany 18 Mar 16",2016-03-18,0000-00-00,Perth,Albany,1990.60,,,,,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_15,WILSON_Rick,P38_WILSON_Rick,"Albany to Perth 18 Mar 16",2016-03-18,0000-00-00,Albany,Perth,0.00,,,,P38_WILSON_Rick_9_14,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_16,WILSON_Rick,P38_WILSON_Rick,"Albany to Kalgoorlie 30 Mar 16",2016-03-30,0000-00-00,Albany,Kalgoorlie,6980.00,,,,,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_17,WILSON_Rick,P38_WILSON_Rick,"Kalgoorlie to Albany 31 Mar 16",2016-03-31,0000-00-00,Kalgoorlie,Albany,0.00,,,,P38_WILSON_Rick_9_16,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_3,WILSON_Rick,P38_WILSON_Rick,"Albany to Katanning 26 Jan 16",2016-01-26,0000-00-00,Albany,Katanning,3395.00,,,,,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_4,WILSON_Rick,P38_WILSON_Rick,"Katanning to Esperance 26 Jan 16",2016-01-26,0000-00-00,Katanning,Esperance,0.00,,,,P38_WILSON_Rick_9_3,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_5,WILSON_Rick,P38_WILSON_Rick,"Esperance to Albany 26 Jan 16",2016-01-26,0000-00-00,Esperance,Albany,0.00,,,,P38_WILSON_Rick_9_3,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_6,WILSON_Rick,P38_WILSON_Rick,"Albany to Perth 7 Feb 16",2016-02-07,0000-00-00,Albany,Perth,2280.00,,,,,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_7,WILSON_Rick,P38_WILSON_Rick,"Albany to Kalgoorlie 17 Feb 16",2016-02-17,0000-00-00,Albany,Kalgoorlie,5995.00,,,,,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_8,WILSON_Rick,P38_WILSON_Rick,"Kalgoorlie to Albany 19 Feb 16",2016-02-19,0000-00-00,Kalgoorlie,Albany,0.00,,,,P38_WILSON_Rick_9_7,P38_WILSON_Rick.pdf,9
+P38_WILSON_Rick_9_9,WILSON_Rick,P38_WILSON_Rick,"Perth to Albany 5 Mar 16",2016-03-05,0000-00-00,Perth,Albany,1950.00,,,,,P38_WILSON_Rick.pdf,9

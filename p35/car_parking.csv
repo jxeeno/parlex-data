@@ -1,0 +1,107 @@
+entry_id,parl_id,source_id,details,start_date,end_date,amount,source_pdf,source_pagenum
+P35_BIRD_Sharon_18_8,BIRD_Sharon,P35_BIRD_Sharon,"Parking between 11 Jun and 13 Jun 14",2014-06-11,2014-06-13,79.09,P35_BIRD_Sharon.pdf,18
+P35_BIRD_Sharon_8_15,BIRD_Sharon,P35_BIRD_Sharon,"Parking 1 Aug 14",2014-08-01,0000-00-00,36.36,P35_BIRD_Sharon.pdf,8
+P35_BIRD_Sharon_8_16,BIRD_Sharon,P35_BIRD_Sharon,"Parking between 19 Nov and 20 Nov 14",2014-11-19,2014-11-20,59.09,P35_BIRD_Sharon.pdf,8
+P35_BRIGGS_Jamie_17_3,BRIGGS_Jamie,P35_BRIGGS_Jamie,"Parking between 26 Sep and 28 Sep 14",2014-09-26,2014-09-28,63.64,P35_BRIGGS_Jamie.pdf,17
+P35_BRIGGS_Jamie_17_4,BRIGGS_Jamie,P35_BRIGGS_Jamie,"Parking between 8 Dec and 9 Dec 14",2014-12-08,2014-12-09,31.82,P35_BRIGGS_Jamie.pdf,17
+P35_BRIGGS_Jamie_17_5,BRIGGS_Jamie,P35_BRIGGS_Jamie,"Parking between 9 Dec and 10 Dec 14",2014-12-09,2014-12-10,54.55,P35_BRIGGS_Jamie.pdf,17
+P35_BROUGH_Mal_8_12,BROUGH_Mal,P35_BROUGH_Mal,"Parking between 7 Jul and 8 Jul 14",2014-07-07,2014-07-08,41.82,P35_BROUGH_Mal.pdf,8
+P35_BROUGH_Mal_8_13,BROUGH_Mal,P35_BROUGH_Mal,"Parking between 13 Jul and 18 Jul 14",2014-07-13,2014-07-18,116.36,P35_BROUGH_Mal.pdf,8
+P35_BROUGH_Mal_8_14,BROUGH_Mal,P35_BROUGH_Mal,"Parking between 26 Oct and 30 Oct 14",2014-10-26,2014-10-30,98.18,P35_BROUGH_Mal.pdf,8
+P35_BROUGH_Mal_8_15,BROUGH_Mal,P35_BROUGH_Mal,"Parking between 23 Nov and 28 Nov 14",2014-11-23,2014-11-28,116.36,P35_BROUGH_Mal.pdf,8
+P35_BUCHHOLZ_Scott_10_19,BUCHHOLZ_Scott,P35_BUCHHOLZ_Scott,"Valet parking Brisbane 7 Jul to 9 Jul 14",2014-07-07,2014-07-09,133.82,P35_BUCHHOLZ_Scott.pdf,10
+P35_CANAVAN_Matthew_14_21,CANAVAN_Matthew,P35_CANAVAN_Matthew,"Parking between 16 Jul and 18 Jul 14",2014-07-16,2014-07-18,60.00,P35_CANAVAN_Matthew.pdf,14
+P35_CANAVAN_Matthew_14_22,CANAVAN_Matthew,P35_CANAVAN_Matthew,"Parking between 1 Aug and 2 Aug 14",2014-08-01,2014-08-02,50.00,P35_CANAVAN_Matthew.pdf,14
+P35_CHALMERS_Jim_10_13,CHALMERS_Jim,P35_CHALMERS_Jim,"Parking between 11 Nov and 13 Nov 14",2014-11-11,2014-11-13,60.00,P35_CHALMERS_Jim.pdf,10
+P35_CHESTERS_Lisa_8_9,CHESTERS_Lisa,P35_CHESTERS_Lisa,"Parking between 17 Nov and 18 Nov 14",2014-11-17,2014-11-18,106.64,P35_CHESTERS_Lisa.pdf,8
+P35_FAWCETT_David_12_33,FAWCETT_David,P35_FAWCETT_David,"Parking between 13 Oct and 14 Oct 14",2014-10-13,2014-10-14,63.64,P35_FAWCETT_David.pdf,12
+P35_FIERRAVANTI-WELLS_Concetta_14_7,FIERRAVANTI-WELLS_Concetta,P35_FIERRAVANTI-WELLS_Concetta,"Parking between 31 Aug and 6 Sep 14",2014-08-31,2014-09-06,218.18,P35_FIERRAVANTI-WELLS_Concetta.pdf,14
+P35_FIFIELD_Mitch_12_29,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 2 Jul and 5 Jul 14",2014-07-02,2014-07-05,166.91,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_12_30,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 19 Aug and 20 Aug 14",2014-08-19,2014-08-20,61.20,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_12_31,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 21 Aug and 24 Aug 14",2014-08-21,2014-08-24,171.55,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_12_32,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 8 Sep and 11 Sep 14",2014-09-08,2014-09-11,171.55,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_12_33,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 12 Sep and 13 Sep 14",2014-09-12,2014-09-13,61.20,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_12_34,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 14 Sep and 16 Sep 14",2014-09-14,2014-09-16,114.05,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_12_35,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 6 Oct and 8 Oct 14",2014-10-06,2014-10-08,114.05,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_12_36,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 9 Oct and 10 Oct 14",2014-10-09,2014-10-10,52.85,P35_FIFIELD_Mitch.pdf,12
+P35_FIFIELD_Mitch_13_10,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 17 Dec and 18 Dec 14",2014-12-17,2014-12-18,61.20,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_13_3,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 11 Oct and 12 Oct 14",2014-10-11,2014-10-12,61.20,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_13_4,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 18 Oct and 19 Oct 14",2014-10-18,2014-10-19,61.20,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_13_5,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 26 Oct and 31 Oct 14",2014-10-26,2014-10-31,132.60,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_13_6,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 5 Nov and 7 Nov 14",2014-11-05,2014-11-07,114.05,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_13_7,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 10 Nov and 15 Nov 14",2014-11-10,2014-11-15,132.60,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_13_8,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 30 Nov and 6 Dec 14",2014-11-30,2014-12-06,132.60,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_13_9,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 9 Dec and 11 Dec 14",2014-12-09,2014-12-11,106.64,P35_FIFIELD_Mitch.pdf,13
+P35_FIFIELD_Mitch_22_18,FIFIELD_Mitch,P35_FIFIELD_Mitch,"Parking between 11 Jun and 12 Jun 14",2014-06-11,2014-06-12,60.27,P35_FIFIELD_Mitch.pdf,22
+P35_FITZGIBBON_Joel_11_11,FITZGIBBON_Joel,P35_FITZGIBBON_Joel,"Parking between 5 Sep and 8 Sep 14",2014-09-05,2014-09-08,207.27,P35_FITZGIBBON_Joel.pdf,11
+P35_FLETCHER_Paul_12_20,FLETCHER_Paul,P35_FLETCHER_Paul,"Parking 11 Oct 14",2014-10-11,0000-00-00,51.82,P35_FLETCHER_Paul.pdf,12
+P35_FLETCHER_Paul_12_21,FLETCHER_Paul,P35_FLETCHER_Paul,"Parking 12 Nov 14",2014-11-12,0000-00-00,40.91,P35_FLETCHER_Paul.pdf,12
+P35_HALL_Jill_8_7,HALL_Jill,P35_HALL_Jill,"Parking between 24 Aug and 29 Aug 14",2014-08-24,2014-08-29,126.36,P35_HALL_Jill.pdf,8
+P35_HALL_Jill_8_8,HALL_Jill,P35_HALL_Jill,"Parking between 31 Aug and 5 Sep 14",2014-08-31,2014-09-05,126.36,P35_HALL_Jill.pdf,8
+P35_HENDERSON_Sarah_8_18,HENDERSON_Sarah,P35_HENDERSON_Sarah,"Parking between 14 Jul and 19 Jul 14",2014-07-14,2014-07-19,132.60,P35_HENDERSON_Sarah.pdf,8
+P35_HENDY_Peter_19_14,HENDY_Peter,P35_HENDY_Peter,"Parking 20 Jun 14",2014-06-20,0000-00-00,25.00,P35_HENDY_Peter.pdf,19
+P35_HENDY_Peter_19_15,HENDY_Peter,P35_HENDY_Peter,"Parking between 27 Jun and 28 Jun 14",2014-06-27,2014-06-28,50.00,P35_HENDY_Peter.pdf,19
+P35_HENDY_Peter_9_26,HENDY_Peter,P35_HENDY_Peter,"Parking 4 Nov 14",2014-11-04,0000-00-00,25.00,P35_HENDY_Peter.pdf,9
+P35_HOGAN_Kevin_8_11,HOGAN_Kevin,P35_HOGAN_Kevin,"Parking between 1 Oct and 2 Oct 14",2014-10-01,2014-10-02,41.82,P35_HOGAN_Kevin.pdf,8
+P35_HUTCHINSON_Eric_9_28,HUTCHINSON_Eric,P35_HUTCHINSON_Eric,"Parking between 17 Nov and 18 Nov 14",2014-11-17,2014-11-18,32.73,P35_HUTCHINSON_Eric.pdf,9
+P35_LEIGH_Andrew_10_16,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 2 Jul and 3 Jul 14",2014-07-02,2014-07-03,50.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_17,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking 5 Aug 14",2014-08-05,0000-00-00,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_18,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking 14 Aug 14",2014-08-14,0000-00-00,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_19,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 20 Aug and 21 Aug 14",2014-08-20,2014-08-21,31.73,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_20,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 22 Aug and 23 Aug 14",2014-08-22,2014-08-23,50.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_21,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 11 Sep and 12 Sep 14",2014-09-11,2014-09-12,50.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_22,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 15 Sep and 18 Sep 14",2014-09-15,2014-09-18,81.73,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_23,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking 7 Oct 14",2014-10-07,0000-00-00,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_24,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 8 Oct and 9 Oct 14",2014-10-08,2014-10-09,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_25,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 10 Oct and 12 Oct 14",2014-10-10,2014-10-12,75.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_26,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 14 Oct and 15 Oct 14",2014-10-14,2014-10-15,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_27,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 4 Nov and 5 Nov 14",2014-11-04,2014-11-05,50.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_28,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking 6 Nov 14",2014-11-06,0000-00-00,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_29,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 8 Nov and 9 Nov 14",2014-11-08,2014-11-09,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_30,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking 12 Nov 14",2014-11-12,0000-00-00,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_31,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking between 13 Nov and 14 Nov 14",2014-11-13,2014-11-14,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_10_32,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking 21 Nov 14",2014-11-21,0000-00-00,25.00,P35_LEIGH_Andrew.pdf,10
+P35_LEIGH_Andrew_21_3,LEIGH_Andrew,P35_LEIGH_Andrew,"Parking 5 Jun 14",2014-06-05,0000-00-00,25.00,P35_LEIGH_Andrew.pdf,21
+P35_MCEWEN_Anne_10_16,MCEWEN_Anne,P35_MCEWEN_Anne,"Parking between 3 Jul and 4 Jul 14",2014-07-03,2014-07-04,45.45,P35_MCEWEN_Anne.pdf,10
+P35_MCEWEN_Anne_10_17,MCEWEN_Anne,P35_MCEWEN_Anne,"Parking between 5 Aug and 6 Aug 14",2014-08-05,2014-08-06,45.45,P35_MCEWEN_Anne.pdf,10
+P35_MOORE_Claire_14_14,MOORE_Claire,P35_MOORE_Claire,"Parking 5 Sep 14",2014-09-05,0000-00-00,67.45,P35_MOORE_Claire.pdf,14
+P35_NASH_Fiona_13_11,NASH_Fiona,P35_NASH_Fiona,"Parking between 8 Oct and 11 Oct 14",2014-10-08,2014-10-11,100.00,P35_NASH_Fiona.pdf,13
+P35_O'CONNOR_Brendan_13_10,O'CONNOR_Brendan,P35_O'CONNOR_Brendan,"Valet parking Melbourne 29 Aug to 29 Aug 14",2014-08-29,2014-08-29,70.18,P35_O'CONNOR_Brendan.pdf,13
+P35_O'CONNOR_Brendan_13_11,O'CONNOR_Brendan,P35_O'CONNOR_Brendan,"Valet parking Melbourne 18 Sep to 19 Sep 14",2014-09-18,2014-09-19,120.18,P35_O'CONNOR_Brendan.pdf,13
+P35_O'CONNOR_Brendan_13_12,O'CONNOR_Brendan,P35_O'CONNOR_Brendan,"Valet parking Melbourne 7 Oct to 7 Oct 14",2014-10-07,2014-10-07,120.18,P35_O'CONNOR_Brendan.pdf,13
+P35_O'CONNOR_Brendan_13_7,O'CONNOR_Brendan,P35_O'CONNOR_Brendan,"Valet parking Melbourne 30 Jul to 31 Jul 14",2014-07-30,2014-07-31,120.18,P35_O'CONNOR_Brendan.pdf,13
+P35_O'CONNOR_Brendan_13_8,O'CONNOR_Brendan,P35_O'CONNOR_Brendan,"Valet parking Melbourne 5 Aug to 6 Aug 14",2014-08-05,2014-08-06,120.18,P35_O'CONNOR_Brendan.pdf,13
+P35_O'CONNOR_Brendan_13_9,O'CONNOR_Brendan,P35_O'CONNOR_Brendan,"Valet parking Melbourne 17 Aug to 18 Aug 14",2014-08-17,2014-08-18,120.18,P35_O'CONNOR_Brendan.pdf,13
+P35_O'SULLIVAN_Barry_23_20,O'SULLIVAN_Barry,P35_O'SULLIVAN_Barry,"Parking between 5 Jun and 6 Jun 14",2014-06-05,2014-06-06,59.64,P35_O'SULLIVAN_Barry.pdf,23
+P35_O'SULLIVAN_Barry_23_21,O'SULLIVAN_Barry,P35_O'SULLIVAN_Barry,"Parking between 22 Jun and 27 Jun 14",2014-06-22,2014-06-27,113.64,P35_O'SULLIVAN_Barry.pdf,23
+P35_O'SULLIVAN_Barry_9_23,O'SULLIVAN_Barry,P35_O'SULLIVAN_Barry,"Parking between 24 Aug and 30 Aug 14",2014-08-24,2014-08-30,120.91,P35_O'SULLIVAN_Barry.pdf,9
+P35_O'SULLIVAN_Barry_9_24,O'SULLIVAN_Barry,P35_O'SULLIVAN_Barry,"Parking between 31 Aug and 5 Sep 14",2014-08-31,2014-09-05,119.09,P35_O'SULLIVAN_Barry.pdf,9
+P35_O'SULLIVAN_Barry_9_25,O'SULLIVAN_Barry,P35_O'SULLIVAN_Barry,"Parking between 21 Sep and 26 Sep 14",2014-09-21,2014-09-26,101.23,P35_O'SULLIVAN_Barry.pdf,9
+P35_O'SULLIVAN_Barry_9_26,O'SULLIVAN_Barry,P35_O'SULLIVAN_Barry,"Parking between 26 Oct and 31 Oct 14",2014-10-26,2014-10-31,113.64,P35_O'SULLIVAN_Barry.pdf,9
+P35_O'SULLIVAN_Barry_9_27,O'SULLIVAN_Barry,P35_O'SULLIVAN_Barry,"Parking between 9 Nov and 11 Nov 14",2014-11-09,2014-11-11,82.73,P35_O'SULLIVAN_Barry.pdf,9
+P35_RISHWORTH_Amanda_11_12,RISHWORTH_Amanda,P35_RISHWORTH_Amanda,"Parking between 31 Jul and 1 Aug 14",2014-07-31,2014-08-01,31.82,P35_RISHWORTH_Amanda.pdf,11
+P35_ROBERT_Stuart_15_3,ROBERT_Stuart,P35_ROBERT_Stuart,"Parking between 14 Sep and 15 Sep 14",2014-09-14,2014-09-15,41.82,P35_ROBERT_Stuart.pdf,15
+P35_ROBERT_Stuart_15_4,ROBERT_Stuart,P35_ROBERT_Stuart,"Parking between 15 Sep and 17 Sep 14",2014-09-15,2014-09-17,51.82,P35_ROBERT_Stuart.pdf,15
+P35_ROBERT_Stuart_15_5,ROBERT_Stuart,P35_ROBERT_Stuart,"Parking between 16 Nov and 18 Nov 14",2014-11-16,2014-11-18,62.73,P35_ROBERT_Stuart.pdf,15
+P35_ROWLAND_Michelle_13_36,ROWLAND_Michelle,P35_ROWLAND_Michelle,"Parking between 26 Oct and 27 Oct 14",2014-10-26,2014-10-27,122.91,P35_ROWLAND_Michelle.pdf,13
+P35_ROY_Wyatt_9_14,ROY_Wyatt,P35_ROY_Wyatt,"Parking 28 Jul 14",2014-07-28,0000-00-00,60.00,P35_ROY_Wyatt.pdf,9
+P35_ROY_Wyatt_9_15,ROY_Wyatt,P35_ROY_Wyatt,"Parking 5 Aug 14",2014-08-05,0000-00-00,41.82,P35_ROY_Wyatt.pdf,9
+P35_ROY_Wyatt_9_16,ROY_Wyatt,P35_ROY_Wyatt,"Parking between 25 Aug and 28 Aug 14",2014-08-25,2014-08-28,125.45,P35_ROY_Wyatt.pdf,9
+P35_ROY_Wyatt_9_17,ROY_Wyatt,P35_ROY_Wyatt,"Parking between 31 Aug and 4 Sep 14",2014-08-31,2014-09-04,116.36,P35_ROY_Wyatt.pdf,9
+P35_TEHAN_Dan_12_13,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 10 Sep and 11 Sep 14",2014-09-10,2014-09-11,58.42,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_14,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 29 Sep and 3 Oct 14",2014-09-29,2014-10-03,132.60,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_15,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 7 Oct and 8 Oct 14",2014-10-07,2014-10-08,106.64,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_16,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 19 Oct and 23 Oct 14",2014-10-19,2014-10-23,132.60,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_17,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 26 Oct and 30 Oct 14",2014-10-26,2014-10-30,132.60,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_18,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 13 Nov and 14 Nov 14",2014-11-13,2014-11-14,106.64,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_19,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 23 Nov and 28 Nov 14",2014-11-23,2014-11-28,138.16,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_20,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 30 Nov and 5 Dec 14",2014-11-30,2014-12-05,132.60,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_12_21,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 16 Dec and 18 Dec 14",2014-12-16,2014-12-18,106.64,P35_TEHAN_Dan.pdf,12
+P35_TEHAN_Dan_26_31,TEHAN_Dan,P35_TEHAN_Dan,"Parking between 15 Jun and 19 Jun 14",2014-06-15,2014-06-19,129.82,P35_TEHAN_Dan.pdf,26
+P35_WATTS_Tim_9_9,WATTS_Tim,P35_WATTS_Tim,"Parking 24 Jul 14",2014-07-24,0000-00-00,30.00,P35_WATTS_Tim.pdf,9
+P35_WICKS_Lucy_7_29,WICKS_Lucy,P35_WICKS_Lucy,"Parking 13 Jul 14",2014-07-13,0000-00-00,14.55,P35_WICKS_Lucy.pdf,7
+P35_WILSON_Rick_10_24,WILSON_Rick,P35_WILSON_Rick,"Parking between 29 Sep and 1 Oct 14",2014-09-29,2014-10-01,98.18,P35_WILSON_Rick.pdf,10
+P35_XENOPHON_Nick_10_29,XENOPHON_Nick,P35_XENOPHON_Nick,"Parking between 1 Jul and 2 Jul 14",2014-07-01,2014-07-02,52.73,P35_XENOPHON_Nick.pdf,10
+P35_XENOPHON_Nick_10_30,XENOPHON_Nick,P35_XENOPHON_Nick,"Parking between 12 Oct and 13 Oct 14",2014-10-12,2014-10-13,53.64,P35_XENOPHON_Nick.pdf,10
+P35_XENOPHON_Nick_10_31,XENOPHON_Nick,P35_XENOPHON_Nick,"Parking 24 Oct 14",2014-10-24,0000-00-00,28.18,P35_XENOPHON_Nick.pdf,10
+P35_XENOPHON_Nick_10_32,XENOPHON_Nick,P35_XENOPHON_Nick,"Parking between 3 Nov and 5 Nov 14",2014-11-03,2014-11-05,63.64,P35_XENOPHON_Nick.pdf,10
